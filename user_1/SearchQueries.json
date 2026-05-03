@@ -1,0 +1,211 @@
+[ {
+  "platform" : "",
+  "searchTime" : "2025-12-05T02:33:52.998Z[UTC]",
+  "searchQuery" : "element thre",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-05T02:33:53.578Z[UTC]",
+  "searchQuery" : "element three",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-15T15:36:40.293Z[UTC]",
+  "searchQuery" : "i t",
+  "searchInteractionURIs" : [ "spotify:track:0myRViRgmQ3J8izICXEAVO", "spotify:track:0myRViRgmQ3J8izICXEAVO" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-15T15:36:50.198Z[UTC]",
+  "searchQuery" : "b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-15T15:36:50.621Z[UTC]",
+  "searchQuery" : "bl",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-15T15:37:18.241Z[UTC]",
+  "searchQuery" : "ble",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-15T15:37:18.244Z[UTC]",
+  "searchQuery" : "bless",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2025-12-15T15:37:18.569Z[UTC]",
+  "searchQuery" : "bles",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2025-12-15T15:37:18.591Z[UTC]",
+  "searchQuery" : "bless ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-15T15:37:18.764Z[UTC]",
+  "searchQuery" : "bless t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-15T15:37:18.770Z[UTC]",
+  "searchQuery" : "bless th",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-15T15:37:18.783Z[UTC]",
+  "searchQuery" : "bless the",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-15T15:37:18.788Z[UTC]",
+  "searchQuery" : "bless the",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-17T01:49:36.010Z[UTC]",
+  "searchQuery" : "supermam",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-17T01:49:37.560Z[UTC]",
+  "searchQuery" : "supermam",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2025-12-17T01:49:48.746Z[UTC]",
+  "searchQuery" : "stR",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-17T01:49:51.430Z[UTC]",
+  "searchQuery" : "stran",
+  "searchInteractionURIs" : [ "spotify:search:stranger+things" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T03:49:54.724Z[UTC]",
+  "searchQuery" : "i.",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T03:49:54.995Z[UTC]",
+  "searchQuery" : "i. e",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-18T03:49:55.010Z[UTC]",
+  "searchQuery" : "i. ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-18T03:50:09.601Z[UTC]",
+  "searchQuery" : "i believe in m",
+  "searchInteractionURIs" : [ "spotify:track:714hERk9U1W8FMYkoC83CO", "spotify:track:714hERk9U1W8FMYkoC83CO" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T03:50:41.896Z[UTC]",
+  "searchQuery" : "j",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-18T03:50:43.257Z[UTC]",
+  "searchQuery" : "jojo",
+  "searchInteractionURIs" : [ "spotify:search:jojo%27s+bizarre+adventure" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-18T03:50:45.388Z[UTC]",
+  "searchQuery" : "jojo's bizarre adventure",
+  "searchInteractionURIs" : [ "spotify:track:5aanhLobXHQ8ODj2LBJ077", "spotify:track:5aanhLobXHQ8ODj2LBJ077" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-26T05:50:54.759Z[UTC]",
+  "searchQuery" : "iwan",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-26T05:50:55.134Z[UTC]",
+  "searchQuery" : "iwan",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-26T05:50:57.964Z[UTC]",
+  "searchQuery" : "i wang ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-26T05:50:58.168Z[UTC]",
+  "searchQuery" : "i wang",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-26T05:51:00.057Z[UTC]",
+  "searchQuery" : "i want ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-26T05:51:00.903Z[UTC]",
+  "searchQuery" : "i want thi",
+  "searchInteractionURIs" : [ "spotify:search:i+want+things+to+be+beautiful" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-26T05:51:02.227Z[UTC]",
+  "searchQuery" : "i want things to be beautiful",
+  "searchInteractionURIs" : [ "spotify:track:6uZm4IvkJPbETKFOjRhr1c" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-02T05:02:15.779Z[UTC]",
+  "searchQuery" : "i sold my",
+  "searchInteractionURIs" : [ "spotify:search:i+sold+my+soul+to+the+devil+for+designer" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-02T05:02:17.361Z[UTC]",
+  "searchQuery" : "i sold my soul to the devil for designer",
+  "searchInteractionURIs" : [ "spotify:track:6ap9lSRJ0iLriGLqoJ44cq", "spotify:track:6ap9lSRJ0iLriGLqoJ44cq", "spotify:track:6ap9lSRJ0iLriGLqoJ44cq" ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-01-13T23:14:42.886Z[UTC]",
+  "searchQuery" : "c",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-13T23:14:45.125Z[UTC]",
+  "searchQuery" : "chgo",
+  "searchInteractionURIs" : [ "spotify:show:6FukE7PGbZveokbP87qZ9T" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-13T23:46:29.649Z[UTC]",
+  "searchQuery" : "chgo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-13T23:46:29.651Z[UTC]",
+  "searchQuery" : "chgo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-13T23:46:29.658Z[UTC]",
+  "searchQuery" : "chgo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-20T12:14:28.989Z[UTC]",
+  "searchQuery" : "podcast on ",
+  "searchInteractionURIs" : [ "spotify:playlist:38he99wNRz1QU6mrOAeyw9" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-20T12:15:31.081Z[UTC]",
+  "searchQuery" : "podcast on sports",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-20T12:15:48.283Z[UTC]",
+  "searchQuery" : "podcast on sports analytics",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-20T12:16:06.867Z[UTC]",
+  "searchQuery" : "podcast on sports analytic",
+  "searchInteractionURIs" : [ ]
+} ]

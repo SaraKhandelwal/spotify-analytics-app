@@ -1,0 +1,17 @@
+{
+  "username": "swaller",
+  "email": "blankenshipdaniel@example.org",
+  "country": "US",
+  "createdFromFacebook": false,
+  "facebookUid": null,
+  "birthdate": "2004-04-05",
+  "gender": "female",
+  "postalCode": null,
+  "mobileNumber": null,
+  "mobileOperator": null,
+  "mobileBrand": null,
+  "creationTime": "2024-01-31",
+  "assuredEstimatedAge": null,
+  "assuredAgeMethod": null,
+  "assuredAgeTimestamp": null
+}

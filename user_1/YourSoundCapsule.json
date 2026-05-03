@@ -1,0 +1,307 @@
+{
+  "stats" : [ {
+    "date" : "2026-02-02",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Bad Decisions",
+      "streamCount" : 2,
+      "secondsPlayed" : 292
+    }, {
+      "name" : "Let It Happen",
+      "streamCount" : 1,
+      "secondsPlayed" : 467
+    }, {
+      "name" : "Undone - The Sweater Song",
+      "streamCount" : 1,
+      "secondsPlayed" : 305
+    }, {
+      "name" : "Take A Slice",
+      "streamCount" : 1,
+      "secondsPlayed" : 229
+    }, {
+      "name" : "Call Me What You Like",
+      "streamCount" : 1,
+      "secondsPlayed" : 226
+    }, {
+      "name" : "Social Cues",
+      "streamCount" : 1,
+      "secondsPlayed" : 219
+    }, {
+      "name" : "Good Looking",
+      "streamCount" : 1,
+      "secondsPlayed" : 214
+    }, {
+      "name" : "Duvet",
+      "streamCount" : 1,
+      "secondsPlayed" : 203
+    }, {
+      "name" : "So Cold",
+      "streamCount" : 1,
+      "secondsPlayed" : 201
+    }, {
+      "name" : "Your Apartment",
+      "streamCount" : 1,
+      "secondsPlayed" : 198
+    } ],
+    "topArtists" : [ {
+      "name" : "Wallows",
+      "streamCount" : 2,
+      "secondsPlayed" : 385
+    }, {
+      "name" : "The Strokes",
+      "streamCount" : 2,
+      "secondsPlayed" : 292
+    }, {
+      "name" : "Tame Impala",
+      "streamCount" : 1,
+      "secondsPlayed" : 467
+    }, {
+      "name" : "Weezer",
+      "streamCount" : 1,
+      "secondsPlayed" : 305
+    }, {
+      "name" : "Glass Animals",
+      "streamCount" : 1,
+      "secondsPlayed" : 229
+    }, {
+      "name" : "Lovejoy",
+      "streamCount" : 1,
+      "secondsPlayed" : 226
+    }, {
+      "name" : "Cage The Elephant",
+      "streamCount" : 1,
+      "secondsPlayed" : 219
+    }, {
+      "name" : "Suki Waterhouse",
+      "streamCount" : 1,
+      "secondsPlayed" : 214
+    }, {
+      "name" : "bôa",
+      "streamCount" : 1,
+      "secondsPlayed" : 203
+    }, {
+      "name" : "Balu Brigada",
+      "streamCount" : 1,
+      "secondsPlayed" : 201
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-26",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Little Dark Age",
+      "streamCount" : 2,
+      "secondsPlayed" : 299
+    }, {
+      "name" : "Texas Sun",
+      "streamCount" : 1,
+      "secondsPlayed" : 252
+    }, {
+      "name" : "I Can't Handle Change",
+      "streamCount" : 1,
+      "secondsPlayed" : 198
+    }, {
+      "name" : "Oh Klahoma",
+      "streamCount" : 1,
+      "secondsPlayed" : 185
+    }, {
+      "name" : "Deceptacon",
+      "streamCount" : 1,
+      "secondsPlayed" : 184
+    }, {
+      "name" : "Are You Bored Yet? (feat. Clairo)",
+      "streamCount" : 1,
+      "secondsPlayed" : 178
+    }, {
+      "name" : "Shut up My Moms Calling",
+      "streamCount" : 1,
+      "secondsPlayed" : 164
+    }, {
+      "name" : "Bad Habit",
+      "streamCount" : 1,
+      "secondsPlayed" : 100
+    }, {
+      "name" : "Tongue Tied",
+      "streamCount" : 1,
+      "secondsPlayed" : 218
+    }, {
+      "name" : "Hell N Back",
+      "streamCount" : 1,
+      "secondsPlayed" : 213
+    } ],
+    "topArtists" : [ {
+      "name" : "MGMT",
+      "streamCount" : 2,
+      "secondsPlayed" : 299
+    }, {
+      "name" : "Khruangbin",
+      "streamCount" : 1,
+      "secondsPlayed" : 252
+    }, {
+      "name" : "GROUPLOVE",
+      "streamCount" : 1,
+      "secondsPlayed" : 218
+    }, {
+      "name" : "Bakar",
+      "streamCount" : 1,
+      "secondsPlayed" : 213
+    }, {
+      "name" : "Roar",
+      "streamCount" : 1,
+      "secondsPlayed" : 198
+    }, {
+      "name" : "Jack Stauber",
+      "streamCount" : 1,
+      "secondsPlayed" : 185
+    }, {
+      "name" : "Le Tigre",
+      "streamCount" : 1,
+      "secondsPlayed" : 184
+    }, {
+      "name" : "Wallows",
+      "streamCount" : 1,
+      "secondsPlayed" : 178
+    }, {
+      "name" : "Hotel Ugly",
+      "streamCount" : 1,
+      "secondsPlayed" : 164
+    }, {
+      "name" : "JAWNY",
+      "streamCount" : 1,
+      "secondsPlayed" : 135
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-19",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Radio",
+      "streamCount" : 2,
+      "secondsPlayed" : 402
+    }, {
+      "name" : "End of Beginning",
+      "streamCount" : 2,
+      "secondsPlayed" : 318
+    }, {
+      "name" : "Gold - 2003 Remaster",
+      "streamCount" : 2,
+      "secondsPlayed" : 230
+    }, {
+      "name" : "Heart To Heart",
+      "streamCount" : 2,
+      "secondsPlayed" : 210
+    }, {
+      "name" : "The Adults Are Talking",
+      "streamCount" : 1,
+      "secondsPlayed" : 309
+    }, {
+      "name" : "Little Dark Age",
+      "streamCount" : 1,
+      "secondsPlayed" : 258
+    }, {
+      "name" : "Always Forever",
+      "streamCount" : 1,
+      "secondsPlayed" : 223
+    }, {
+      "name" : "Show Me How",
+      "streamCount" : 1,
+      "secondsPlayed" : 215
+    }, {
+      "name" : "Lovers Rock",
+      "streamCount" : 1,
+      "secondsPlayed" : 213
+    }, {
+      "name" : "Taking What's Not Yours",
+      "streamCount" : 1,
+      "secondsPlayed" : 205
+    } ],
+    "topArtists" : [ {
+      "name" : "Mac DeMarco",
+      "streamCount" : 3,
+      "secondsPlayed" : 392
+    }, {
+      "name" : "TV Girl",
+      "streamCount" : 2,
+      "secondsPlayed" : 418
+    }, {
+      "name" : "Bershy",
+      "streamCount" : 2,
+      "secondsPlayed" : 402
+    }, {
+      "name" : "Djo",
+      "streamCount" : 2,
+      "secondsPlayed" : 318
+    }, {
+      "name" : "Spandau Ballet",
+      "streamCount" : 2,
+      "secondsPlayed" : 230
+    }, {
+      "name" : "The Strokes",
+      "streamCount" : 1,
+      "secondsPlayed" : 309
+    }, {
+      "name" : "MGMT",
+      "streamCount" : 1,
+      "secondsPlayed" : 258
+    }, {
+      "name" : "Cults",
+      "streamCount" : 1,
+      "secondsPlayed" : 223
+    }, {
+      "name" : "Men I Trust",
+      "streamCount" : 1,
+      "secondsPlayed" : 215
+    }, {
+      "name" : "Noah Floersch",
+      "streamCount" : 1,
+      "secondsPlayed" : 201
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-01-25",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "The Cycle",
+      "listeningPercentage" : 99.70219102318656
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1DXb9izPIc0SCS",
+      "listeningPercentage" : 45.536164632301016
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "The Cycle",
+      "listeningPercentage" : 74.79177511712649
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1DXb9izPIc0SCS",
+      "listeningPercentage" : 99.62068965517241
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1DXb9izPIc0SCS",
+      "listeningPercentage" : 66.75381263616558
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "The Cycle",
+      "listeningPercentage" : 96.5480043149946
+    }
+  } ]
+}
