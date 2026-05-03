@@ -1,0 +1,17 @@
+{
+  "username": "david09",
+  "email": "brentsimmons@example.org",
+  "country": "US",
+  "createdFromFacebook": true,
+  "facebookUid": "801345389409751",
+  "birthdate": "2001-02-02",
+  "gender": "non-binary",
+  "postalCode": null,
+  "mobileNumber": null,
+  "mobileOperator": null,
+  "mobileBrand": null,
+  "creationTime": "2013-06-10",
+  "assuredEstimatedAge": null,
+  "assuredAgeMethod": null,
+  "assuredAgeTimestamp": null
+}

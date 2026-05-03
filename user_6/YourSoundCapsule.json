@@ -1,0 +1,426 @@
+{
+  "stats" : [ {
+    "date" : "2026-02-02",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "All The Signs (feat. Teezo Touchdown)",
+      "streamCount" : 5,
+      "secondsPlayed" : 796
+    }, {
+      "name" : "OPPOSITE",
+      "streamCount" : 5,
+      "secondsPlayed" : 597
+    }, {
+      "name" : "Long Way To Calabasas",
+      "streamCount" : 5,
+      "secondsPlayed" : 491
+    }, {
+      "name" : "DtMF",
+      "streamCount" : 4,
+      "secondsPlayed" : 877
+    }, {
+      "name" : "Sweet Home",
+      "streamCount" : 4,
+      "secondsPlayed" : 802
+    }, {
+      "name" : "Rosary (feat. Travis Scott)",
+      "streamCount" : 4,
+      "secondsPlayed" : 772
+    }, {
+      "name" : "TMU",
+      "streamCount" : 4,
+      "secondsPlayed" : 716
+    }, {
+      "name" : "ATM",
+      "streamCount" : 4,
+      "secondsPlayed" : 706
+    }, {
+      "name" : "Pleasure’s Mine",
+      "streamCount" : 4,
+      "secondsPlayed" : 705
+    }, {
+      "name" : "Tuition",
+      "streamCount" : 4,
+      "secondsPlayed" : 621
+    } ],
+    "topArtists" : [ {
+      "name" : "Don Toliver",
+      "streamCount" : 72,
+      "secondsPlayed" : 11140
+    }, {
+      "name" : "A$AP Rocky",
+      "streamCount" : 30,
+      "secondsPlayed" : 6005
+    }, {
+      "name" : "Bad Bunny",
+      "streamCount" : 7,
+      "secondsPlayed" : 1153
+    }, {
+      "name" : "Olivia Dean",
+      "streamCount" : 6,
+      "secondsPlayed" : 999
+    }, {
+      "name" : "Lithe",
+      "streamCount" : 6,
+      "secondsPlayed" : 1071
+    }, {
+      "name" : "Daniel Caesar",
+      "streamCount" : 4,
+      "secondsPlayed" : 722
+    }, {
+      "name" : "Gunna",
+      "streamCount" : 4,
+      "secondsPlayed" : 590
+    }, {
+      "name" : "Summer Walker",
+      "streamCount" : 4,
+      "secondsPlayed" : 497
+    }, {
+      "name" : "Doechii",
+      "streamCount" : 4,
+      "secondsPlayed" : 724
+    }, {
+      "name" : "Ty Dolla $ign",
+      "streamCount" : 4,
+      "secondsPlayed" : 643
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-26",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Rendezvous (feat. Yeat)",
+      "streamCount" : 6,
+      "secondsPlayed" : 615
+    }, {
+      "name" : "Secondhand (feat. Rema)",
+      "streamCount" : 5,
+      "secondsPlayed" : 1099
+    }, {
+      "name" : "E85",
+      "streamCount" : 5,
+      "secondsPlayed" : 647
+    }, {
+      "name" : "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
+      "streamCount" : 5,
+      "secondsPlayed" : 1454
+    }, {
+      "name" : "ATM",
+      "streamCount" : 4,
+      "secondsPlayed" : 659
+    }, {
+      "name" : "Body",
+      "streamCount" : 4,
+      "secondsPlayed" : 618
+    }, {
+      "name" : "Tiramisu",
+      "streamCount" : 4,
+      "secondsPlayed" : 551
+    }, {
+      "name" : "All The Signs (feat. Teezo Touchdown)",
+      "streamCount" : 4,
+      "secondsPlayed" : 519
+    }, {
+      "name" : "NO TRESPASSING",
+      "streamCount" : 4,
+      "secondsPlayed" : 462
+    }, {
+      "name" : "PLAYA",
+      "streamCount" : 3,
+      "secondsPlayed" : 678
+    } ],
+    "topArtists" : [ {
+      "name" : "Don Toliver",
+      "streamCount" : 67,
+      "secondsPlayed" : 10285
+    }, {
+      "name" : "BTS",
+      "streamCount" : 38,
+      "secondsPlayed" : 8251
+    }, {
+      "name" : "A$AP Rocky",
+      "streamCount" : 27,
+      "secondsPlayed" : 4963
+    }, {
+      "name" : "PinkPantheress",
+      "streamCount" : 7,
+      "secondsPlayed" : 1082
+    }, {
+      "name" : "The Weeknd",
+      "streamCount" : 5,
+      "secondsPlayed" : 1102
+    }, {
+      "name" : "Future",
+      "streamCount" : 5,
+      "secondsPlayed" : 863
+    }, {
+      "name" : "Beyoncé",
+      "streamCount" : 3,
+      "secondsPlayed" : 617
+    }, {
+      "name" : "Kali Uchis",
+      "streamCount" : 3,
+      "secondsPlayed" : 612
+    }, {
+      "name" : "Bruno Mars",
+      "streamCount" : 3,
+      "secondsPlayed" : 524
+    }, {
+      "name" : "Miguel",
+      "streamCount" : 3,
+      "secondsPlayed" : 495
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-19",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Moonwalkin'",
+      "streamCount" : 4,
+      "secondsPlayed" : 502
+    }, {
+      "name" : "Bad (feat. Rihanna) - Remix",
+      "streamCount" : 2,
+      "secondsPlayed" : 477
+    }, {
+      "name" : "Danger",
+      "streamCount" : 2,
+      "secondsPlayed" : 274
+    }, {
+      "name" : "Magic Shop",
+      "streamCount" : 2,
+      "secondsPlayed" : 274
+    }, {
+      "name" : "Could You Turn off Your Cell Phone",
+      "streamCount" : 2,
+      "secondsPlayed" : 232
+    }, {
+      "name" : "Best Of Me",
+      "streamCount" : 2,
+      "secondsPlayed" : 226
+    }, {
+      "name" : "I Need U",
+      "streamCount" : 2,
+      "secondsPlayed" : 209
+    }, {
+      "name" : "So 4 more",
+      "streamCount" : 2,
+      "secondsPlayed" : 203
+    }, {
+      "name" : "Friends",
+      "streamCount" : 2,
+      "secondsPlayed" : 198
+    }, {
+      "name" : "Serendipity (Full Length Edition)",
+      "streamCount" : 2,
+      "secondsPlayed" : 196
+    } ],
+    "topArtists" : [ {
+      "name" : "BTS",
+      "streamCount" : 97,
+      "secondsPlayed" : 18599
+    }, {
+      "name" : "Daniel Caesar",
+      "streamCount" : 12,
+      "secondsPlayed" : 2298
+    }, {
+      "name" : "Mariah the Scientist",
+      "streamCount" : 4,
+      "secondsPlayed" : 662
+    }, {
+      "name" : "LNGSHOT",
+      "streamCount" : 4,
+      "secondsPlayed" : 502
+    }, {
+      "name" : "aespa",
+      "streamCount" : 4,
+      "secondsPlayed" : 463
+    }, {
+      "name" : "Michael Jackson",
+      "streamCount" : 2,
+      "secondsPlayed" : 503
+    }, {
+      "name" : "Wale",
+      "streamCount" : 2,
+      "secondsPlayed" : 477
+    }, {
+      "name" : "The Weeknd",
+      "streamCount" : 2,
+      "secondsPlayed" : 443
+    }, {
+      "name" : "Kali Uchis",
+      "streamCount" : 2,
+      "secondsPlayed" : 391
+    }, {
+      "name" : "Muni Long",
+      "streamCount" : 2,
+      "secondsPlayed" : 238
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-02-08",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "OPPOSITE",
+      "streamCount" : 5
+    }
+  }, {
+    "date" : "2026-02-01",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Don Toliver",
+      "country" : "US",
+      "secondsPlayed" : 10285,
+      "marketAvgSecondsPlayed" : 1381.051
+    }
+  }, {
+    "date" : "2026-01-25",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "BTS",
+      "milestoneListeningSeconds" : 18599
+    }
+  }, {
+    "date" : "2026-01-18",
+    "highlightType" : "FANS_LIKE_YOU",
+    "fansLikeYouHighlight" : {
+      "entity" : "I Just Might",
+      "country" : "US",
+      "position" : 2,
+      "previousPosition" : -1,
+      "numberOfListeners" : 4460044
+    }
+  }, {
+    "date" : "2026-01-11",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "I Just Might",
+      "dayStreaks" : 3
+    }
+  }, {
+    "date" : "2026-01-04",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1EJxnEKRqe4HuC",
+      "listeningPercentage" : 31.151491468021362
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Mariah the Scientist",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",
+      "streamCount" : 5
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Kali Uchis",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Original Broadway Cast of Hamilton", "Lin-Manuel Miranda", "Mariah the Scientist", "For Good", "Little Miss", "United Nations + 1000 Ways to Die", "Burning Blue", "Ruined Me", "Nightcrawler (feat. Swae Lee & Chief Keef)" ],
+      "milestoneListeningSeconds" : 50708
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Little Miss",
+      "streamCount" : 7
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Ariana Grande",
+      "country" : "US",
+      "secondsPlayed" : 5781,
+      "marketAvgSecondsPlayed" : 1051.6315
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Tate McRae",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Rich Amiri",
+      "secondEntity" : "Sharon D. Clarke"
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Who Lives, Who Dies, Who Tells Your Story",
+      "streamCount" : 7
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Olivia Dean",
+      "country" : "US",
+      "secondsPlayed" : 9525,
+      "marketAvgSecondsPlayed" : 1182.5853
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "FANS_LIKE_YOU",
+    "fansLikeYouHighlight" : {
+      "entity" : "Man I Need",
+      "country" : "US",
+      "position" : 14,
+      "previousPosition" : 16,
+      "numberOfListeners" : 3357756
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "JID", "Don Toliver", "Zara Larsson", "Defying Gravity", "Of Blue (with Mereba)", "Dracula", "What We On (with Don Toliver)", "K-Word (with Pastor Troy)", "FaSHioN" ],
+      "milestoneListeningSeconds" : 39203
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Doja Cat",
+      "dayStreaks" : 6
+    }
+  }, {
+    "date" : "2025-09-28",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1EVJHK7Q1TBABQ",
+      "listeningPercentage" : 34.70713633133692
+    }
+  }, {
+    "date" : "2025-09-21",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "sombr",
+      "country" : "US",
+      "secondsPlayed" : 6425,
+      "marketAvgSecondsPlayed" : 648.48267
+    }
+  } ]
+}

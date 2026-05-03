@@ -1,0 +1,19 @@
+{
+  "festivalId" : "govball2026",
+  "userId" : "ccc4dd0309d94f779b9a2aaae0d04224",
+  "totalArtistsMatched" : 20,
+  "userLineupMatchPercentile" : 8,
+  "festivalPersona" : "WRISTBAND VETERAN",
+  "topArtists" : [ {
+    "name" : "Kali Uchis"
+  }, {
+    "name" : "JENNIE"
+  }, {
+    "name" : "Stray Kids"
+  }, {
+    "name" : "Ravyn Lenae"
+  }, {
+    "name" : "A$AP Rocky"
+  } ],
+  "topDiscoveryArtists" : [ ]
+}
