@@ -1,0 +1,19 @@
+{
+  "festivalId" : "govball2026",
+  "userId" : "a3a67cd643654388a60a68545189f556",
+  "totalArtistsMatched" : 8,
+  "userLineupMatchPercentile" : 62,
+  "festivalPersona" : "THE CROWD FAVORITE",
+  "topArtists" : [ {
+    "name" : "A$AP Rocky"
+  }, {
+    "name" : "Kali Uchis"
+  }, {
+    "name" : "Baby Keem"
+  }, {
+    "name" : "Lorde"
+  }, {
+    "name" : "Mariah the Scientist"
+  } ],
+  "topDiscoveryArtists" : [ ]
+}

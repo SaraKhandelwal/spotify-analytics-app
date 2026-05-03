@@ -1,0 +1,17 @@
+{
+  "username": "esharp",
+  "email": "moranronald@example.org",
+  "country": "US",
+  "createdFromFacebook": true,
+  "facebookUid": "805005965463943",
+  "birthdate": "1998-05-19",
+  "gender": "female",
+  "postalCode": null,
+  "mobileNumber": null,
+  "mobileOperator": null,
+  "mobileBrand": null,
+  "creationTime": "2015-06-04",
+  "assuredEstimatedAge": null,
+  "assuredAgeMethod": null,
+  "assuredAgeTimestamp": null
+}

@@ -1,0 +1,17 @@
+{
+  "username": "thomasmccormick",
+  "email": "shawnellis@example.net",
+  "country": "US",
+  "createdFromFacebook": false,
+  "facebookUid": "082843672984026",
+  "birthdate": "2002-01-04",
+  "gender": "female",
+  "postalCode": null,
+  "mobileNumber": null,
+  "mobileOperator": null,
+  "mobileBrand": null,
+  "creationTime": "2022-08-17",
+  "assuredEstimatedAge": null,
+  "assuredAgeMethod": null,
+  "assuredAgeTimestamp": null
+}

@@ -1,0 +1,390 @@
+{
+  "topArtists" : {
+    "topArtistUris" : [ "spotify:artist:4zCH9qm4R2DADamUHMCa6O", "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY", "spotify:artist:3gBZUcNeVumkeeJ19CY2sX", "spotify:artist:3TVXtAsR1Inumwj472S9r4", "spotify:artist:3qiHUAX7zY4Qnjx8TNUzVx" ],
+    "numUniqueArtists" : 1628,
+    "topNPercentileFan" : 0.006474765,
+    "topArtistMsPlayed" : 134737135
+  },
+  "topPodcasts" : {
+    "topPodcastsUri" : [ ],
+    "totalPodcastMilliseconds" : 7825574
+  },
+  "topTracks" : {
+    "topTracks" : [ {
+      "trackUri" : "spotify:track:5XhurUCCVimKqszDzNXxoh",
+      "count" : 75,
+      "msPlayed" : 23246650
+    }, {
+      "trackUri" : "spotify:track:0HTIrbUwwFn984RzVZm5Fk",
+      "count" : 54,
+      "msPlayed" : 5455440
+    }, {
+      "trackUri" : "spotify:track:4ipcv9eHC6w5xKXxX0Z1Zu",
+      "count" : 50,
+      "msPlayed" : 10129796
+    }, {
+      "trackUri" : "spotify:track:4QROxOGtSMviE3NydK7Hpo",
+      "count" : 48,
+      "msPlayed" : 12095300
+    }, {
+      "trackUri" : "spotify:track:28rtWBDUGP8JLEuJ57cwdv",
+      "count" : 48,
+      "msPlayed" : 9621640
+    } ],
+    "numUniqueTracks" : 3213
+  },
+  "yearlyMetrics" : {
+    "totalMsListened" : 2102075393
+  },
+  "topAlbums" : {
+    "topAlbums" : [ "spotify:album:3tIS7SDlvbyJ0oFQzNqjco", "spotify:album:58eNU0JJvtAWAg9KUZ9Ghf", "spotify:album:0HS8aknH0JQdMIiBVhyOCW", "spotify:album:4EURMuWFiLLRmQYoH5cgiE", "spotify:album:70CmTAk7pocCYr4lwuDtOc" ],
+    "numCompletedAlbums" : 25,
+    "topAlbumTimePlayed" : 365
+  },
+  "topGenres" : {
+    "topGenres" : [ "spotify:concept:1F8T8XLbH93QsW2CcsCeM9", "spotify:concept:5IDQLhWEPh9unI7UHrVAvF", "spotify:concept:5LKlBYJkou5J93ABR6OrSz", "spotify:concept:24pGOSaKeoU6bobuwqnMbJ", "spotify:concept:5DID7z7Hwll0OLv2A8AIzh" ],
+    "totalNumGenres" : 236
+  },
+  "clubs" : {
+    "userClub" : "FULL_CHARGE_CREW",
+    "percentInClub" : 0.20449942,
+    "role" : "RECRUITER",
+    "artists" : [ "spotify:artist:4zCH9qm4R2DADamUHMCa6O", "spotify:artist:3qiHUAX7zY4Qnjx8TNUzVx", "spotify:artist:699OTQXzgjhIYAHMy9RyPD", "spotify:artist:2q1LRGJHpFxovU8Tz6OgRn", "spotify:artist:7rVV9d6vc4FLT752uRuk71", "spotify:artist:3bsrlEbnX8sWwXlTe80RSr" ]
+  },
+  "listeningAge" : {
+    "listeningAge" : 23,
+    "windowStartYear" : 2010,
+    "decadePhase" : "late"
+  },
+  "party" : {
+    "avgTrackPopularityScore" : 0.6214472055435181,
+    "numSharesAllContent" : 75,
+    "percentMusicSkips" : 33.12644958496094,
+    "numListenedAlbums" : 25,
+    "multilinguistRankingScore" : 8.434465357314048,
+    "weightedMsAvgTempo" : 126.57260481930868,
+    "percentListenedExplicit" : 64.43888366391565,
+    "absoluteChaosRankingScore" : 236.0,
+    "topArtistUris" : [ "spotify:artist:4zCH9qm4R2DADamUHMCa6O", "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY", "spotify:artist:3gBZUcNeVumkeeJ19CY2sX", "spotify:artist:3TVXtAsR1Inumwj472S9r4", "spotify:artist:3qiHUAX7zY4Qnjx8TNUzVx", "spotify:artist:4O15NlyKLIASxsJ0PrXPfz", "spotify:artist:699OTQXzgjhIYAHMy9RyPD", "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i", "spotify:artist:4Ga1P7PMIsmqEZqhYZQgDo", "spotify:artist:5f7VJjfbwm532GiveGC0ZK", "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp", "spotify:artist:4Gso3d4CscCijv0lmajZWs", "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ", "spotify:artist:1HPW4jeRjXBFRoUnSvBzoD", "spotify:artist:1URnnhqYAYcrqrcwql10ft", "spotify:artist:2HPaUgqeutzr3jx5a9WyDV", "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ", "spotify:artist:7rkW85dBwwrJtlHRDkJDAC", "spotify:artist:6LEG9Ld1aLImEFEVHdWNSB", "spotify:artist:50co4Is1HCEo8bhOyUWKpn", "spotify:artist:0Njy6yR9LykNKYg9yE23QN", "spotify:artist:2q1LRGJHpFxovU8Tz6OgRn", "spotify:artist:5tQMB0cuNXdCtzovGt55uD", "spotify:artist:4MCBfE4596Uoi2O4DtmEMz", "spotify:artist:0VRj0yCOv2FXJNP47XQnx5", "spotify:artist:6oMuImdp5ZcFhWP0ESe6mG", "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax", "spotify:artist:0eDvMgVFoNV3TpwtrVCoTj", "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x", "spotify:artist:15iVAtD3s3FsQR4w1v6M0P", "spotify:artist:4M5b70A8aORXdyJVjRJ8du", "spotify:artist:2FKWNmZWDBZR4dE5KX4plR", "spotify:artist:2LakckgvXEtJlKOYP6BO11", "spotify:artist:5SXuuuRpukkTvsLuUknva1", "spotify:artist:1SyKki7JI1AZNKwgNMkn25", "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF", "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg", "spotify:artist:2FgHPfRprDaylrSRVf1UlN", "spotify:artist:2ojqsY1ycYzZOpLDBBwHPU", "spotify:artist:2F3KtUVtrt2GLjcl6pB4cz", "spotify:artist:06HL4z0CvFAxyc27GXpf02", "spotify:artist:1yzwPGlvrRLlhYkCRYde5z", "spotify:artist:5VVN3xZw1i2qihfITZlvCZ", "spotify:artist:31W5EY0aAly4Qieq6OFu6I", "spotify:artist:13ubrt8QOOCPljQ2FL1Kca", "spotify:artist:7rVV9d6vc4FLT752uRuk71", "spotify:artist:0QHgL1lAIqAw0HtD7YldmP", "spotify:artist:5FVBduYaeVBb6JIghza7v6", "spotify:artist:7qjJw7ZM2ekDSahLXPjIlN", "spotify:artist:55Aa2cqylxrFIXC767Z865" ],
+    "percentListenedNight" : 42.96582403452956,
+    "percentListenedTopArtist" : 6.54,
+    "topArtistUri" : "spotify:artist:4zCH9qm4R2DADamUHMCa6O",
+    "totalNumListeningMinutes" : 35035,
+    "totalNumListeningDays" : 308,
+    "streakNumListeningDays" : 108,
+    "numArtistsDiscovered" : 237,
+    "artistsDiscovered" : [ "spotify:artist:0dORxhJHIr5ehACbbSlNDc", "spotify:artist:0kP3WlP2MqrLwFxymnOPZc", "spotify:artist:0m7V5e0K5bJpXbU7A1J2te", "spotify:artist:0nh5cRtt03SU6LhzhVC5fv", "spotify:artist:0nnBZ8FXWjG9wZgM2cpfeb", "spotify:artist:0odePzRcBWwUPedd41o0Ch", "spotify:artist:0qc4BFxcwRFZfevTck4fOi", "spotify:artist:0rxqySAJPQZJ2SJMBfTGyG", "spotify:artist:0tluFVpifIuT5slS3M1yTi", "spotify:artist:0uDPsI6YzKCrU5RvQ3LDlA", "spotify:artist:0uOUeC51AxGnP6hB8gurwt", "spotify:artist:0x3buhAJLe87HH2dfhZKgj", "spotify:artist:0yknvLWQZxwsMjhUhwWZQ8", "spotify:artist:0AWYFpUfZxzxKUgN5k0GrQ", "spotify:artist:0Eb38FY9vOjiRA10iXPGHI", "spotify:artist:0EyhkwP3UnwGFBy6xwKjSy", "spotify:artist:0ECwFtbIWEVNwjlrfc6xoL", "spotify:artist:0HxX6imltnNXJyQhu4nsiO", "spotify:artist:0Je74SitssvJg1w4Ra2EK7", "spotify:artist:0LfYS5XL6wwazQX69KQan1", "spotify:artist:0QOP5VL6UOJIz4GlbWL3rk", "spotify:artist:0RF9eB6z2LvrSt89iswOH1", "spotify:artist:0RKAtzzwqFICIFLTCTTHDN", "spotify:artist:0Suv0tRrNrUlRzAy8aXjma", "spotify:artist:0SQOZEZbXWFNzGUcOQ5hwJ", "spotify:artist:0UB4g3D32TerSb9jI0SogD", "spotify:artist:0V5bkwV2Bd90bMLMc8JFeS", "spotify:artist:0VtIS78kBS5NgzdO3z1MKo", "spotify:artist:0XbjuxBpH7kCirEEJ0OEz2", "spotify:artist:0XfguwtX2k7wn8cJvkdjT9", "spotify:artist:12GqGscKJx3aE4t07u7eVZ", "spotify:artist:16eXn6niv96hqDHgmK6E1M", "spotify:artist:17jxGls4bWRgnJDqiEJbZN", "spotify:artist:17sqXGyzWdEnRqNFWefkVh", "spotify:artist:17SY5q1CMOZJBRuPcKWwPI", "spotify:artist:1aimbtUjMQ9GzVo95GLMpm", "spotify:artist:1aXtuiimQwgW8Xqztgp4Kf", "spotify:artist:1jnYex347Mx1pD9r6JtNhO", "spotify:artist:1k0BkkbwTGZGBqrNWwuucL", "spotify:artist:1lyS8iPVj74pcNMcsnPshl", "spotify:artist:1m9rpvDVv7rftegCQDIESg", "spotify:artist:1nhQOYji5l5jrGliSvMvc6", "spotify:artist:1uLYUm2A6kpFYAECfAFoH1", "spotify:artist:1xgl9yxqIVq8PEEMai38uV", "spotify:artist:1yqxFtPHKcGcv6SXZNdyT9", "spotify:artist:1CoZyIx7UvdxT5c8UkMzHd", "spotify:artist:1DEVUybUdaNx5xCgfRxs59", "spotify:artist:1ErECAI9eglssdmQo3muII", "spotify:artist:1FEySwQQdOGrFqQ9RitPTX", "spotify:artist:1GbIkmv5H1Ok9Vo2UbDLuE" ],
+    "percentAngryTracks" : 21.466481685638428,
+    "percentPartyTracks" : 56.337566571077424,
+    "percentKidsTracks" : 18.26300696435887,
+    "trackStreams" : [ {
+      "track_uri" : "spotify:track:01MmdZM0qTNjxOpdMEEuPG"
+    }, {
+      "track_uri" : "spotify:track:3TUmyokUBvwUsPnVuwEM7B"
+    }, {
+      "track_uri" : "spotify:track:1TDsLMTsUHbZIPvvE1cWTh"
+    } ]
+  },
+  "topArtistRace" : {
+    "topArtists" : [ {
+      "artistUri" : "spotify:artist:3gBZUcNeVumkeeJ19CY2sX",
+      "monthsStats" : [ {
+        "rank" : 1,
+        "month" : "JANUARY",
+        "trailSize" : "VERY_HIGH"
+      }, {
+        "rank" : 2,
+        "month" : "FEBRUARY",
+        "trailSize" : "LOW"
+      }, {
+        "rank" : 2,
+        "month" : "MARCH",
+        "trailSize" : "VERY_HIGH"
+      }, {
+        "rank" : 2,
+        "month" : "APRIL",
+        "trailSize" : "VERY_HIGH"
+      }, {
+        "rank" : 2,
+        "month" : "MAY",
+        "trailSize" : "VERY_HIGH"
+      }, {
+        "rank" : 2,
+        "month" : "JUNE",
+        "trailSize" : "HIGH"
+      }, {
+        "rank" : 2,
+        "month" : "JULY",
+        "trailSize" : "MEDIUM"
+      }, {
+        "rank" : 2,
+        "month" : "AUGUST",
+        "trailSize" : "MEDIUM"
+      }, {
+        "rank" : 3,
+        "month" : "SEPTEMBER",
+        "trailSize" : "HIGH"
+      }, {
+        "rank" : 3,
+        "month" : "OCTOBER",
+        "trailSize" : "HIGH"
+      }, {
+        "rank" : 3,
+        "month" : "NOVEMBER",
+        "trailSize" : "MEDIUM"
+      } ]
+    }, {
+      "artistUri" : "spotify:artist:3qiHUAX7zY4Qnjx8TNUzVx",
+      "monthsStats" : [ {
+        "rank" : 5,
+        "month" : "JANUARY",
+        "trailSize" : "LOW"
+      }, {
+        "rank" : 5,
+        "month" : "FEBRUARY",
+        "trailSize" : "MEDIUM"
+      }, {
+        "rank" : 5,
+        "month" : "MARCH",
+        "trailSize" : "VERY_HIGH"
+      }, {
+        "rank" : 5,
+        "month" : "APRIL",
+        "trailSize" : "LOW"
+      }, {
+        "rank" : 5,
+        "month" : "MAY",
+        "trailSize" : "HIGH"
+      }, {
+        "rank" : 5,
+        "month" : "JUNE",
+        "trailSize" : "HIGH"
+      }, {
+        "rank" : 5,
+        "month" : "JULY",
+        "trailSize" : "LOW"
+      }, {
+        "rank" : 5,
+        "month" : "AUGUST",
+        "trailSize" : "HIGH"
+      }, {
+        "rank" : 5,
+        "month" : "SEPTEMBER",
+        "trailSize" : "HIGH"
+      }, {
+        "rank" : 5,
+        "month" : "OCTOBER",
+        "trailSize" : "MEDIUM"
+      }, {
+        "rank" : 5,
+        "month" : "NOVEMBER",
+        "trailSize" : "LOW"
+      } ]
+    }, {
+      "artistUri" : "spotify:artist:3TVXtAsR1Inumwj472S9r4",
+      "monthsStats" : [ {
+        "rank" : 4,
+        "month" : "JANUARY",
+        "trailSize" : "MEDIUM"
+      }, {
+        "rank" : 4,
+        "month" : "FEBRUARY",
+        "trailSize" : "MEDIUM"
+      }, {
+        "rank" : 4,
+        "month" : "MARCH",
+        "trailSize" : "VERY_HIGH"
+      }, {
+        "rank" : 3,
+        "month" : "APRIL",
+        "trailSize" : "MEDIUM"
+      }, {
+        "rank" : 3,
+        "month" : "MAY",
+        "trailSize" : "VERY_HIGH"
+      }, {
+        "rank" : 4,
+        "month" : "JUNE",
+        "trailSize" : "HIGH"
+      }, {
+        "rank" : 4,
+        "month" : "JULY",
+        "trailSize" : "MEDIUM"
+      }, {
+        "rank" : 4,
+        "month" : "AUGUST",
+        "trailSize" : "MEDIUM"
+      }, {
+        "rank" : 4,
+        "month" : "SEPTEMBER",
+        "trailSize" : "HIGH"
+      }, {
+        "rank" : 4,
+        "month" : "OCTOBER",
+        "trailSize" : "HIGH"
+      }, {
+        "rank" : 4,
+        "month" : "NOVEMBER",
+        "trailSize" : "LOW"
+      } ]
+    }, {
+      "artistUri" : "spotify:artist:4zCH9qm4R2DADamUHMCa6O",
+      "monthsStats" : [ {
+        "rank" : 2,
+        "month" : "JANUARY",
+        "trailSize" : "VERY_HIGH"
+      }, {
+        "rank" : 1,
+        "month" : "FEBRUARY",
+        "trailSize" : "VERY_HIGH"
+      }, {
+        "rank" : 1,
+        "month" : "MARCH",
+        "trailSize" : "HIGH"
+      }, {
+        "rank" : 1,
+        "month" : "APRIL",
+        "trailSize" : "VERY_HIGH"
+      }, {
+        "rank" : 1,
+        "month" : "MAY",
+        "trailSize" : "HIGH"
+      }, {
+        "rank" : 1,
+        "month" : "JUNE",
+        "trailSize" : "VERY_HIGH"
+      }, {
+        "rank" : 1,
+        "month" : "JULY",
+        "trailSize" : "LOW"
+      }, {
+        "rank" : 1,
+        "month" : "AUGUST",
+        "trailSize" : "VERY_HIGH"
+      }, {
+        "rank" : 1,
+        "month" : "SEPTEMBER",
+        "trailSize" : "VERY_HIGH"
+      }, {
+        "rank" : 1,
+        "month" : "OCTOBER",
+        "trailSize" : "VERY_HIGH"
+      }, {
+        "rank" : 1,
+        "month" : "NOVEMBER",
+        "trailSize" : "VERY_HIGH"
+      } ]
+    }, {
+      "artistUri" : "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY",
+      "monthsStats" : [ {
+        "rank" : 3,
+        "month" : "JANUARY",
+        "trailSize" : "HIGH"
+      }, {
+        "rank" : 3,
+        "month" : "FEBRUARY",
+        "trailSize" : "MEDIUM"
+      }, {
+        "rank" : 3,
+        "month" : "MARCH",
+        "trailSize" : "VERY_HIGH"
+      }, {
+        "rank" : 4,
+        "month" : "APRIL",
+        "trailSize" : "LOW"
+      }, {
+        "rank" : 4,
+        "month" : "MAY",
+        "trailSize" : "HIGH"
+      }, {
+        "rank" : 3,
+        "month" : "JUNE",
+        "trailSize" : "HIGH"
+      }, {
+        "rank" : 3,
+        "month" : "JULY",
+        "trailSize" : "VERY_HIGH"
+      }, {
+        "rank" : 3,
+        "month" : "AUGUST",
+        "trailSize" : "MEDIUM"
+      }, {
+        "rank" : 2,
+        "month" : "SEPTEMBER",
+        "trailSize" : "HIGH"
+      }, {
+        "rank" : 2,
+        "month" : "OCTOBER",
+        "trailSize" : "HIGH"
+      }, {
+        "rank" : 2,
+        "month" : "NOVEMBER",
+        "trailSize" : "LOW"
+      } ]
+    } ],
+    "totalNumArtists" : 1628,
+    "insights" : [ {
+      "month" : "SEPTEMBER",
+      "artistUri" : "spotify:artist:4zCH9qm4R2DADamUHMCa6O",
+      "uri" : "spotify:track:1TuAiGYL1nJvTfGaHNEX40",
+      "insightMetric" : {
+        "insightType" : "TRACK_X_DAY_STREAK",
+        "value" : 3
+      }
+    }, {
+      "month" : "AUGUST",
+      "artistUri" : "spotify:artist:4zCH9qm4R2DADamUHMCa6O",
+      "uri" : "spotify:artist:4zCH9qm4R2DADamUHMCa6O",
+      "insightMetric" : {
+        "insightType" : "ARTIST_X_STREAMS",
+        "value" : 133
+      }
+    }, {
+      "month" : "APRIL",
+      "artistUri" : "spotify:artist:4zCH9qm4R2DADamUHMCa6O",
+      "uri" : "spotify:artist:4zCH9qm4R2DADamUHMCa6O",
+      "insightMetric" : {
+        "insightType" : "ARTIST_X_STREAMS",
+        "value" : 109
+      }
+    } ]
+  },
+  "archiveReports" : {
+    "archiveReports" : [ {
+      "columnQualifier" : "20250814",
+      "minutesListened" : 0,
+      "reason" : "BIGGEST_TOP_ARTIST_DAY",
+      "title" : "The day you let Anirudh Ravichander and “Powerhouse” run the circuit",
+      "description" : "Morning opened with a Kollywood sprint—Anirudh Ravichander, Thaman S, and Sid Sriram trading peppy, heroic tracks. Afternoon, “Humsafar” by Sachet-Parampara looped for hours, before “Powerhouse (From 'Coolie') (Tamil)” took over in a relentless streak. 218 minutes, 72 tracks, 85 artists—your most Anirudh Ravichander–powered day of the year.",
+      "filedUnderTags" : "[repeat power hour, kollywood marathon]"
+    }, {
+      "columnQualifier" : "20250301",
+      "minutesListened" : 0,
+      "reason" : "BIRTH_DAY",
+      "title" : "The day you let 66 artists throw a birthday block party in your queue",
+      "description" : "Evening kicked off your birthday with a wall-to-wall rap and trap run: Drake, Future, Playboi Carti, and Travis Scott tag-teamed through “Low Life,” “NOKIA,” and “Halftime.” By midnight, the energy never dipped—just 69 tracks, 66 artists, and 195 minutes, all amped up for your birthday.",
+      "filedUnderTags" : "[trap birthday circuit, birthday playlist blitz]"
+    }, {
+      "columnQualifier" : "20250201",
+      "minutesListened" : 0,
+      "reason" : "BIGGEST_TOP_GENRE_DAY",
+      "title" : "The day you let trap take the wheel for a 5-hour midnight sprint",
+      "description" : "Evening dropped you straight into a trap-heavy circuit: Yeat, Travis Scott, Future, and Ken Carson traded off for hours, with “Privacy” and “AT THE PARTY” looping into the night. 326 minutes, 113 tracks, 88 artists—your most trap-anchored day of the year, matching your annual top genre.",
+      "filedUnderTags" : "[late-night grind, playlist tunnel vision]"
+    }, {
+      "columnQualifier" : "20250617",
+      "minutesListened" : 0,
+      "reason" : "MOST_DIVERSE_DAY",
+      "title" : "The day you spun the genre wheel and landed everywhere at once",
+      "description" : "Overnight, rap and trap tracks kept the energy high, then morning spun into a marathon of “5 Foot 2 (Genda Phool)” before pop, house, and bhangra took over the afternoon. By evening, The Weeknd, Adele, and Diljit Dosanjh all found their turn. 325 minutes, 124 tracks, 136 artists—your most diverse day, spanning 31 genres.",
+      "filedUnderTags" : "[genre buffet, playlist cross-pollination]"
+    }, {
+      "columnQualifier" : "20251014",
+      "minutesListened" : 0,
+      "reason" : "BIGGEST_MUSIC_LISTENING_DAY",
+      "title" : "The day you let Frank Ocean and friends run a 6-hour relay",
+      "description" : "Overnight, Frank Ocean set a reflective pace, weaving through “Pyramids” and “Ivy” before Drake, Future, and Travis Scott took over with relentless energy. By afternoon, your queue was a handoff of rap, R&B, and indie—each artist building on the last. 382 minutes, 126 tracks, 107 artists—your biggest music day of the year.",
+      "filedUnderTags" : "[all-out marathon, genre relay]"
+    } ]
+  }
+}

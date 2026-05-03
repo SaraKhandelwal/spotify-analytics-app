@@ -1,0 +1,424 @@
+{
+  "stats" : [ {
+    "date" : "2026-02-02",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Meet Me in the Woods",
+      "streamCount" : 3,
+      "secondsPlayed" : 731
+    }, {
+      "name" : "Florida!!! (feat. Florence + The Machine)",
+      "streamCount" : 2,
+      "secondsPlayed" : 279
+    }, {
+      "name" : "Fake Plastic Trees",
+      "streamCount" : 2,
+      "secondsPlayed" : 319
+    }, {
+      "name" : "Slipping Through My Fingers",
+      "streamCount" : 1,
+      "secondsPlayed" : 233
+    }, {
+      "name" : "My Life Is a Party - R.I.O. Edit",
+      "streamCount" : 1,
+      "secondsPlayed" : 207
+    }, {
+      "name" : "Blue Valentine",
+      "streamCount" : 1,
+      "secondsPlayed" : 186
+    }, {
+      "name" : "Chasing That Feeling (English Ver. – Digital Only)",
+      "streamCount" : 1,
+      "secondsPlayed" : 182
+    }, {
+      "name" : "One Of Your Girls",
+      "streamCount" : 1,
+      "secondsPlayed" : 181
+    }, {
+      "name" : "Fatal Trouble",
+      "streamCount" : 1,
+      "secondsPlayed" : 170
+    }, {
+      "name" : "End of Beginning",
+      "streamCount" : 1,
+      "secondsPlayed" : 159
+    } ],
+    "topArtists" : [ {
+      "name" : "Lord Huron",
+      "streamCount" : 3,
+      "secondsPlayed" : 731
+    }, {
+      "name" : "Radiohead",
+      "streamCount" : 3,
+      "secondsPlayed" : 547
+    }, {
+      "name" : "SEVENTEEN",
+      "streamCount" : 2,
+      "secondsPlayed" : 380
+    }, {
+      "name" : "TOMORROW X TOGETHER",
+      "streamCount" : 2,
+      "secondsPlayed" : 358
+    }, {
+      "name" : "Taylor Swift",
+      "streamCount" : 2,
+      "secondsPlayed" : 279
+    }, {
+      "name" : "The 1975",
+      "streamCount" : 1,
+      "secondsPlayed" : 326
+    }, {
+      "name" : "Florence + The Machine",
+      "streamCount" : 2,
+      "secondsPlayed" : 279
+    }, {
+      "name" : "BTS",
+      "streamCount" : 1,
+      "secondsPlayed" : 274
+    }, {
+      "name" : "Clairo",
+      "streamCount" : 1,
+      "secondsPlayed" : 260
+    }, {
+      "name" : "ABBA",
+      "streamCount" : 1,
+      "secondsPlayed" : 233
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-26",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "My Life Is a Party - R.I.O. Edit",
+      "streamCount" : 8,
+      "secondsPlayed" : 1657
+    }, {
+      "name" : "Chasing That Feeling (English Ver. – Digital Only)",
+      "streamCount" : 6,
+      "secondsPlayed" : 1093
+    }, {
+      "name" : "One Of Your Girls",
+      "streamCount" : 6,
+      "secondsPlayed" : 1072
+    }, {
+      "name" : "Fatal Trouble",
+      "streamCount" : 6,
+      "secondsPlayed" : 1020
+    }, {
+      "name" : "Slipping Through My Fingers",
+      "streamCount" : 5,
+      "secondsPlayed" : 941
+    }, {
+      "name" : "End of Beginning",
+      "streamCount" : 5,
+      "secondsPlayed" : 793
+    }, {
+      "name" : "Florida!!! (feat. Florence + The Machine)",
+      "streamCount" : 5,
+      "secondsPlayed" : 1075
+    }, {
+      "name" : "Meet Me in the Woods",
+      "streamCount" : 4,
+      "secondsPlayed" : 1031
+    }, {
+      "name" : "Blue Valentine",
+      "streamCount" : 4,
+      "secondsPlayed" : 740
+    }, {
+      "name" : "Passage",
+      "streamCount" : 4,
+      "secondsPlayed" : 383
+    } ],
+    "topArtists" : [ {
+      "name" : "ENHYPEN",
+      "streamCount" : 29,
+      "secondsPlayed" : 4823
+    }, {
+      "name" : "TOMORROW X TOGETHER",
+      "streamCount" : 22,
+      "secondsPlayed" : 3861
+    }, {
+      "name" : "ItaloBrothers",
+      "streamCount" : 12,
+      "secondsPlayed" : 2001
+    }, {
+      "name" : "Omori",
+      "streamCount" : 12,
+      "secondsPlayed" : 1285
+    }, {
+      "name" : "NMIXX",
+      "streamCount" : 11,
+      "secondsPlayed" : 1894
+    }, {
+      "name" : "Troye Sivan",
+      "streamCount" : 8,
+      "secondsPlayed" : 1384
+    }, {
+      "name" : "Florence + The Machine",
+      "streamCount" : 10,
+      "secondsPlayed" : 2131
+    }, {
+      "name" : "BTS",
+      "streamCount" : 7,
+      "secondsPlayed" : 1567
+    }, {
+      "name" : "Taylor Swift",
+      "streamCount" : 7,
+      "secondsPlayed" : 1544
+    }, {
+      "name" : "ABBA",
+      "streamCount" : 7,
+      "secondsPlayed" : 1529
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-19",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Fatal Trouble",
+      "streamCount" : 3,
+      "secondsPlayed" : 510
+    }, {
+      "name" : "Bad Desire (With or Without You)",
+      "streamCount" : 3,
+      "secondsPlayed" : 422
+    }, {
+      "name" : "Outside",
+      "streamCount" : 3,
+      "secondsPlayed" : 363
+    }, {
+      "name" : "SHOUT OUT",
+      "streamCount" : 3,
+      "secondsPlayed" : 284
+    }, {
+      "name" : "GO!",
+      "streamCount" : 3,
+      "secondsPlayed" : 510
+    }, {
+      "name" : "Bite Me",
+      "streamCount" : 3,
+      "secondsPlayed" : 471
+    }, {
+      "name" : "FaSHioN",
+      "streamCount" : 3,
+      "secondsPlayed" : 421
+    }, {
+      "name" : "Hold On Tight",
+      "streamCount" : 3,
+      "secondsPlayed" : 447
+    }, {
+      "name" : "Mantra",
+      "streamCount" : 3,
+      "secondsPlayed" : 353
+    }, {
+      "name" : "Autumn Leaves",
+      "streamCount" : 2,
+      "secondsPlayed" : 534
+    } ],
+    "topArtists" : [ {
+      "name" : "ENHYPEN",
+      "streamCount" : 77,
+      "secondsPlayed" : 12811
+    }, {
+      "name" : "BTS",
+      "streamCount" : 53,
+      "secondsPlayed" : 11418
+    }, {
+      "name" : "TOMORROW X TOGETHER",
+      "streamCount" : 23,
+      "secondsPlayed" : 4222
+    }, {
+      "name" : "aespa",
+      "streamCount" : 10,
+      "secondsPlayed" : 1827
+    }, {
+      "name" : "LE SSERAFIM",
+      "streamCount" : 9,
+      "secondsPlayed" : 1508
+    }, {
+      "name" : "TWICE",
+      "streamCount" : 7,
+      "secondsPlayed" : 1175
+    }, {
+      "name" : "CORTIS",
+      "streamCount" : 6,
+      "secondsPlayed" : 931
+    }, {
+      "name" : "KATSEYE",
+      "streamCount" : 6,
+      "secondsPlayed" : 850
+    }, {
+      "name" : "SEVENTEEN",
+      "streamCount" : 5,
+      "secondsPlayed" : 917
+    }, {
+      "name" : "JENNIE",
+      "streamCount" : 5,
+      "secondsPlayed" : 677
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-02-08",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1EId2IRKziWcgn",
+      "listeningPercentage" : 49.88974641675855
+    }
+  }, {
+    "date" : "2026-02-01",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Echo Hallway",
+      "country" : "US",
+      "position" : 222
+    }
+  }, {
+    "date" : "2026-01-25",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "ENHYPEN",
+      "milestoneListeningSeconds" : 12811
+    }
+  }, {
+    "date" : "2026-01-18",
+    "highlightType" : "FANS_LIKE_YOU",
+    "fansLikeYouHighlight" : {
+      "entity" : "back to friends",
+      "country" : "US",
+      "position" : 9,
+      "previousPosition" : 7,
+      "numberOfListeners" : 3235111
+    }
+  }, {
+    "date" : "2026-01-11",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "BTS",
+      "dayStreaks" : 5
+    }
+  }, {
+    "date" : "2026-01-04",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "kpop bgs",
+      "listeningPercentage" : 31.603856885529613
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "LE SSERAFIM",
+      "dayStreaks" : 5
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "BTS",
+      "milestoneListeningSeconds" : 17700
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Quadeca", "Twenty One Pilots", "DM DOKURO", "Roar of the Jungle Dragon", "Last Christmas", "fantasyworld", "Wonderful Day", "Paladin Strait", "Have Yourself a Merry Little Christmas (feat. Frank Sinatra)" ],
+      "milestoneListeningSeconds" : 30702
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZEVXcXHWVVT0lfDq",
+      "listeningPercentage" : 68.1784178043763
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "\uD83C\uDFB6",
+      "listeningPercentage" : 50.08700430442347
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Noah Kahan",
+      "country" : "US",
+      "secondsPlayed" : 5465,
+      "marketAvgSecondsPlayed" : 1049.6576
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "The Neighbourhood",
+      "country" : "US",
+      "secondsPlayed" : 5239,
+      "marketAvgSecondsPlayed" : 839.57526
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Electrodynamix",
+      "secondEntity" : "Candy"
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Pressure",
+      "country" : "US",
+      "position" : 9714
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "SEVENTEEN",
+      "listeningPercentage" : 44.93763871088744
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Taylor Swift",
+      "dayStreaks" : 5
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Tarmac",
+      "country" : "US",
+      "position" : 4679
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "The Marías",
+      "country" : "US",
+      "secondsPlayed" : 4878,
+      "marketAvgSecondsPlayed" : 983.85443
+    }
+  }, {
+    "date" : "2025-09-28",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "TOMORROW X TOGETHER", "ENHYPEN", "ATEEZ", "Do It Like This", "FaSHioN", "The Subway", "Beaches", "Into the I-LAND", "Headlock" ],
+      "milestoneListeningSeconds" : 45888
+    }
+  }, {
+    "date" : "2025-09-21",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "TOMORROW X TOGETHER",
+      "listeningPercentage" : 57.83744557329463
+    }
+  } ]
+}

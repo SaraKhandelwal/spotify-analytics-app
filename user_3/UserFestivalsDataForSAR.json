@@ -1,0 +1,19 @@
+{
+  "festivalId" : "govball2026",
+  "userId" : "26f92193b96d4db4bdfdafd81c817588",
+  "totalArtistsMatched" : 11,
+  "userLineupMatchPercentile" : 37,
+  "festivalPersona" : "THE CROWD FAVORITE",
+  "topArtists" : [ {
+    "name" : "Kali Uchis"
+  }, {
+    "name" : "Thee Sacred Souls"
+  }, {
+    "name" : "Dominic Fike"
+  }, {
+    "name" : "KATSEYE"
+  }, {
+    "name" : "JENNIE"
+  } ],
+  "topDiscoveryArtists" : [ ]
+}

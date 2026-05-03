@@ -1,0 +1,379 @@
+{
+  "stats" : [ {
+    "date" : "2026-02-02",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Gangsta's Paradise",
+      "streamCount" : 3,
+      "secondsPlayed" : 239
+    }, {
+      "name" : "A Couple Minutes",
+      "streamCount" : 2,
+      "secondsPlayed" : 422
+    }, {
+      "name" : "Lady Lady",
+      "streamCount" : 2,
+      "secondsPlayed" : 416
+    }, {
+      "name" : "Nice To Each Other",
+      "streamCount" : 2,
+      "secondsPlayed" : 416
+    }, {
+      "name" : "Baby Steps",
+      "streamCount" : 2,
+      "secondsPlayed" : 393
+    }, {
+      "name" : "Close Up",
+      "streamCount" : 2,
+      "secondsPlayed" : 388
+    }, {
+      "name" : "Let Alone The One You Love",
+      "streamCount" : 2,
+      "secondsPlayed" : 370
+    }, {
+      "name" : "Man I Need",
+      "streamCount" : 2,
+      "secondsPlayed" : 366
+    }, {
+      "name" : "Loud",
+      "streamCount" : 2,
+      "secondsPlayed" : 366
+    }, {
+      "name" : "So Easy (To Fall In Love)",
+      "streamCount" : 2,
+      "secondsPlayed" : 336
+    } ],
+    "topArtists" : [ {
+      "name" : "Olivia Dean",
+      "streamCount" : 26,
+      "secondsPlayed" : 4444
+    }, {
+      "name" : "Al Green",
+      "streamCount" : 5,
+      "secondsPlayed" : 1071
+    }, {
+      "name" : "Etta James",
+      "streamCount" : 5,
+      "secondsPlayed" : 700
+    }, {
+      "name" : "Bill Withers",
+      "streamCount" : 5,
+      "secondsPlayed" : 692
+    }, {
+      "name" : "Thee Sacred Souls",
+      "streamCount" : 4,
+      "secondsPlayed" : 619
+    }, {
+      "name" : "Durand Jones & The Indications",
+      "streamCount" : 3,
+      "secondsPlayed" : 762
+    }, {
+      "name" : "George Benson",
+      "streamCount" : 3,
+      "secondsPlayed" : 573
+    }, {
+      "name" : "Minnie Riperton",
+      "streamCount" : 3,
+      "secondsPlayed" : 538
+    }, {
+      "name" : "The Notorious B.I.G.",
+      "streamCount" : 3,
+      "secondsPlayed" : 486
+    }, {
+      "name" : "Laufey",
+      "streamCount" : 3,
+      "secondsPlayed" : 448
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-26",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "No. 1 Party Anthem",
+      "streamCount" : 3,
+      "secondsPlayed" : 483
+    }, {
+      "name" : "Arabella",
+      "streamCount" : 3,
+      "secondsPlayed" : 411
+    }, {
+      "name" : "R U Mine?",
+      "streamCount" : 3,
+      "secondsPlayed" : 400
+    }, {
+      "name" : "I Wanna Be Yours",
+      "streamCount" : 3,
+      "secondsPlayed" : 366
+    }, {
+      "name" : "Fireside",
+      "streamCount" : 3,
+      "secondsPlayed" : 359
+    }, {
+      "name" : "Do I Wanna Know?",
+      "streamCount" : 2,
+      "secondsPlayed" : 542
+    }, {
+      "name" : "Knee Socks",
+      "streamCount" : 2,
+      "secondsPlayed" : 512
+    }, {
+      "name" : "Mad Sounds",
+      "streamCount" : 2,
+      "secondsPlayed" : 428
+    }, {
+      "name" : "One For The Road",
+      "streamCount" : 2,
+      "secondsPlayed" : 410
+    }, {
+      "name" : "Snap Out Of It",
+      "streamCount" : 2,
+      "secondsPlayed" : 377
+    } ],
+    "topArtists" : [ {
+      "name" : "Arctic Monkeys",
+      "streamCount" : 34,
+      "secondsPlayed" : 5767
+    }, {
+      "name" : "HWASA",
+      "streamCount" : 3,
+      "secondsPlayed" : 428
+    }, {
+      "name" : "Olivia Dean",
+      "streamCount" : 3,
+      "secondsPlayed" : 412
+    }, {
+      "name" : "Hozier",
+      "streamCount" : 2,
+      "secondsPlayed" : 520
+    }, {
+      "name" : "Lav",
+      "streamCount" : 2,
+      "secondsPlayed" : 404
+    }, {
+      "name" : "Jess Benko",
+      "streamCount" : 2,
+      "secondsPlayed" : 316
+    }, {
+      "name" : "The Last Shadow Puppets",
+      "streamCount" : 2,
+      "secondsPlayed" : 229
+    }, {
+      "name" : "DEAN",
+      "streamCount" : 2,
+      "secondsPlayed" : 198
+    }, {
+      "name" : "IU",
+      "streamCount" : 2,
+      "secondsPlayed" : 195
+    }, {
+      "name" : "hanbee",
+      "streamCount" : 2,
+      "secondsPlayed" : 162
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-19",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "A Soulmate Who Wasn’t Meant to Be",
+      "streamCount" : 1,
+      "secondsPlayed" : 316
+    }, {
+      "name" : "In the Bed",
+      "streamCount" : 1,
+      "secondsPlayed" : 265
+    }, {
+      "name" : "No One Noticed",
+      "streamCount" : 1,
+      "secondsPlayed" : 233
+    }, {
+      "name" : "The Cut That Always Bleeds",
+      "streamCount" : 1,
+      "secondsPlayed" : 231
+    }, {
+      "name" : "Work Song",
+      "streamCount" : 1,
+      "secondsPlayed" : 229
+    }, {
+      "name" : "Cold (Feat. HEIZE)",
+      "streamCount" : 1,
+      "secondsPlayed" : 229
+    }, {
+      "name" : "Good Goodbye",
+      "streamCount" : 1,
+      "secondsPlayed" : 223
+    }, {
+      "name" : "In The Fall",
+      "streamCount" : 1,
+      "secondsPlayed" : 206
+    }, {
+      "name" : "I Will Follow You into the Dark",
+      "streamCount" : 1,
+      "secondsPlayed" : 189
+    }, {
+      "name" : "drunk",
+      "streamCount" : 1,
+      "secondsPlayed" : 161
+    } ],
+    "topArtists" : [ {
+      "name" : "HWASA",
+      "streamCount" : 2,
+      "secondsPlayed" : 429
+    }, {
+      "name" : "Jess Benko",
+      "streamCount" : 1,
+      "secondsPlayed" : 316
+    }, {
+      "name" : "sunwoojunga",
+      "streamCount" : 1,
+      "secondsPlayed" : 265
+    }, {
+      "name" : "The Marías",
+      "streamCount" : 1,
+      "secondsPlayed" : 233
+    }, {
+      "name" : "Conan Gray",
+      "streamCount" : 1,
+      "secondsPlayed" : 231
+    }, {
+      "name" : "Gaeko",
+      "streamCount" : 1,
+      "secondsPlayed" : 229
+    }, {
+      "name" : "Hozier",
+      "streamCount" : 1,
+      "secondsPlayed" : 229
+    }, {
+      "name" : "Death Cab for Cutie",
+      "streamCount" : 1,
+      "secondsPlayed" : 189
+    }, {
+      "name" : "keshi",
+      "streamCount" : 1,
+      "secondsPlayed" : 161
+    }, {
+      "name" : "Hoody",
+      "streamCount" : 1,
+      "secondsPlayed" : 155
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-02-08",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Sienna Rose",
+      "secondEntity" : "Wino"
+    }
+  }, {
+    "date" : "2026-02-01",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Arctic Monkeys",
+      "country" : "US",
+      "secondsPlayed" : 5767,
+      "marketAvgSecondsPlayed" : 655.72784
+    }
+  }, {
+    "date" : "2026-01-25",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "sad girl hours",
+      "listeningPercentage" : 93.52459016393443
+    }
+  }, {
+    "date" : "2026-01-11",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1DX6VDO8a6cQME",
+      "listeningPercentage" : 99.79018044481745
+    }
+  }, {
+    "date" : "2026-01-04",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "S.E.S.", "Girls' Generation", "parkjiyoon", "This Is the Place", "Into the New World", "Dangerous Performance", "Come Back Home", "Dream", "Twilight Zone" ],
+      "milestoneListeningSeconds" : 30012
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "panty party",
+      "listeningPercentage" : 48.60063607451159
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "soft",
+      "listeningPercentage" : 56.36277527823822
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "soft energy",
+      "listeningPercentage" : 89.68148006866298
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "soft energy",
+      "listeningPercentage" : 55.446107217275994
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "soft",
+      "listeningPercentage" : 87.14724783459067
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "soft",
+      "listeningPercentage" : 80.3577455281809
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "cafecito",
+      "listeningPercentage" : 53.007731472751274
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "soft",
+      "listeningPercentage" : 74.60526315789474
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "rock out with your cock out",
+      "listeningPercentage" : 50.66969353007945
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "panty party",
+      "listeningPercentage" : 99.81315687037758
+    }
+  }, {
+    "date" : "2025-09-28",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Your Time Has Come",
+      "secondEntity" : "Without U"
+    }
+  } ]
+}

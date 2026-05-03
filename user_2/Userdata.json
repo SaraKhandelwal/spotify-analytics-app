@@ -1,0 +1,17 @@
+{
+  "username": "michaelrush",
+  "email": "ubarnes@example.net",
+  "country": "US",
+  "createdFromFacebook": false,
+  "facebookUid": null,
+  "birthdate": "1999-12-24",
+  "gender": "non-binary",
+  "postalCode": null,
+  "mobileNumber": null,
+  "mobileOperator": null,
+  "mobileBrand": null,
+  "creationTime": "2016-01-29",
+  "assuredEstimatedAge": null,
+  "assuredAgeMethod": null,
+  "assuredAgeTimestamp": null
+}

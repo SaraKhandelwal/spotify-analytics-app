@@ -1,0 +1,415 @@
+{
+  "stats" : [ {
+    "date" : "2026-02-02",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "And This is Just The Intro",
+      "streamCount" : 7,
+      "secondsPlayed" : 1791
+    }, {
+      "name" : "Someone Else - Lost Tapes 2015",
+      "streamCount" : 7,
+      "secondsPlayed" : 945
+    }, {
+      "name" : "Lady Of Namek",
+      "streamCount" : 5,
+      "secondsPlayed" : 882
+    }, {
+      "name" : "Tuition",
+      "streamCount" : 4,
+      "secondsPlayed" : 345
+    }, {
+      "name" : "Friends With Benefits",
+      "streamCount" : 3,
+      "secondsPlayed" : 818
+    }, {
+      "name" : "Don",
+      "streamCount" : 3,
+      "secondsPlayed" : 442
+    }, {
+      "name" : "Boys Don’t Cry",
+      "streamCount" : 3,
+      "secondsPlayed" : 358
+    }, {
+      "name" : "Mist",
+      "streamCount" : 3,
+      "secondsPlayed" : 319
+    }, {
+      "name" : "Cali Man",
+      "streamCount" : 3,
+      "secondsPlayed" : 274
+    }, {
+      "name" : "Dhun (From \"Saiyaara\")",
+      "streamCount" : 2,
+      "secondsPlayed" : 553
+    } ],
+    "topArtists" : [ {
+      "name" : "Tory Lanez",
+      "streamCount" : 41,
+      "secondsPlayed" : 7549
+    }, {
+      "name" : "Don Toliver",
+      "streamCount" : 29,
+      "secondsPlayed" : 4024
+    }, {
+      "name" : "EsDeeKid",
+      "streamCount" : 10,
+      "secondsPlayed" : 970
+    }, {
+      "name" : "Yeat",
+      "streamCount" : 10,
+      "secondsPlayed" : 1203
+    }, {
+      "name" : "Drake",
+      "streamCount" : 11,
+      "secondsPlayed" : 1789
+    }, {
+      "name" : "Anirudh Ravichander",
+      "streamCount" : 9,
+      "secondsPlayed" : 1166
+    }, {
+      "name" : "Ravi Basrur",
+      "streamCount" : 9,
+      "secondsPlayed" : 989
+    }, {
+      "name" : "Travis Scott",
+      "streamCount" : 10,
+      "secondsPlayed" : 1847
+    }, {
+      "name" : "Ken Carson",
+      "streamCount" : 7,
+      "secondsPlayed" : 928
+    }, {
+      "name" : "Lil Tecca",
+      "streamCount" : 6,
+      "secondsPlayed" : 767
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-26",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Too Many Chances",
+      "streamCount" : 4,
+      "secondsPlayed" : 746
+    }, {
+      "name" : "VOGUE",
+      "streamCount" : 4,
+      "secondsPlayed" : 574
+    }, {
+      "name" : "7AM",
+      "streamCount" : 3,
+      "secondsPlayed" : 353
+    }, {
+      "name" : "Tartan",
+      "streamCount" : 3,
+      "secondsPlayed" : 314
+    }, {
+      "name" : "Viva La Vida",
+      "streamCount" : 2,
+      "secondsPlayed" : 484
+    }, {
+      "name" : "Loveeeeeee Song",
+      "streamCount" : 2,
+      "secondsPlayed" : 455
+    }, {
+      "name" : "Jugg",
+      "streamCount" : 2,
+      "secondsPlayed" : 319
+    }, {
+      "name" : "Switching Lanes (feat. Playboi Carti)",
+      "streamCount" : 2,
+      "secondsPlayed" : 282
+    }, {
+      "name" : "March Madness",
+      "streamCount" : 2,
+      "secondsPlayed" : 281
+    }, {
+      "name" : "Fear Of Heights",
+      "streamCount" : 2,
+      "secondsPlayed" : 274
+    } ],
+    "topArtists" : [ {
+      "name" : "Don Toliver",
+      "streamCount" : 14,
+      "secondsPlayed" : 2057
+    }, {
+      "name" : "Lil Tecca",
+      "streamCount" : 9,
+      "secondsPlayed" : 1141
+    }, {
+      "name" : "Ken Carson",
+      "streamCount" : 9,
+      "secondsPlayed" : 1216
+    }, {
+      "name" : "Future",
+      "streamCount" : 9,
+      "secondsPlayed" : 1487
+    }, {
+      "name" : "Drake",
+      "streamCount" : 10,
+      "secondsPlayed" : 1614
+    }, {
+      "name" : "LUCKI",
+      "streamCount" : 8,
+      "secondsPlayed" : 943
+    }, {
+      "name" : "Travis Scott",
+      "streamCount" : 9,
+      "secondsPlayed" : 1654
+    }, {
+      "name" : "Coldplay",
+      "streamCount" : 7,
+      "secondsPlayed" : 1576
+    }, {
+      "name" : "Lil Uzi Vert",
+      "streamCount" : 7,
+      "secondsPlayed" : 1189
+    }, {
+      "name" : "EsDeeKid",
+      "streamCount" : 6,
+      "secondsPlayed" : 658
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-19",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Embarrassed (feat. Travis Scott)",
+      "streamCount" : 3,
+      "secondsPlayed" : 446
+    }, {
+      "name" : "wyd (feat. Bryson Tiller)",
+      "streamCount" : 3,
+      "secondsPlayed" : 440
+    }, {
+      "name" : "OUTTA HERE",
+      "streamCount" : 3,
+      "secondsPlayed" : 225
+    }, {
+      "name" : "Locked out of Heaven",
+      "streamCount" : 2,
+      "secondsPlayed" : 466
+    }, {
+      "name" : "7AM",
+      "streamCount" : 2,
+      "secondsPlayed" : 438
+    }, {
+      "name" : "STARGAZING",
+      "streamCount" : 2,
+      "secondsPlayed" : 432
+    }, {
+      "name" : "Too Many Chances",
+      "streamCount" : 2,
+      "secondsPlayed" : 372
+    }, {
+      "name" : "Candy Paint (feat. Shoreline Mafia)",
+      "streamCount" : 2,
+      "secondsPlayed" : 357
+    }, {
+      "name" : "Side Nigga Anthem",
+      "streamCount" : 2,
+      "secondsPlayed" : 278
+    }, {
+      "name" : "Te Boté",
+      "streamCount" : 2,
+      "secondsPlayed" : 275
+    } ],
+    "topArtists" : [ {
+      "name" : "Travis Scott",
+      "streamCount" : 21,
+      "secondsPlayed" : 3661
+    }, {
+      "name" : "Lil Uzi Vert",
+      "streamCount" : 12,
+      "secondsPlayed" : 2197
+    }, {
+      "name" : "Bad Bunny",
+      "streamCount" : 10,
+      "secondsPlayed" : 1617
+    }, {
+      "name" : "The Weeknd",
+      "streamCount" : 9,
+      "secondsPlayed" : 1716
+    }, {
+      "name" : "Playboi Carti",
+      "streamCount" : 7,
+      "secondsPlayed" : 847
+    }, {
+      "name" : "Ken Carson",
+      "streamCount" : 7,
+      "secondsPlayed" : 772
+    }, {
+      "name" : "Future",
+      "streamCount" : 9,
+      "secondsPlayed" : 1634
+    }, {
+      "name" : "Taylor Swift",
+      "streamCount" : 6,
+      "secondsPlayed" : 914
+    }, {
+      "name" : "Drake",
+      "streamCount" : 7,
+      "secondsPlayed" : 1038
+    }, {
+      "name" : "Don Toliver",
+      "streamCount" : 6,
+      "secondsPlayed" : 910
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-02-08",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Lil Uzi Vert",
+      "dayStreaks" : 6
+    }
+  }, {
+    "date" : "2026-02-01",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Mike Sherm",
+      "secondEntity" : "Shakthisree Gopalan"
+    }
+  }, {
+    "date" : "2026-01-25",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Candy Paint (feat. Shoreline Mafia)",
+      "country" : "US",
+      "position" : 9554
+    }
+  }, {
+    "date" : "2026-01-18",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "F1",
+      "streamCount" : 24
+    }
+  }, {
+    "date" : "2026-01-11",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Ravi Basrur",
+      "secondEntity" : "Shoreline Mafia"
+    }
+  }, {
+    "date" : "2026-01-04",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Future",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Rapped Up",
+      "listeningPercentage" : 81.14889923459323
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Travis Scott", "EsDeeKid", "Fimiguerrero", "SHOW ME LUV (feat. Fimiguerrero)", "Cali Man", "Century", "Mist", "OUTERSPACE (feat. Baby Keem)", "VOGUE" ],
+      "milestoneListeningSeconds" : 57320
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Dude Trailer Blast - Theme",
+      "streamCount" : 9
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Lil Baby",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Travis Scott",
+      "country" : "US",
+      "secondsPlayed" : 4575,
+      "marketAvgSecondsPlayed" : 851.41895
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Sai Abhyankkar",
+      "listeningPercentage" : 31.94137357251943
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Karthik",
+      "secondEntity" : "OHGEESY"
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "Rapped Up",
+      "milestoneListeningSeconds" : 23177
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Yennai Maatrum Kadhale (From \"Naanum Rowdy Dhaan\")",
+      "streamCount" : 15
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Lil Uzi Vert",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Rapped Up",
+      "listeningPercentage" : 47.68200358690304
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Siippyy Gill",
+      "secondEntity" : "D. Savage"
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Often - Live",
+      "streamCount" : 14
+    }
+  }, {
+    "date" : "2025-09-28",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Travis Scott", "Thaman S", "Drake", "Daytona", "Salaar The Shourayanga", "Start Some Shit", "Down Down Duppa", "Blockbuster", "Evare" ],
+      "milestoneListeningSeconds" : 56313
+    }
+  }, {
+    "date" : "2025-09-21",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Bus Fight x Powerhouse x Disco (From \"Coolie BGM\")",
+      "streamCount" : 14
+    }
+  } ]
+}

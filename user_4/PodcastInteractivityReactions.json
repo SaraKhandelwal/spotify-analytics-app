@@ -1,0 +1,9 @@
+{
+  "reactions" : [ {
+    "comment" : "spotify:comment:6fUkKmaLe9AVrwlZeQVaE3",
+    "entityUri" : "spotify:episode:6nrtQS7bgsFFXKsrXxb7fX",
+    "parentEntity" : "spotify:show:7GQSTK0WMLH3GbWsh7kMrX",
+    "reaction" : "LIKE",
+    "createdAt" : "2026-01-26T20:39:08.853Z"
+  } ]
+}

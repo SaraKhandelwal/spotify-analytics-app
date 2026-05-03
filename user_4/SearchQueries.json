@@ -1,0 +1,3461 @@
+[ {
+  "platform" : "",
+  "searchTime" : "2025-11-20T21:10:34.744Z[UTC]",
+  "searchQuery" : "n",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-20T21:10:34.744Z[UTC]",
+  "searchQuery" : "noa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-11-20T21:10:34.778Z[UTC]",
+  "searchQuery" : "no",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-11-20T21:10:35.401Z[UTC]",
+  "searchQuery" : "noah",
+  "searchInteractionURIs" : [ "spotify:artist:2RQXRUsr4IW1f3mKyKsy4B" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-08T04:10:29.725Z[UTC]",
+  "searchQuery" : "21",
+  "searchInteractionURIs" : [ "spotify:artist:3YQKmKGau1PzlVlkL1iodx" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T03:57:50.703Z[UTC]",
+  "searchQuery" : "terraria",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T03:57:50.991Z[UTC]",
+  "searchQuery" : "terraria",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T03:57:51.833Z[UTC]",
+  "searchQuery" : "terraria cala",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T03:57:52.106Z[UTC]",
+  "searchQuery" : "terraria cala",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T03:57:52.391Z[UTC]",
+  "searchQuery" : "terraria calamity",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T03:57:52.726Z[UTC]",
+  "searchQuery" : "terraria calamity",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-12-10T03:59:16.560Z[UTC]",
+  "searchQuery" : "terraria",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T03:59:16.606Z[UTC]",
+  "searchQuery" : "terraria",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:01:41.056Z[UTC]",
+  "searchQuery" : "o",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:01:41.168Z[UTC]",
+  "searchQuery" : "om",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:01:41.349Z[UTC]",
+  "searchQuery" : "omor",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:01:41.448Z[UTC]",
+  "searchQuery" : "o",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:01:41.527Z[UTC]",
+  "searchQuery" : "om",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:01:41.685Z[UTC]",
+  "searchQuery" : "omori",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-12-10T04:01:41.975Z[UTC]",
+  "searchQuery" : "omor",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:01:42.019Z[UTC]",
+  "searchQuery" : "omori",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:05:25.128Z[UTC]",
+  "searchQuery" : "v",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:05:25.393Z[UTC]",
+  "searchQuery" : "vi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:05:25.544Z[UTC]",
+  "searchQuery" : "vid",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:05:25.756Z[UTC]",
+  "searchQuery" : "vi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-12-10T04:05:25.798Z[UTC]",
+  "searchQuery" : "v",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:05:25.822Z[UTC]",
+  "searchQuery" : "video ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:05:25.833Z[UTC]",
+  "searchQuery" : "vid",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:05:26.092Z[UTC]",
+  "searchQuery" : "video ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:05:26.151Z[UTC]",
+  "searchQuery" : "video g",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:05:26.283Z[UTC]",
+  "searchQuery" : "video ga",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:05:26.422Z[UTC]",
+  "searchQuery" : "video game",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:05:26.538Z[UTC]",
+  "searchQuery" : "video g",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:05:26.670Z[UTC]",
+  "searchQuery" : "video ga",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:05:26.769Z[UTC]",
+  "searchQuery" : "video game",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:05:30.421Z[UTC]",
+  "searchQuery" : "video game ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:05:30.663Z[UTC]",
+  "searchQuery" : "video game m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:05:30.743Z[UTC]",
+  "searchQuery" : "video game ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:05:30.870Z[UTC]",
+  "searchQuery" : "video game mi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:05:31.041Z[UTC]",
+  "searchQuery" : "video game m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:05:31.094Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:05:31.244Z[UTC]",
+  "searchQuery" : "video game mi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:05:31.495Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:17:29.906Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:17:30.217Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:25:01.313Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:25:01.655Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:34:33.428Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-12-10T04:34:34.042Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:44:10.630Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:44:10.962Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:52:37.573Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T04:52:37.923Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T05:00:25.176Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T05:00:25.741Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T05:25:55.048Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-12-10T05:25:55.704Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T06:01:24.194Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T06:01:24.555Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T06:13:14.703Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-12-10T06:13:15.373Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T06:19:55.912Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2025-12-10T06:19:56.507Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T06:26:51.133Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-10T06:26:51.457Z[UTC]",
+  "searchQuery" : "video game mix",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-11T05:05:25.117Z[UTC]",
+  "searchQuery" : "vi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2025-12-11T05:05:25.241Z[UTC]",
+  "searchQuery" : "v",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-11T05:05:25.668Z[UTC]",
+  "searchQuery" : "video ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-11T05:05:25.938Z[UTC]",
+  "searchQuery" : "video ga",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-11T05:05:26.871Z[UTC]",
+  "searchQuery" : "video game my",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2025-12-11T05:05:27.464Z[UTC]",
+  "searchQuery" : "video game mysi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-11T05:05:27.534Z[UTC]",
+  "searchQuery" : "video game mysic",
+  "searchInteractionURIs" : [ "spotify:playlist:37i9dQZF1EIeLsiT8dSGgI", "spotify:playlist:0h4Cwla6c6Yy1QW7mihUsP", "spotify:playlist:7FaW2WBTOWUIB5SpUQCPZF", "spotify:playlist:2mIgGNvWhF6f45XIBWNWx7", "spotify:playlist:4f6QhonFOGkynXeshXNO4X" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-11T05:06:56.927Z[UTC]",
+  "searchQuery" : "la",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-11T05:06:59.019Z[UTC]",
+  "searchQuery" : "laur",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2025-12-11T05:07:09.770Z[UTC]",
+  "searchQuery" : "laura ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-11T05:07:10.224Z[UTC]",
+  "searchQuery" : "laura palm",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-11T05:07:10.862Z[UTC]",
+  "searchQuery" : "laura palmer",
+  "searchInteractionURIs" : [ "spotify:playlist:4RcDuJEo29gMUokKbMWeMj" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-16T03:42:25.605Z[UTC]",
+  "searchQuery" : "flor",
+  "searchInteractionURIs" : [ "spotify:artist:1moxjboGR7GNWYIMWsRjgG" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T03:42:40.683Z[UTC]",
+  "searchQuery" : "m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T03:42:40.829Z[UTC]",
+  "searchQuery" : "ma",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-16T03:42:41.783Z[UTC]",
+  "searchQuery" : "mag",
+  "searchInteractionURIs" : [ "spotify:artist:1oPRcJUkloHaRLYx0olBLJ" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-16T19:30:15.433Z[UTC]",
+  "searchQuery" : "d",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-16T19:30:16.752Z[UTC]",
+  "searchQuery" : "deja",
+  "searchInteractionURIs" : [ "spotify:track:3aAnwyBJY9OLNLqSgd4fZU" ]
+}, {
+  "platform" : "WIN32_X86",
+  "searchTime" : "2025-12-17T18:09:05.172Z[UTC]",
+  "searchQuery" : "isrc:QZS642511985",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86",
+  "searchTime" : "2025-12-17T18:09:05.179Z[UTC]",
+  "searchQuery" : "isrc:QZWFJ2494651",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-17T21:29:23.702Z[UTC]",
+  "searchQuery" : "l",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-17T21:29:24.805Z[UTC]",
+  "searchQuery" : "lush",
+  "searchInteractionURIs" : [ "spotify:track:1rIKgCH4H52lrvDcz50hS8", "spotify:artist:1Xylc3o4UrD53lo9CvFvVg", "spotify:playlist:3CdfoioAm3TCoieKyYPPys" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-17T21:30:15.990Z[UTC]",
+  "searchQuery" : "r",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-17T21:30:17.088Z[UTC]",
+  "searchQuery" : "riha",
+  "searchInteractionURIs" : [ "spotify:playlist:7M4NOEye0GZhHx79F84BR2" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-17T22:36:31.047Z[UTC]",
+  "searchQuery" : "riha",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T03:11:04.153Z[UTC]",
+  "searchQuery" : "l",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-18T03:11:04.426Z[UTC]",
+  "searchQuery" : "la",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-18T03:11:04.839Z[UTC]",
+  "searchQuery" : "last",
+  "searchInteractionURIs" : [ "spotify:track:2FRnf9qhLbvw8fu4IBXx78" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T02:13:16.569Z[UTC]",
+  "searchQuery" : "tida",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T02:13:16.569Z[UTC]",
+  "searchQuery" : "ti",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2025-12-19T02:13:18.498Z[UTC]",
+  "searchQuery" : "tidal wa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-19T02:13:18.732Z[UTC]",
+  "searchQuery" : "tidal wave",
+  "searchInteractionURIs" : [ "spotify:track:5UFjlIK589UVrEUEVbkw1X", "spotify:playlist:0hLo2CIVhjV9OxRmi6MXx5" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T04:46:38.732Z[UTC]",
+  "searchQuery" : "tidal wave",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-19T15:25:44.461Z[UTC]",
+  "searchQuery" : "whi",
+  "searchInteractionURIs" : [ "spotify:playlist:37i9dQZF1DWUZ5bk6qqDSy" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T17:19:42.980Z[UTC]",
+  "searchQuery" : "m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T17:19:43.119Z[UTC]",
+  "searchQuery" : "ma",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T17:19:43.243Z[UTC]",
+  "searchQuery" : "mag",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T17:19:43.320Z[UTC]",
+  "searchQuery" : "m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T17:19:43.403Z[UTC]",
+  "searchQuery" : "ma",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T17:19:43.509Z[UTC]",
+  "searchQuery" : "mag",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T17:19:45.145Z[UTC]",
+  "searchQuery" : "magde",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T17:19:45.410Z[UTC]",
+  "searchQuery" : "magde",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T19:38:59.438Z[UTC]",
+  "searchQuery" : "d",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T19:38:59.784Z[UTC]",
+  "searchQuery" : "d",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T19:38:59.882Z[UTC]",
+  "searchQuery" : "dra",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T19:39:00.115Z[UTC]",
+  "searchQuery" : "dra",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T19:39:00.307Z[UTC]",
+  "searchQuery" : "drag ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T19:39:00.542Z[UTC]",
+  "searchQuery" : "drag ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T19:39:01.740Z[UTC]",
+  "searchQuery" : "drag path",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T19:39:02.045Z[UTC]",
+  "searchQuery" : "drag path",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T19:39:20.162Z[UTC]",
+  "searchQuery" : "drag path",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T19:39:20.201Z[UTC]",
+  "searchQuery" : "drag path",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T19:39:37.823Z[UTC]",
+  "searchQuery" : "drag path",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-19T19:39:40.761Z[UTC]",
+  "searchQuery" : "drag path",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-23T17:12:49.253Z[UTC]",
+  "searchQuery" : "r",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-23T17:12:49.672Z[UTC]",
+  "searchQuery" : "rihan",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-23T17:12:49.874Z[UTC]",
+  "searchQuery" : "rihann",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-23T17:12:50.317Z[UTC]",
+  "searchQuery" : "rihanna",
+  "searchInteractionURIs" : [ "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H", "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-25T23:17:02.310Z[UTC]",
+  "searchQuery" : "andr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-25T23:17:02.321Z[UTC]",
+  "searchQuery" : "andre",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-25T23:17:02.782Z[UTC]",
+  "searchQuery" : "andrea",
+  "searchInteractionURIs" : [ "spotify:artist:3EA9hVIzKfFiQI0Kikz2wo" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-25T23:17:18.735Z[UTC]",
+  "searchQuery" : "andrea bc",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-25T23:17:19.732Z[UTC]",
+  "searchQuery" : "andrea bocel",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-30T09:01:24.505Z[UTC]",
+  "searchQuery" : "e",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-30T09:01:25.399Z[UTC]",
+  "searchQuery" : "eve",
+  "searchInteractionURIs" : [ "spotify:artist:58oPVy7oihAEXE0Ott6JOf" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-30T09:06:51.126Z[UTC]",
+  "searchQuery" : "y",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-30T09:06:52.181Z[UTC]",
+  "searchQuery" : "yuki",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-30T09:06:53.323Z[UTC]",
+  "searchQuery" : "yukika",
+  "searchInteractionURIs" : [ "spotify:artist:4RfI1z9u2xIc5Qnqac4JbO" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2025-12-30T09:07:26.295Z[UTC]",
+  "searchQuery" : "jpo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2025-12-30T09:07:26.792Z[UTC]",
+  "searchQuery" : "jpop",
+  "searchInteractionURIs" : [ "spotify:playlist:4rWP8bAsgihZPfzLGgnLZz", "spotify:playlist:0nz3cRJG7ZdCzdWQmIPp56" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-02T00:40:38.032Z[UTC]",
+  "searchQuery" : "i",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-02T00:40:38.048Z[UTC]",
+  "searchQuery" : "it",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-02T00:40:38.131Z[UTC]",
+  "searchQuery" : "its",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-02T00:40:38.208Z[UTC]",
+  "searchQuery" : "its",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-02T00:40:38.346Z[UTC]",
+  "searchQuery" : "its n",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-02T00:40:38.497Z[UTC]",
+  "searchQuery" : "its no",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-02T00:40:38.608Z[UTC]",
+  "searchQuery" : "its not",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-02T00:40:38.672Z[UTC]",
+  "searchQuery" : "its not",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-01-02T00:40:38.756Z[UTC]",
+  "searchQuery" : "its no",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-02T00:40:42.028Z[UTC]",
+  "searchQuery" : "its not l",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-02T00:40:42.260Z[UTC]",
+  "searchQuery" : "its not li",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-02T00:40:42.421Z[UTC]",
+  "searchQuery" : "its not liv",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-02T00:40:42.507Z[UTC]",
+  "searchQuery" : "its not livi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-02T00:40:42.925Z[UTC]",
+  "searchQuery" : "its not livin",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-02T00:40:42.953Z[UTC]",
+  "searchQuery" : "its not living",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-02T00:40:43.031Z[UTC]",
+  "searchQuery" : "its not living",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-08T03:05:58.897Z[UTC]",
+  "searchQuery" : "v",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-08T03:05:59.263Z[UTC]",
+  "searchQuery" : "vi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-08T03:05:59.282Z[UTC]",
+  "searchQuery" : "vie",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-08T03:05:59.422Z[UTC]",
+  "searchQuery" : "view",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-01-08T03:05:59.478Z[UTC]",
+  "searchQuery" : "vi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-08T03:06:35.069Z[UTC]",
+  "searchQuery" : "g",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-08T03:06:35.258Z[UTC]",
+  "searchQuery" : "gr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-08T03:06:35.583Z[UTC]",
+  "searchQuery" : "gra",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-08T03:06:35.586Z[UTC]",
+  "searchQuery" : "grac",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-08T03:07:01.242Z[UTC]",
+  "searchQuery" : "g",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-08T03:07:01.551Z[UTC]",
+  "searchQuery" : "gos",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-08T03:07:01.657Z[UTC]",
+  "searchQuery" : "gos ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-08T03:07:07.939Z[UTC]",
+  "searchQuery" : "god im act",
+  "searchInteractionURIs" : [ "spotify:track:0gZGUAO42F1HmzZWHNPGAu" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-08T03:11:24.956Z[UTC]",
+  "searchQuery" : "god im act",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-12T14:05:06.338Z[UTC]",
+  "searchQuery" : "on re",
+  "searchInteractionURIs" : [ "spotify:playlist:37i9dQZF1EprwdsdstfCs7", "spotify:genre:0JQ5IMCbQBLipMbPjxxNGS" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-12T16:33:47.791Z[UTC]",
+  "searchQuery" : "no",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-12T16:33:48.841Z[UTC]",
+  "searchQuery" : "noah k",
+  "searchInteractionURIs" : [ "spotify:artist:2RQXRUsr4IW1f3mKyKsy4B" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-13T02:10:50.593Z[UTC]",
+  "searchQuery" : "pot",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-13T02:10:50.601Z[UTC]",
+  "searchQuery" : "po",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-13T02:10:51.016Z[UTC]",
+  "searchQuery" : "poth",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-13T02:10:51.058Z[UTC]",
+  "searchQuery" : "pothe",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-13T02:10:52.879Z[UTC]",
+  "searchQuery" : "lap",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-13T02:10:52.901Z[UTC]",
+  "searchQuery" : "la",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-13T02:10:53.288Z[UTC]",
+  "searchQuery" : "lapl",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-13T02:10:54.881Z[UTC]",
+  "searchQuery" : "a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-13T02:10:55.506Z[UTC]",
+  "searchQuery" : "apot",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-13T02:10:56.008Z[UTC]",
+  "searchQuery" : "apothe",
+  "searchInteractionURIs" : [ "spotify:playlist:6K7ZkYYSPRRPilxTCGbZYx" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-13T03:03:23.730Z[UTC]",
+  "searchQuery" : "b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-13T03:03:23.815Z[UTC]",
+  "searchQuery" : "be",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-13T03:03:24.353Z[UTC]",
+  "searchQuery" : "beu",
+  "searchInteractionURIs" : [ "spotify:artist:0du5cEVh5yTK9QJze8zA0C" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-13T17:36:45.676Z[UTC]",
+  "searchQuery" : "w",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-13T17:36:46.849Z[UTC]",
+  "searchQuery" : "work",
+  "searchInteractionURIs" : [ "spotify:playlist:37i9dQZF1EIeNbDmYrgnbS" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-13T17:45:43.214Z[UTC]",
+  "searchQuery" : "work",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-13T17:50:39.774Z[UTC]",
+  "searchQuery" : "work",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-15T16:45:14.274Z[UTC]",
+  "searchQuery" : "c",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-15T16:45:14.543Z[UTC]",
+  "searchQuery" : "coo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-15T16:45:15.922Z[UTC]",
+  "searchQuery" : "cooking",
+  "searchInteractionURIs" : [ "spotify:playlist:37i9dQZF1EIcPqD4jq1AIu" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-15T16:45:27.631Z[UTC]",
+  "searchQuery" : "th",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-15T16:45:28.844Z[UTC]",
+  "searchQuery" : "throw",
+  "searchInteractionURIs" : [ "spotify:playlist:37i9dQZF1EIhj2zUFUJqG1" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-15T21:37:08.329Z[UTC]",
+  "searchQuery" : "j",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-15T21:37:11.351Z[UTC]",
+  "searchQuery" : "japanese",
+  "searchInteractionURIs" : [ "spotify:playlist:2OfZT7teUPaGjHWRgGqMta" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-16T19:45:45.750Z[UTC]",
+  "searchQuery" : "inters",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-16T19:45:46.261Z[UTC]",
+  "searchQuery" : "interste",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-18T17:11:49.074Z[UTC]",
+  "searchQuery" : "jjk",
+  "searchInteractionURIs" : [ "spotify:track:65X2koe1LhDgQmRkNdJFv9" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-18T17:25:13.877Z[UTC]",
+  "searchQuery" : "jjk",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-18T17:25:16.031Z[UTC]",
+  "searchQuery" : "i",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-18T17:25:16.521Z[UTC]",
+  "searchQuery" : "in",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-18T17:25:20.292Z[UTC]",
+  "searchQuery" : "indie bagers car",
+  "searchInteractionURIs" : [ "spotify:playlist:3sCXpyujWoLScwx3HhvRtf", "spotify:playlist:37i9dQZF1EIepCra93HFDU" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-18T17:27:03.880Z[UTC]",
+  "searchQuery" : "bruno",
+  "searchInteractionURIs" : [ "spotify:artist:0du5cEVh5yTK9QJze8zA0C" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-18T17:28:19.869Z[UTC]",
+  "searchQuery" : "abba",
+  "searchInteractionURIs" : [ "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-18T17:45:11.630Z[UTC]",
+  "searchQuery" : "so",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-18T17:45:12.067Z[UTC]",
+  "searchQuery" : "s",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-18T17:45:20.259Z[UTC]",
+  "searchQuery" : "bts hype",
+  "searchInteractionURIs" : [ "spotify:playlist:0f5a8DeJjX62eG0efubeJ9" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-18T17:46:42.541Z[UTC]",
+  "searchQuery" : "gracie",
+  "searchInteractionURIs" : [ "spotify:artist:4tuJ0bMpJh08umKkEXKUI5" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-18T17:59:41.764Z[UTC]",
+  "searchQuery" : "som",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-18T17:59:41.767Z[UTC]",
+  "searchQuery" : "so",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-18T17:59:42.762Z[UTC]",
+  "searchQuery" : "somewhere",
+  "searchInteractionURIs" : [ "spotify:track:0Rc1b9WaRlXWFINXlsrHf1" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T01:18:32.134Z[UTC]",
+  "searchQuery" : "f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-01-19T01:18:32.763Z[UTC]",
+  "searchQuery" : "fea",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-19T01:18:32.849Z[UTC]",
+  "searchQuery" : "fear",
+  "searchInteractionURIs" : [ "spotify:track:1SgRnIFTs39lSkQJACYDoY" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T18:31:46.795Z[UTC]",
+  "searchQuery" : "fa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T18:31:46.813Z[UTC]",
+  "searchQuery" : "f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T18:31:47.149Z[UTC]",
+  "searchQuery" : "fa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T18:31:47.173Z[UTC]",
+  "searchQuery" : "f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T18:31:48.263Z[UTC]",
+  "searchQuery" : "fatal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T18:31:48.701Z[UTC]",
+  "searchQuery" : "fatal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:10.552Z[UTC]",
+  "searchQuery" : "fatal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:10.972Z[UTC]",
+  "searchQuery" : "fatal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:11.486Z[UTC]",
+  "searchQuery" : "fata",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:11.714Z[UTC]",
+  "searchQuery" : "fat",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:11.847Z[UTC]",
+  "searchQuery" : "fata",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:11.982Z[UTC]",
+  "searchQuery" : "f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:12.039Z[UTC]",
+  "searchQuery" : "fat",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:12.343Z[UTC]",
+  "searchQuery" : "f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:12.755Z[UTC]",
+  "searchQuery" : "m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:13.011Z[UTC]",
+  "searchQuery" : "ma",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:13.144Z[UTC]",
+  "searchQuery" : "m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:13.209Z[UTC]",
+  "searchQuery" : "mag",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:13.370Z[UTC]",
+  "searchQuery" : "ma",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:13.406Z[UTC]",
+  "searchQuery" : "magd",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:13.596Z[UTC]",
+  "searchQuery" : "mag",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:13.622Z[UTC]",
+  "searchQuery" : "magda",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:13.754Z[UTC]",
+  "searchQuery" : "magd",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:13.817Z[UTC]",
+  "searchQuery" : "magdal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:13.935Z[UTC]",
+  "searchQuery" : "magda",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:13.989Z[UTC]",
+  "searchQuery" : "magdale",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:14.246Z[UTC]",
+  "searchQuery" : "magdal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:14.260Z[UTC]",
+  "searchQuery" : "magdalena",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:14.318Z[UTC]",
+  "searchQuery" : "magdale",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T19:16:14.591Z[UTC]",
+  "searchQuery" : "magdalena",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T21:47:52.063Z[UTC]",
+  "searchQuery" : "magdalena",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T21:47:52.497Z[UTC]",
+  "searchQuery" : "magdalena",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T21:47:52.960Z[UTC]",
+  "searchQuery" : "magdale",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-19T21:47:52.981Z[UTC]",
+  "searchQuery" : "magdalen",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T21:47:53.038Z[UTC]",
+  "searchQuery" : "magdalen",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T21:47:53.370Z[UTC]",
+  "searchQuery" : "magdale",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T21:47:54.229Z[UTC]",
+  "searchQuery" : "t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T21:47:54.289Z[UTC]",
+  "searchQuery" : "tw",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T21:47:54.582Z[UTC]",
+  "searchQuery" : "twi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T21:47:54.623Z[UTC]",
+  "searchQuery" : "t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T21:47:54.631Z[UTC]",
+  "searchQuery" : "tw",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T21:47:54.939Z[UTC]",
+  "searchQuery" : "twi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T21:47:55.189Z[UTC]",
+  "searchQuery" : "twic",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T21:47:55.358Z[UTC]",
+  "searchQuery" : "twice",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T21:47:55.516Z[UTC]",
+  "searchQuery" : "twic",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T21:47:55.693Z[UTC]",
+  "searchQuery" : "twice",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T22:05:54.757Z[UTC]",
+  "searchQuery" : "twice",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T22:05:55.115Z[UTC]",
+  "searchQuery" : "twice",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T22:05:55.324Z[UTC]",
+  "searchQuery" : "b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T22:05:55.716Z[UTC]",
+  "searchQuery" : "b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T22:05:56.622Z[UTC]",
+  "searchQuery" : "j",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T22:05:56.767Z[UTC]",
+  "searchQuery" : "ji",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T22:05:56.989Z[UTC]",
+  "searchQuery" : "jimi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T22:05:57.012Z[UTC]",
+  "searchQuery" : "j",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T22:05:57.161Z[UTC]",
+  "searchQuery" : "ji",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T22:05:57.195Z[UTC]",
+  "searchQuery" : "jimin",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T22:05:57.321Z[UTC]",
+  "searchQuery" : "jimi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T22:05:57.548Z[UTC]",
+  "searchQuery" : "jimin",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T22:58:51.136Z[UTC]",
+  "searchQuery" : "bt",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-19T22:58:51.226Z[UTC]",
+  "searchQuery" : "b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T22:58:51.326Z[UTC]",
+  "searchQuery" : "b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T22:58:51.402Z[UTC]",
+  "searchQuery" : "bts",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T22:58:51.537Z[UTC]",
+  "searchQuery" : "bt",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-19T22:58:51.788Z[UTC]",
+  "searchQuery" : "bts",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-01-20T16:02:14.445Z[UTC]",
+  "searchQuery" : "h",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-20T16:02:14.899Z[UTC]",
+  "searchQuery" : "hype",
+  "searchInteractionURIs" : [ "spotify:playlist:37i9dQZF1EIeU3RFfPV9ui" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-20T16:50:38.503Z[UTC]",
+  "searchQuery" : "hype",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:37:46.966Z[UTC]",
+  "searchQuery" : "h",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:37:46.991Z[UTC]",
+  "searchQuery" : "ha",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:37:47.068Z[UTC]",
+  "searchQuery" : "hal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:37:47.172Z[UTC]",
+  "searchQuery" : "hala",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:37:47.515Z[UTC]",
+  "searchQuery" : "halaz",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:37:47.515Z[UTC]",
+  "searchQuery" : "halazi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:37:47.677Z[UTC]",
+  "searchQuery" : "halazia",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:37:57.855Z[UTC]",
+  "searchQuery" : "f",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:37:58.073Z[UTC]",
+  "searchQuery" : "fa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:37:58.084Z[UTC]",
+  "searchQuery" : "fat",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:37:58.164Z[UTC]",
+  "searchQuery" : "fata",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:37:58.270Z[UTC]",
+  "searchQuery" : "fatal",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:38:06.627Z[UTC]",
+  "searchQuery" : "d",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:38:06.787Z[UTC]",
+  "searchQuery" : "de",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:38:06.860Z[UTC]",
+  "searchQuery" : "dej",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-01-21T18:38:07.003Z[UTC]",
+  "searchQuery" : "de",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:38:07.031Z[UTC]",
+  "searchQuery" : "deja",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:38:07.053Z[UTC]",
+  "searchQuery" : "deja",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-01-21T18:38:07.248Z[UTC]",
+  "searchQuery" : "deja",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:38:07.284Z[UTC]",
+  "searchQuery" : "deja v",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:38:07.364Z[UTC]",
+  "searchQuery" : "deja vu",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-01-21T18:38:07.506Z[UTC]",
+  "searchQuery" : "deja v",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:38:09.591Z[UTC]",
+  "searchQuery" : "c",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:38:09.664Z[UTC]",
+  "searchQuery" : "ch",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:38:09.807Z[UTC]",
+  "searchQuery" : "cha",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:38:10.031Z[UTC]",
+  "searchQuery" : "chasi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:38:10.032Z[UTC]",
+  "searchQuery" : "chas",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:38:10.229Z[UTC]",
+  "searchQuery" : "chasin",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:38:10.320Z[UTC]",
+  "searchQuery" : "chasing",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:38:22.483Z[UTC]",
+  "searchQuery" : "t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-01-21T18:38:22.726Z[UTC]",
+  "searchQuery" : "t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:38:22.769Z[UTC]",
+  "searchQuery" : "tx",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:38:22.942Z[UTC]",
+  "searchQuery" : "txt",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-01-21T18:38:23.171Z[UTC]",
+  "searchQuery" : "txt",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:38:50.355Z[UTC]",
+  "searchQuery" : "c",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:38:50.412Z[UTC]",
+  "searchQuery" : "cl",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:38:50.497Z[UTC]",
+  "searchQuery" : "clo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:38:50.609Z[UTC]",
+  "searchQuery" : "clos",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:38:51.038Z[UTC]",
+  "searchQuery" : "close",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:39:40.470Z[UTC]",
+  "searchQuery" : "c",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:39:40.558Z[UTC]",
+  "searchQuery" : "cl",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:39:40.698Z[UTC]",
+  "searchQuery" : "clo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:39:40.764Z[UTC]",
+  "searchQuery" : "clos",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:39:40.941Z[UTC]",
+  "searchQuery" : "close",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:39:43.609Z[UTC]",
+  "searchQuery" : "close",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:39:44.139Z[UTC]",
+  "searchQuery" : "close y",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:39:44.193Z[UTC]",
+  "searchQuery" : "close yo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:39:44.373Z[UTC]",
+  "searchQuery" : "close you",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:39:44.482Z[UTC]",
+  "searchQuery" : "close your",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:39:58.036Z[UTC]",
+  "searchQuery" : "&",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:39:58.468Z[UTC]",
+  "searchQuery" : "&t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:39:58.625Z[UTC]",
+  "searchQuery" : "&te",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:39:58.703Z[UTC]",
+  "searchQuery" : "&tea",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-21T18:39:58.756Z[UTC]",
+  "searchQuery" : "&team",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-22T20:01:39.695Z[UTC]",
+  "searchQuery" : "g",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-22T20:01:42.492Z[UTC]",
+  "searchQuery" : "girl sa",
+  "searchInteractionURIs" : [ "spotify:track:3wQnyXNFXNUEOBt1pb4urq" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-23T02:01:03.006Z[UTC]",
+  "searchQuery" : "sea",
+  "searchInteractionURIs" : [ "spotify:episode:5VnTgWQSw1hogvkJeFL28J" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-23T02:01:14.747Z[UTC]",
+  "searchQuery" : "sea bts",
+  "searchInteractionURIs" : [ "spotify:playlist:0sHD2praCpTVV1BXfHDdDj" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-23T03:37:14.771Z[UTC]",
+  "searchQuery" : "sea bts",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-23T16:48:59.008Z[UTC]",
+  "searchQuery" : "arct",
+  "searchInteractionURIs" : [ "spotify:artist:7Ln80lUS6He07XvHI8qqHH" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-23T16:49:13.727Z[UTC]",
+  "searchQuery" : "not",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-23T16:49:14.616Z[UTC]",
+  "searchQuery" : "notfo",
+  "searchInteractionURIs" : [ "spotify:artist:0oXhGlRUQ8aVTx8eO4MoMT" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-23T16:49:36.453Z[UTC]",
+  "searchQuery" : "misam",
+  "searchInteractionURIs" : [ "spotify:artist:0IwZVmMMGE7nNXS7vN9SIo" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-23T16:58:36.499Z[UTC]",
+  "searchQuery" : "on repe",
+  "searchInteractionURIs" : [ "spotify:playlist:37i9dQZF1EprwdsdstfCs7" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-25T07:29:16.120Z[UTC]",
+  "searchQuery" : "on",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-25T07:29:17.066Z[UTC]",
+  "searchQuery" : "one lf",
+  "searchInteractionURIs" : [ "spotify:track:1Fav4xZn60uGM3XmiHJmvT" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-26T15:48:13.545Z[UTC]",
+  "searchQuery" : "sugar",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T15:48:17.196Z[UTC]",
+  "searchQuery" : "t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-26T15:48:17.830Z[UTC]",
+  "searchQuery" : "txt",
+  "searchInteractionURIs" : [ "spotify:artist:0ghlgldX5Dd6720Q3qFyQB" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:17:33.033Z[UTC]",
+  "searchQuery" : "d",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-26T20:17:33.369Z[UTC]",
+  "searchQuery" : "dr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:17:33.424Z[UTC]",
+  "searchQuery" : "dra",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:17:33.454Z[UTC]",
+  "searchQuery" : "dr",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:17:33.496Z[UTC]",
+  "searchQuery" : "drag",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:17:33.549Z[UTC]",
+  "searchQuery" : "drag ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-26T20:17:33.792Z[UTC]",
+  "searchQuery" : "d",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:17:33.803Z[UTC]",
+  "searchQuery" : "dra",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:17:33.856Z[UTC]",
+  "searchQuery" : "drag",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:17:33.902Z[UTC]",
+  "searchQuery" : "drag ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:17:34.206Z[UTC]",
+  "searchQuery" : "drag p",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:17:34.488Z[UTC]",
+  "searchQuery" : "drag pa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:17:34.671Z[UTC]",
+  "searchQuery" : "drag path",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-26T20:17:34.878Z[UTC]",
+  "searchQuery" : "drag p",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:17:34.900Z[UTC]",
+  "searchQuery" : "drag pa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:17:35.075Z[UTC]",
+  "searchQuery" : "drag path",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:23:05.967Z[UTC]",
+  "searchQuery" : "waiting ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:23:06.299Z[UTC]",
+  "searchQuery" : "waiting ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:50:59.843Z[UTC]",
+  "searchQuery" : "mi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:50:59.887Z[UTC]",
+  "searchQuery" : "m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:50:59.957Z[UTC]",
+  "searchQuery" : "mis",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:00.163Z[UTC]",
+  "searchQuery" : "missi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:00.249Z[UTC]",
+  "searchQuery" : "mi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:00.301Z[UTC]",
+  "searchQuery" : "m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:00.315Z[UTC]",
+  "searchQuery" : "missing",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:00.342Z[UTC]",
+  "searchQuery" : "mis",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:00.522Z[UTC]",
+  "searchQuery" : "missing o",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:00.705Z[UTC]",
+  "searchQuery" : "missing",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:00.751Z[UTC]",
+  "searchQuery" : "missing out",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-26T20:51:00.850Z[UTC]",
+  "searchQuery" : "missi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:00.902Z[UTC]",
+  "searchQuery" : "missing o",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:01.164Z[UTC]",
+  "searchQuery" : "missing out",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:37.171Z[UTC]",
+  "searchQuery" : "s",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:37.348Z[UTC]",
+  "searchQuery" : "sh",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:37.560Z[UTC]",
+  "searchQuery" : "shy a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:37.567Z[UTC]",
+  "searchQuery" : "s",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:37.716Z[UTC]",
+  "searchQuery" : "sh",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:37.950Z[UTC]",
+  "searchQuery" : "shy a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-26T20:51:38.113Z[UTC]",
+  "searchQuery" : "shy aw",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:38.168Z[UTC]",
+  "searchQuery" : "shy awa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:38.205Z[UTC]",
+  "searchQuery" : "shy aw",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:38.388Z[UTC]",
+  "searchQuery" : "shy away",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:38.537Z[UTC]",
+  "searchQuery" : "shy awa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:38.790Z[UTC]",
+  "searchQuery" : "shy away",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:56.309Z[UTC]",
+  "searchQuery" : "h",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:56.720Z[UTC]",
+  "searchQuery" : "h",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:56.725Z[UTC]",
+  "searchQuery" : "ho",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:56.890Z[UTC]",
+  "searchQuery" : "hol",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:57.153Z[UTC]",
+  "searchQuery" : "ho",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:57.291Z[UTC]",
+  "searchQuery" : "hol",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:57.395Z[UTC]",
+  "searchQuery" : "holding",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-26T20:51:57.521Z[UTC]",
+  "searchQuery" : "holdin",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:57.554Z[UTC]",
+  "searchQuery" : "holding ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:57.627Z[UTC]",
+  "searchQuery" : "holdin",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:57.768Z[UTC]",
+  "searchQuery" : "holding",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:57.798Z[UTC]",
+  "searchQuery" : "holding on",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:57.898Z[UTC]",
+  "searchQuery" : "holding ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:58.184Z[UTC]",
+  "searchQuery" : "holding on",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:58.265Z[UTC]",
+  "searchQuery" : "holding onto",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-26T20:51:58.393Z[UTC]",
+  "searchQuery" : "holding ont",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:58.479Z[UTC]",
+  "searchQuery" : "holding ont",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:58.525Z[UTC]",
+  "searchQuery" : "holding onto yo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:58.552Z[UTC]",
+  "searchQuery" : "holding onto y",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:58.654Z[UTC]",
+  "searchQuery" : "holding onto",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:58.768Z[UTC]",
+  "searchQuery" : "holding onto you",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:58.896Z[UTC]",
+  "searchQuery" : "holding onto y",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:51:58.953Z[UTC]",
+  "searchQuery" : "holding onto yo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-26T20:51:59.362Z[UTC]",
+  "searchQuery" : "holding onto you",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:12.947Z[UTC]",
+  "searchQuery" : "i",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:13.182Z[UTC]",
+  "searchQuery" : "it ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:13.373Z[UTC]",
+  "searchQuery" : "i",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:13.476Z[UTC]",
+  "searchQuery" : "it mig",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:13.559Z[UTC]",
+  "searchQuery" : "it ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:13.692Z[UTC]",
+  "searchQuery" : "it might",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:13.862Z[UTC]",
+  "searchQuery" : "it mig",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:13.869Z[UTC]",
+  "searchQuery" : "it might b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:14.098Z[UTC]",
+  "searchQuery" : "it might",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:14.100Z[UTC]",
+  "searchQuery" : "it might be t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:14.365Z[UTC]",
+  "searchQuery" : "it might b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:14.523Z[UTC]",
+  "searchQuery" : "it might be tim",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:14.536Z[UTC]",
+  "searchQuery" : "it might be time",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:14.549Z[UTC]",
+  "searchQuery" : "it might be t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:15.140Z[UTC]",
+  "searchQuery" : "it might be tim",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:15.163Z[UTC]",
+  "searchQuery" : "it might be time",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:31.262Z[UTC]",
+  "searchQuery" : "l",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:31.454Z[UTC]",
+  "searchQuery" : "loc",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:31.644Z[UTC]",
+  "searchQuery" : "l",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:31.740Z[UTC]",
+  "searchQuery" : "locke",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:31.789Z[UTC]",
+  "searchQuery" : "loc",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:32.013Z[UTC]",
+  "searchQuery" : "locket",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:32.067Z[UTC]",
+  "searchQuery" : "locke",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:32.367Z[UTC]",
+  "searchQuery" : "locket",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:47.925Z[UTC]",
+  "searchQuery" : "n",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:48.117Z[UTC]",
+  "searchQuery" : "no",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:48.395Z[UTC]",
+  "searchQuery" : "noti",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:48.526Z[UTC]",
+  "searchQuery" : "no",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:48.589Z[UTC]",
+  "searchQuery" : "notion",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:48.756Z[UTC]",
+  "searchQuery" : "noti",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-26T20:52:48.766Z[UTC]",
+  "searchQuery" : "n",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:52:48.967Z[UTC]",
+  "searchQuery" : "notion",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:54:42.876Z[UTC]",
+  "searchQuery" : "t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:54:43.276Z[UTC]",
+  "searchQuery" : "t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-26T20:54:43.443Z[UTC]",
+  "searchQuery" : "the",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:54:43.449Z[UTC]",
+  "searchQuery" : "the ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:54:43.534Z[UTC]",
+  "searchQuery" : "the",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:54:43.626Z[UTC]",
+  "searchQuery" : "the n",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:54:43.890Z[UTC]",
+  "searchQuery" : "the ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:54:43.924Z[UTC]",
+  "searchQuery" : "the nig",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:54:43.995Z[UTC]",
+  "searchQuery" : "the n",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:54:44.029Z[UTC]",
+  "searchQuery" : "the nigh",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:54:44.269Z[UTC]",
+  "searchQuery" : "the night ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:54:44.324Z[UTC]",
+  "searchQuery" : "the nig",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:54:44.403Z[UTC]",
+  "searchQuery" : "the night w",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:54:44.420Z[UTC]",
+  "searchQuery" : "the nigh",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:54:44.624Z[UTC]",
+  "searchQuery" : "the night ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:54:44.641Z[UTC]",
+  "searchQuery" : "the night we",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:54:44.808Z[UTC]",
+  "searchQuery" : "the night w",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:54:44.854Z[UTC]",
+  "searchQuery" : "the night we m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:54:45.094Z[UTC]",
+  "searchQuery" : "the night we met",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-26T20:54:45.333Z[UTC]",
+  "searchQuery" : "the night we",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:54:45.440Z[UTC]",
+  "searchQuery" : "the night we met",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-26T20:54:45.513Z[UTC]",
+  "searchQuery" : "the night we m",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:55:07.361Z[UTC]",
+  "searchQuery" : "h",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:55:07.629Z[UTC]",
+  "searchQuery" : "heav",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:55:07.760Z[UTC]",
+  "searchQuery" : "h",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:55:07.953Z[UTC]",
+  "searchQuery" : "heaven",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:55:08.027Z[UTC]",
+  "searchQuery" : "heav",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-26T20:55:08.040Z[UTC]",
+  "searchQuery" : "heave",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:55:08.123Z[UTC]",
+  "searchQuery" : "heave",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-26T20:55:08.683Z[UTC]",
+  "searchQuery" : "heaven",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:55:27.118Z[UTC]",
+  "searchQuery" : "s",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:55:27.304Z[UTC]",
+  "searchQuery" : "sw",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:55:27.474Z[UTC]",
+  "searchQuery" : "swee",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-26T20:55:27.776Z[UTC]",
+  "searchQuery" : "s",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:55:27.835Z[UTC]",
+  "searchQuery" : "swee",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:55:27.925Z[UTC]",
+  "searchQuery" : "sweet ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-26T20:55:28.088Z[UTC]",
+  "searchQuery" : "sweet",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-26T20:55:28.100Z[UTC]",
+  "searchQuery" : "sw",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:55:28.167Z[UTC]",
+  "searchQuery" : "sweet di",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:55:28.187Z[UTC]",
+  "searchQuery" : "sweet",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:55:28.364Z[UTC]",
+  "searchQuery" : "sweet disp",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:55:28.410Z[UTC]",
+  "searchQuery" : "sweet ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:55:28.556Z[UTC]",
+  "searchQuery" : "sweet di",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:55:28.628Z[UTC]",
+  "searchQuery" : "sweet dispo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:55:28.762Z[UTC]",
+  "searchQuery" : "sweet disp",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-26T20:55:29.026Z[UTC]",
+  "searchQuery" : "sweet dispo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T18:15:08.553Z[UTC]",
+  "searchQuery" : "b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T18:15:08.799Z[UTC]",
+  "searchQuery" : "bl",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-27T18:15:09.430Z[UTC]",
+  "searchQuery" : "blue",
+  "searchInteractionURIs" : [ "spotify:track:4i0HNuFEH6P6K4UnsY5uUh" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-27T18:18:37.102Z[UTC]",
+  "searchQuery" : "disband",
+  "searchInteractionURIs" : [ "spotify:playlist:6kA6KCOJtnlHnQzfasZ5ME", "spotify:playlist:24CT2vE5hkPNA7vF6gaKKj", "spotify:playlist:5znQHmQmG2HEdaMF87sgTA" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:23.215Z[UTC]",
+  "searchQuery" : "lord huron",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:23.665Z[UTC]",
+  "searchQuery" : "lord huron",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:52.672Z[UTC]",
+  "searchQuery" : "oh",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:52.867Z[UTC]",
+  "searchQuery" : "oh t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-27T19:06:52.874Z[UTC]",
+  "searchQuery" : "o",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:53.002Z[UTC]",
+  "searchQuery" : "o",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:53.115Z[UTC]",
+  "searchQuery" : "oh",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:53.180Z[UTC]",
+  "searchQuery" : "oh the ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:53.365Z[UTC]",
+  "searchQuery" : "oh the d",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:53.428Z[UTC]",
+  "searchQuery" : "oh the deep deep love",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:53.428Z[UTC]",
+  "searchQuery" : "o the deep deep love of jesus",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:53.428Z[UTC]",
+  "searchQuery" : "oh the deep deep love of jesus",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:53.429Z[UTC]",
+  "searchQuery" : "oh the deep, deep love",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:53.439Z[UTC]",
+  "searchQuery" : "oh t",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:53.576Z[UTC]",
+  "searchQuery" : "oh the ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:53.724Z[UTC]",
+  "searchQuery" : "oh the dar",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:53.892Z[UTC]",
+  "searchQuery" : "oh the d",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:53.956Z[UTC]",
+  "searchQuery" : "oh the dark",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:53.988Z[UTC]",
+  "searchQuery" : "oh the darkn",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:54.179Z[UTC]",
+  "searchQuery" : "oh the dar",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:54.235Z[UTC]",
+  "searchQuery" : "oh the darknes",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:54.495Z[UTC]",
+  "searchQuery" : "oh the darkness",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:54.565Z[UTC]",
+  "searchQuery" : "oh the dark",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:54.577Z[UTC]",
+  "searchQuery" : "oh the darkn",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:54.842Z[UTC]",
+  "searchQuery" : "oh the darknes",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:55.012Z[UTC]",
+  "searchQuery" : "oh the darkness",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:58.075Z[UTC]",
+  "searchQuery" : "oh the darkness ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:58.322Z[UTC]",
+  "searchQuery" : "oh the darkness g",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:58.515Z[UTC]",
+  "searchQuery" : "oh the darkness go",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:58.680Z[UTC]",
+  "searchQuery" : "oh the darkness ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:58.754Z[UTC]",
+  "searchQuery" : "oh the darkness got ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:58.850Z[UTC]",
+  "searchQuery" : "oh the darkness g",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:58.905Z[UTC]",
+  "searchQuery" : "oh the darkness got a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:59.019Z[UTC]",
+  "searchQuery" : "oh the darkness go",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:59.149Z[UTC]",
+  "searchQuery" : "oh the darkness got a ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:59.369Z[UTC]",
+  "searchQuery" : "oh the darkness got ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:59.427Z[UTC]",
+  "searchQuery" : "oh the darkness got a ho",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-27T19:06:59.657Z[UTC]",
+  "searchQuery" : "oh the darkness got a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:59.663Z[UTC]",
+  "searchQuery" : "oh the darkness got a hold ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:06:59.715Z[UTC]",
+  "searchQuery" : "oh the darkness got a ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:07:00.013Z[UTC]",
+  "searchQuery" : "oh the darkness got a hold o",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:07:00.074Z[UTC]",
+  "searchQuery" : "oh the darkness got a ho",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:07:00.165Z[UTC]",
+  "searchQuery" : "oh the darkness got a hold ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:07:00.201Z[UTC]",
+  "searchQuery" : "oh the darkness got a hold of",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:07:00.408Z[UTC]",
+  "searchQuery" : "oh the darkness got a hold of ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:07:00.544Z[UTC]",
+  "searchQuery" : "oh the darkness got a hold o",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:07:00.593Z[UTC]",
+  "searchQuery" : "oh the darkness got a hold of me",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:07:00.647Z[UTC]",
+  "searchQuery" : "oh the darkness got a hold of",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:07:00.833Z[UTC]",
+  "searchQuery" : "oh the darkness got a hold of ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-27T19:07:01.227Z[UTC]",
+  "searchQuery" : "oh the darkness got a hold of me",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:07:55.241Z[UTC]",
+  "searchQuery" : "i",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:07:55.380Z[UTC]",
+  "searchQuery" : "if",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:07:55.578Z[UTC]",
+  "searchQuery" : "if ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:07:55.754Z[UTC]",
+  "searchQuery" : "if",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:07:55.844Z[UTC]",
+  "searchQuery" : "i",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:07:56.025Z[UTC]",
+  "searchQuery" : "if eye",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:07:56.080Z[UTC]",
+  "searchQuery" : "if ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-27T19:07:56.083Z[UTC]",
+  "searchQuery" : "if e",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:07:56.229Z[UTC]",
+  "searchQuery" : "if e",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:07:56.661Z[UTC]",
+  "searchQuery" : "if eye",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:09:16.565Z[UTC]",
+  "searchQuery" : "nm",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-27T19:09:16.703Z[UTC]",
+  "searchQuery" : "n",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:09:16.748Z[UTC]",
+  "searchQuery" : "nmi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:09:16.929Z[UTC]",
+  "searchQuery" : "n",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:09:16.986Z[UTC]",
+  "searchQuery" : "nm",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:09:16.998Z[UTC]",
+  "searchQuery" : "nmixx",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:09:17.277Z[UTC]",
+  "searchQuery" : "nmi",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-27T19:09:17.496Z[UTC]",
+  "searchQuery" : "nmixx",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-29T17:10:41.060Z[UTC]",
+  "searchQuery" : "my l",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-29T17:10:45.481Z[UTC]",
+  "searchQuery" : "my life is a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-29T17:10:47.794Z[UTC]",
+  "searchQuery" : "my life is a party",
+  "searchInteractionURIs" : [ "spotify:track:04E1UxSupv0GGLrFv22ND1", "spotify:track:04E1UxSupv0GGLrFv22ND1", "spotify:playlist:2KE4VlsCKCnRBW28jCVRdY", "spotify:playlist:6Rshp32gRmWOgYFeL0eOPt" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-29T17:34:07.208Z[UTC]",
+  "searchQuery" : "my life is a party",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T01:33:49.730Z[UTC]",
+  "searchQuery" : "i",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-30T01:33:50.093Z[UTC]",
+  "searchQuery" : "in",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T01:33:50.187Z[UTC]",
+  "searchQuery" : "in",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T01:33:50.189Z[UTC]",
+  "searchQuery" : "i",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T01:33:50.433Z[UTC]",
+  "searchQuery" : "inte",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T01:33:50.796Z[UTC]",
+  "searchQuery" : "inte",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T01:33:50.863Z[UTC]",
+  "searchQuery" : "internet g",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T01:33:51.106Z[UTC]",
+  "searchQuery" : "internet girl",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T01:33:51.208Z[UTC]",
+  "searchQuery" : "internet g",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T01:33:51.478Z[UTC]",
+  "searchQuery" : "internet girl",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T01:33:58.017Z[UTC]",
+  "searchQuery" : "internet girl",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T01:33:58.298Z[UTC]",
+  "searchQuery" : "internet girl",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T04:57:56.526Z[UTC]",
+  "searchQuery" : "a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T04:57:56.644Z[UTC]",
+  "searchQuery" : "as",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T04:57:56.890Z[UTC]",
+  "searchQuery" : "a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T04:57:57.047Z[UTC]",
+  "searchQuery" : "asa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-30T04:57:57.269Z[UTC]",
+  "searchQuery" : "as",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T04:57:57.423Z[UTC]",
+  "searchQuery" : "asa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-30T04:57:58.817Z[UTC]",
+  "searchQuery" : "asap",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T04:57:58.892Z[UTC]",
+  "searchQuery" : "asap",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T05:15:06.209Z[UTC]",
+  "searchQuery" : "my life is a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T05:15:06.505Z[UTC]",
+  "searchQuery" : "my life is a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T05:15:06.587Z[UTC]",
+  "searchQuery" : "my life is a ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T05:15:06.942Z[UTC]",
+  "searchQuery" : "my life is a ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T05:15:07.698Z[UTC]",
+  "searchQuery" : "my life is a party",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-01-30T05:15:08.120Z[UTC]",
+  "searchQuery" : "my life is a party",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T05:17:21.609Z[UTC]",
+  "searchQuery" : "asap",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T05:17:21.948Z[UTC]",
+  "searchQuery" : "asap",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T05:17:22.310Z[UTC]",
+  "searchQuery" : "b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T05:17:22.516Z[UTC]",
+  "searchQuery" : "bad ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T05:17:22.657Z[UTC]",
+  "searchQuery" : "b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T05:17:22.712Z[UTC]",
+  "searchQuery" : "bad b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T05:17:22.840Z[UTC]",
+  "searchQuery" : "bad ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T05:17:22.945Z[UTC]",
+  "searchQuery" : "bad boy",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T05:17:23.039Z[UTC]",
+  "searchQuery" : "bad b",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-01-30T05:17:23.301Z[UTC]",
+  "searchQuery" : "bad boy",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-01-30T19:17:16.158Z[UTC]",
+  "searchQuery" : "passage",
+  "searchInteractionURIs" : [ "spotify:album:3nwFHYxQtP6w7k1M2yzH6M" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-01T00:04:14.601Z[UTC]",
+  "searchQuery" : "dune",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-01T17:54:32.173Z[UTC]",
+  "searchQuery" : "work",
+  "searchInteractionURIs" : [ "spotify:playlist:37i9dQZF1EIeNbDmYrgnbS" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T17:54:34.423Z[UTC]",
+  "searchQuery" : "w",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T17:54:34.487Z[UTC]",
+  "searchQuery" : "wo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T17:54:34.649Z[UTC]",
+  "searchQuery" : "wor",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-01T19:46:50.697Z[UTC]",
+  "searchQuery" : "don tol",
+  "searchInteractionURIs" : [ "spotify:artist:4Gso3d4CscCijv0lmajZWs" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T21:23:09.422Z[UTC]",
+  "searchQuery" : "Us and Them - Pink Floyd",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T21:23:09.422Z[UTC]",
+  "searchQuery" : "Lounge Act - Nirvana",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T21:23:09.422Z[UTC]",
+  "searchQuery" : "Love Drought - Beyoncé",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T21:23:09.423Z[UTC]",
+  "searchQuery" : "29 #Strafford APTS - Bon Iver",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T21:23:09.425Z[UTC]",
+  "searchQuery" : "Baby Be Mine - Michael Jackson",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T21:23:09.425Z[UTC]",
+  "searchQuery" : "Computer Blue - Prince",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T21:23:09.429Z[UTC]",
+  "searchQuery" : "Cinderella Man - Rush",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T21:23:09.429Z[UTC]",
+  "searchQuery" : "The Tourist - Radiohead",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T21:23:09.429Z[UTC]",
+  "searchQuery" : "Within You Without You - The Beatles",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T21:23:09.430Z[UTC]",
+  "searchQuery" : "Shake a Leg - AC/DC",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T21:23:09.430Z[UTC]",
+  "searchQuery" : "Meeting Across the River - Bruce Springsteen",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T21:23:09.433Z[UTC]",
+  "searchQuery" : "Wake Up Alone - Amy Winehouse",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T21:23:09.433Z[UTC]",
+  "searchQuery" : "Little Freak - Harry Styles",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T21:23:09.438Z[UTC]",
+  "searchQuery" : "Friend of a Friend - Foo Fighters",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T21:23:09.441Z[UTC]",
+  "searchQuery" : "I Don't Want to Know - Fleetwood Mac",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86",
+  "searchTime" : "2026-02-01T21:23:09.576Z[UTC]",
+  "searchQuery" : "29 #Strafford APTS - Bon Iver",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86",
+  "searchTime" : "2026-02-01T21:23:09.603Z[UTC]",
+  "searchQuery" : "Little Freak - Harry Styles",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T21:23:09.605Z[UTC]",
+  "searchQuery" : "Crush - Dave Matthews Band",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T21:23:09.606Z[UTC]",
+  "searchQuery" : "Sing About Me, I'm Dying of Thirst - Kendrick Lamar",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T21:23:09.611Z[UTC]",
+  "searchQuery" : "ilomilo - Billie Eilish",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T21:23:09.626Z[UTC]",
+  "searchQuery" : "The Last Time - Taylor Swift",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T21:23:09.630Z[UTC]",
+  "searchQuery" : "Pretty Please - Dua Lipa",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T21:23:13.960Z[UTC]",
+  "searchQuery" : "Suburban War - Arcade Fire",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-01T21:36:32.355Z[UTC]",
+  "searchQuery" : "clu",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-01T21:36:33.273Z[UTC]",
+  "searchQuery" : "club",
+  "searchInteractionURIs" : [ "spotify:playlist:37i9dQZF1EIcsHAaTPt2VN" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-05T04:56:27.463Z[UTC]",
+  "searchQuery" : "god mornin",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-05T04:56:29.322Z[UTC]",
+  "searchQuery" : "god morning bbay",
+  "searchInteractionURIs" : [ "spotify:track:29UB7llVQVoTi4gQbTHY0R" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-09T14:09:35.585Z[UTC]",
+  "searchQuery" : "so what",
+  "searchInteractionURIs" : [ "spotify:track:0wqqe8k13bJPxRt7FEmnwS" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-09T16:54:23.838Z[UTC]",
+  "searchQuery" : "so what",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-10T19:45:31.256Z[UTC]",
+  "searchQuery" : "upbeat",
+  "searchInteractionURIs" : [ "spotify:playlist:37i9dQZF1EIhwD428jkznq" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-10T22:38:31.584Z[UTC]",
+  "searchQuery" : "upbeat",
+  "searchInteractionURIs" : [ "spotify:playlist:37i9dQZF1EVJHK7Q1TBABQ", "spotify:playlist:37i9dQZF1EIeU3RFfPV9ui" ]
+}, {
+  "platform" : "IPHONE_ARM64",
+  "searchTime" : "2026-02-11T14:14:13.224Z[UTC]",
+  "searchQuery" : "da",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-11T14:14:13.531Z[UTC]",
+  "searchQuery" : "daft",
+  "searchInteractionURIs" : [ "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-11T16:26:33.504Z[UTC]",
+  "searchQuery" : "doom",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-11T16:26:33.539Z[UTC]",
+  "searchQuery" : "doo",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-11T16:26:33.880Z[UTC]",
+  "searchQuery" : "dooms",
+  "searchInteractionURIs" : [ "spotify:track:4WjxtORnwPavm5PDsAWJEc", "spotify:track:6oCXDaFZYL7sHnowv6pdXb" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-12T15:30:08.555Z[UTC]",
+  "searchQuery" : "bad",
+  "searchInteractionURIs" : [ "spotify:artist:4q3ewBCX7sLwd24euuV69X" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-12T18:50:34.525Z[UTC]",
+  "searchQuery" : "d",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-12T18:50:34.714Z[UTC]",
+  "searchQuery" : "da",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-12T18:50:34.893Z[UTC]",
+  "searchQuery" : "day",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-12T18:50:35.083Z[UTC]",
+  "searchQuery" : "dayl",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-12T18:50:35.186Z[UTC]",
+  "searchQuery" : "dayli",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-12T18:50:35.292Z[UTC]",
+  "searchQuery" : "daylig",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-12T18:50:35.358Z[UTC]",
+  "searchQuery" : "dayligh",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-12T18:50:35.519Z[UTC]",
+  "searchQuery" : "daylight",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-12T19:02:29.071Z[UTC]",
+  "searchQuery" : "ta",
+  "searchInteractionURIs" : [ "spotify:artist:06HL4z0CvFAxyc27GXpf02" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-12T19:03:51.640Z[UTC]",
+  "searchQuery" : "false",
+  "searchInteractionURIs" : [ "spotify:track:5hQSXkFgbxjZo9uCwd11so" ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-12T21:27:39.527Z[UTC]",
+  "searchQuery" : "affec",
+  "searchInteractionURIs" : [ "spotify:track:4EtgDIWb8Wm5mnaK701c0C" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-13T14:10:44.337Z[UTC]",
+  "searchQuery" : "affec",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "IPHONE",
+  "searchTime" : "2026-02-13T22:09:28.143Z[UTC]",
+  "searchQuery" : "zara",
+  "searchInteractionURIs" : [ "spotify:artist:1Xylc3o4UrD53lo9CvFvVg", "spotify:playlist:2pq0j31tw79sclAShRF5QN" ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:46:51.890Z[UTC]",
+  "searchQuery" : "midng",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:46:52.185Z[UTC]",
+  "searchQuery" : "midng",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:46:52.401Z[UTC]",
+  "searchQuery" : "midn",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:46:52.646Z[UTC]",
+  "searchQuery" : "midn",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:47:29.020Z[UTC]",
+  "searchQuery" : "a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:47:29.177Z[UTC]",
+  "searchQuery" : "an",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:47:29.383Z[UTC]",
+  "searchQuery" : "ant",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:47:29.497Z[UTC]",
+  "searchQuery" : "an",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:47:29.557Z[UTC]",
+  "searchQuery" : "anti ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-14T21:47:29.663Z[UTC]",
+  "searchQuery" : "a",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:47:29.867Z[UTC]",
+  "searchQuery" : "anti v",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:47:29.874Z[UTC]",
+  "searchQuery" : "anti ",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-14T21:47:30.030Z[UTC]",
+  "searchQuery" : "ant",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:47:30.123Z[UTC]",
+  "searchQuery" : "anti va",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:47:30.275Z[UTC]",
+  "searchQuery" : "anti val",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-14T21:47:30.431Z[UTC]",
+  "searchQuery" : "anti v",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:47:30.457Z[UTC]",
+  "searchQuery" : "anti va",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:47:30.625Z[UTC]",
+  "searchQuery" : "anti val",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:47:30.658Z[UTC]",
+  "searchQuery" : "anti valent",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "WIN32_X86_64",
+  "searchTime" : "2026-02-14T21:47:30.783Z[UTC]",
+  "searchQuery" : "anti vale",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:47:30.840Z[UTC]",
+  "searchQuery" : "anti vale",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:47:31.048Z[UTC]",
+  "searchQuery" : "anti valenti",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:47:31.094Z[UTC]",
+  "searchQuery" : "anti valent",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:47:31.213Z[UTC]",
+  "searchQuery" : "anti valentine",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:47:31.442Z[UTC]",
+  "searchQuery" : "anti valenti",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:47:31.514Z[UTC]",
+  "searchQuery" : "anti valentine",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:47:31.597Z[UTC]",
+  "searchQuery" : "anti valentines",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:47:31.940Z[UTC]",
+  "searchQuery" : "anti valentines",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:57:17.619Z[UTC]",
+  "searchQuery" : "anti valentines",
+  "searchInteractionURIs" : [ ]
+}, {
+  "platform" : "",
+  "searchTime" : "2026-02-14T21:57:17.941Z[UTC]",
+  "searchQuery" : "anti valentines",
+  "searchInteractionURIs" : [ ]
+} ]

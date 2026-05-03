@@ -1,0 +1,19 @@
+{
+  "festivalId" : "govball2026",
+  "userId" : "8fbee00e7ab74786b9cd023333641bb5",
+  "totalArtistsMatched" : 12,
+  "userLineupMatchPercentile" : 32,
+  "festivalPersona" : "WRISTBAND VETERAN",
+  "topArtists" : [ {
+    "name" : "A$AP Rocky"
+  }, {
+    "name" : "Blood Orange"
+  }, {
+    "name" : "Pierce The Veil"
+  }, {
+    "name" : "Freddie Gibbs"
+  }, {
+    "name" : "The Alchemist"
+  } ],
+  "topDiscoveryArtists" : [ ]
+}

@@ -1,0 +1,418 @@
+{
+  "stats" : [ {
+    "date" : "2026-02-02",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Fuck Me Pumps",
+      "streamCount" : 9,
+      "secondsPlayed" : 1796
+    }, {
+      "name" : "Lemon",
+      "streamCount" : 7,
+      "secondsPlayed" : 1451
+    }, {
+      "name" : "Get That Money",
+      "streamCount" : 6,
+      "secondsPlayed" : 1460
+    }, {
+      "name" : "I Run This",
+      "streamCount" : 4,
+      "secondsPlayed" : 828
+    }, {
+      "name" : "Back That Azz Up",
+      "streamCount" : 3,
+      "secondsPlayed" : 759
+    }, {
+      "name" : "Favorite",
+      "streamCount" : 3,
+      "secondsPlayed" : 726
+    }, {
+      "name" : "Truffle Butter",
+      "streamCount" : 3,
+      "secondsPlayed" : 639
+    }, {
+      "name" : "Lapdance",
+      "streamCount" : 2,
+      "secondsPlayed" : 363
+    }, {
+      "name" : "O Let's Do It (feat. Cap)",
+      "streamCount" : 2,
+      "secondsPlayed" : 275
+    }, {
+      "name" : "Can't C Me",
+      "streamCount" : 2,
+      "secondsPlayed" : 491
+    } ],
+    "topArtists" : [ {
+      "name" : "Lil Wayne",
+      "streamCount" : 36,
+      "secondsPlayed" : 7955
+    }, {
+      "name" : "Birdman",
+      "streamCount" : 12,
+      "secondsPlayed" : 2605
+    }, {
+      "name" : "Amy Winehouse",
+      "streamCount" : 11,
+      "secondsPlayed" : 1996
+    }, {
+      "name" : "N.E.R.D",
+      "streamCount" : 9,
+      "secondsPlayed" : 1814
+    }, {
+      "name" : "Drake",
+      "streamCount" : 11,
+      "secondsPlayed" : 2690
+    }, {
+      "name" : "Rick Ross",
+      "streamCount" : 9,
+      "secondsPlayed" : 2002
+    }, {
+      "name" : "Nicki Minaj",
+      "streamCount" : 7,
+      "secondsPlayed" : 1634
+    }, {
+      "name" : "Jeezy",
+      "streamCount" : 6,
+      "secondsPlayed" : 1069
+    }, {
+      "name" : "Waka Flocka Flame",
+      "streamCount" : 4,
+      "secondsPlayed" : 576
+    }, {
+      "name" : "Rihanna",
+      "streamCount" : 7,
+      "secondsPlayed" : 1451
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-26",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "A Match Into Water",
+      "streamCount" : 9,
+      "secondsPlayed" : 1909
+    }, {
+      "name" : "Bulls In The Bronx",
+      "streamCount" : 8,
+      "secondsPlayed" : 2138
+    }, {
+      "name" : "Caraphernelia",
+      "streamCount" : 8,
+      "secondsPlayed" : 2060
+    }, {
+      "name" : "Hell Above",
+      "streamCount" : 7,
+      "secondsPlayed" : 1446
+    }, {
+      "name" : "King For A Day",
+      "streamCount" : 6,
+      "secondsPlayed" : 1415
+    }, {
+      "name" : "Santa Monica - Remastered 2025",
+      "streamCount" : 5,
+      "secondsPlayed" : 1004
+    }, {
+      "name" : "Can't C Me",
+      "streamCount" : 4,
+      "secondsPlayed" : 1119
+    }, {
+      "name" : "Favorite",
+      "streamCount" : 4,
+      "secondsPlayed" : 905
+    }, {
+      "name" : "Truffle Butter",
+      "streamCount" : 4,
+      "secondsPlayed" : 836
+    }, {
+      "name" : "Only",
+      "streamCount" : 3,
+      "secondsPlayed" : 835
+    } ],
+    "topArtists" : [ {
+      "name" : "Pierce The Veil",
+      "streamCount" : 70,
+      "secondsPlayed" : 15871
+    }, {
+      "name" : "Everclear",
+      "streamCount" : 30,
+      "secondsPlayed" : 6106
+    }, {
+      "name" : "Lil Wayne",
+      "streamCount" : 30,
+      "secondsPlayed" : 6753
+    }, {
+      "name" : "Nicki Minaj",
+      "streamCount" : 17,
+      "secondsPlayed" : 3527
+    }, {
+      "name" : "Drake",
+      "streamCount" : 12,
+      "secondsPlayed" : 2727
+    }, {
+      "name" : "2Pac",
+      "streamCount" : 6,
+      "secondsPlayed" : 1628
+    }, {
+      "name" : "Snoop Dogg",
+      "streamCount" : 6,
+      "secondsPlayed" : 1222
+    }, {
+      "name" : "Rick Ross",
+      "streamCount" : 7,
+      "secondsPlayed" : 1739
+    }, {
+      "name" : "Outkast",
+      "streamCount" : 4,
+      "secondsPlayed" : 990
+    }, {
+      "name" : "JUVENILE",
+      "streamCount" : 4,
+      "secondsPlayed" : 977
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-19",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Shot Caller - Remix",
+      "streamCount" : 8,
+      "secondsPlayed" : 1623
+    }, {
+      "name" : "Family Ties",
+      "streamCount" : 7,
+      "secondsPlayed" : 1491
+    }, {
+      "name" : "Amsterdam",
+      "streamCount" : 5,
+      "secondsPlayed" : 811
+    }, {
+      "name" : "For My Dawgs",
+      "streamCount" : 4,
+      "secondsPlayed" : 797
+    }, {
+      "name" : "SpottieOttieDopaliscious",
+      "streamCount" : 3,
+      "secondsPlayed" : 992
+    }, {
+      "name" : "Valley Of Death",
+      "streamCount" : 3,
+      "secondsPlayed" : 697
+    }, {
+      "name" : "Song Cry",
+      "streamCount" : 3,
+      "secondsPlayed" : 696
+    }, {
+      "name" : "Nobody's Perfect",
+      "streamCount" : 3,
+      "secondsPlayed" : 467
+    }, {
+      "name" : "Lollipop",
+      "streamCount" : 3,
+      "secondsPlayed" : 616
+    }, {
+      "name" : "I Do",
+      "streamCount" : 2,
+      "secondsPlayed" : 622
+    } ],
+    "topArtists" : [ {
+      "name" : "Rick Ross",
+      "streamCount" : 38,
+      "secondsPlayed" : 7076
+    }, {
+      "name" : "Lil Wayne",
+      "streamCount" : 19,
+      "secondsPlayed" : 3467
+    }, {
+      "name" : "French Montana",
+      "streamCount" : 9,
+      "secondsPlayed" : 1717
+    }, {
+      "name" : "Drake",
+      "streamCount" : 11,
+      "secondsPlayed" : 2138
+    }, {
+      "name" : "JAY-Z",
+      "streamCount" : 8,
+      "secondsPlayed" : 1830
+    }, {
+      "name" : "Outkast",
+      "streamCount" : 6,
+      "secondsPlayed" : 1231
+    }, {
+      "name" : "Jeezy",
+      "streamCount" : 6,
+      "secondsPlayed" : 1025
+    }, {
+      "name" : "The Game",
+      "streamCount" : 5,
+      "secondsPlayed" : 784
+    }, {
+      "name" : "Diddy",
+      "streamCount" : 8,
+      "secondsPlayed" : 1623
+    }, {
+      "name" : "2Pac",
+      "streamCount" : 4,
+      "secondsPlayed" : 853
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-02-08",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Fuck Me Pumps",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2026-02-01",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Kellin Quinn",
+      "secondEntity" : "Magazeen"
+    }
+  }, {
+    "date" : "2026-01-25",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1E4vYh7rYEUWAR",
+      "listeningPercentage" : 43.21388438007242
+    }
+  }, {
+    "date" : "2026-01-18",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Mighty \"O\"",
+      "streamCount" : 6
+    }
+  }, {
+    "date" : "2026-01-11",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Lil Wayne",
+      "country" : "US",
+      "secondsPlayed" : 4934,
+      "marketAvgSecondsPlayed" : 719.30524
+    }
+  }, {
+    "date" : "2026-01-04",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Kendrick Lamar",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "A$AP Rocky",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Lil Wayne", "The Weeknd", "JAY-Z", "You're Everything", "The Morning", "Who's Crying Now (2022 Remaster)", "Collard Greens", "Country Grammar (Hot Shit)", "Tell Me A Secret" ],
+      "milestoneListeningSeconds" : 30190
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Lifes On The Line",
+      "dayStreaks" : 3
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "50 Cent",
+      "milestoneListeningSeconds" : 13551
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "50 Cent",
+      "listeningPercentage" : 20.05563450548786
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Leave You Alone",
+      "streamCount" : 5
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "The Weeknd",
+      "country" : "US",
+      "secondsPlayed" : 8778,
+      "marketAvgSecondsPlayed" : 1049.9347
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Jeezy",
+      "dayStreaks" : 6
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Tell Me A Secret",
+      "secondEntity" : "Baby Dracula"
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Lil Wayne", "Ludacris", "Miguel", "Quickie", "That Way (feat. Jeremih & Rick Ross)", "None Of Ur Friends Business", "MVP", "Tell Me A Secret", "Grind With Me" ],
+      "milestoneListeningSeconds" : 53572
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Grown Man",
+      "streamCount" : 7
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Lil Wayne",
+      "listeningPercentage" : 52.912055156683344
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Ludacris",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2025-09-28",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Lil Wayne",
+      "country" : "US",
+      "secondsPlayed" : 6152,
+      "marketAvgSecondsPlayed" : 726.1249
+    }
+  }, {
+    "date" : "2025-09-21",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "So Icy - feat. Young Jeezy",
+      "streamCount" : 7
+    }
+  } ]
+}

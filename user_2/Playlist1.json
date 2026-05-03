@@ -1,0 +1,574 @@
+{
+  "playlists": [
+    {
+      "name": "Some fav songs",
+      "lastModifiedDate": "2026-01-23",
+      "collaborators": [],
+      "items": [
+        {
+          "track": {
+            "trackName": "Nightmares Of The Bottom",
+            "artistName": "Lil Wayne",
+            "albumName": "Tha Carter IV",
+            "trackUri": "spotify:track:26rzYxyfEcuAfga8ZtPt64"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "Hustler Musik",
+            "artistName": "Lil Wayne",
+            "albumName": "Tha Carter II",
+            "trackUri": "spotify:track:5X69MOmlbEJQA49rwn2tjd"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "Nobody's Perfect",
+            "artistName": "J. Cole",
+            "albumName": "Cole World: The Sideline Story",
+            "trackUri": "spotify:track:6Nw1WHydftZy2joT2nTiCR"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "EveryGirl In The World",
+            "artistName": "Young Money",
+            "albumName": "We Are Young Money",
+            "trackUri": "spotify:track:1EjzkhMFJgl08Qkn2uDV1d"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "Mrs. Officer",
+            "artistName": "Lil Wayne",
+            "albumName": "Tha Carter III",
+            "trackUri": "spotify:track:2sQuds8s3EVbhXJpgVWpO4"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "Lollipop",
+            "artistName": "Lil Wayne",
+            "albumName": "Tha Carter III",
+            "trackUri": "spotify:track:1pm7lQGl6mvKWDxesZTVFp"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "SpottieOttieDopaliscious",
+            "artistName": "Outkast",
+            "albumName": "Aquemini",
+            "trackUri": "spotify:track:4GdB5M7GbwLZLouktYocFC"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "Tell Me A Secret",
+            "artistName": "Ludacris",
+            "albumName": "Battle Of The Sexes",
+            "trackUri": "spotify:track:6WNJxMeX6pSpeCbPFWVJEI"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "I Do",
+            "artistName": "Jeezy",
+            "albumName": "TM:103 Hustlerz Ambition",
+            "trackUri": "spotify:track:7kbgzSYR7X9FkzIeUFkviQ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "God Gave Me Style",
+            "artistName": "50 Cent",
+            "albumName": "The Massacre",
+            "trackUri": "spotify:track:5NoB3TXQDvVClLnC1lXdPt"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "Shoes",
+            "artistName": "Lil Wayne",
+            "albumName": "No Ceilings",
+            "trackUri": "spotify:track:5yHevmbP3PEex0kxP2cBc5"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "21 Questions",
+            "artistName": "50 Cent",
+            "albumName": "Get Rich Or Die Tryin'",
+            "trackUri": "spotify:track:41bIQPBE1lFN0mmw6Lmssz"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "Gorgeous",
+            "artistName": "Kanye West",
+            "albumName": "My Beautiful Dark Twisted Fantasy",
+            "trackUri": "spotify:track:23SZWX2IaDnxmhFsSLvkG2"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "With You",
+            "artistName": "Lil Wayne",
+            "albumName": "I Am Not A Human Being",
+            "trackUri": "spotify:track:46ymJU8Bt4i3nj91UV1WPk"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "The Percocet & Stripper Joint",
+            "artistName": "Future",
+            "albumName": "DS2",
+            "trackUri": "spotify:track:1yCVsVH2hQ72SxNI8QTDaB"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "Song Cry",
+            "artistName": "JAY-Z",
+            "albumName": "The Blueprint",
+            "trackUri": "spotify:track:19ELgyBdMcEjGcbFHcY1ba"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "How To Love",
+            "artistName": "Lil Wayne",
+            "albumName": "Tha Carter IV",
+            "trackUri": "spotify:track:5W7BcYDIaeXnpG3e39T7hJ"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "Love Me",
+            "artistName": "Lil Wayne",
+            "albumName": "I Am Not A Human Being II",
+            "trackUri": "spotify:track:2XHzzp1j4IfTNp1FTn7YFg"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "Poppin' - Main",
+            "artistName": "Chris Brown",
+            "albumName": "Chris Brown (Expanded Edition)",
+            "trackUri": "spotify:track:7vGRXiYWFk6NjUnsNjQJQd"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "BedRock",
+            "artistName": "Young Money",
+            "albumName": "We Are Young Money",
+            "trackUri": "spotify:track:3iL2l5gUqyPS6vDwJFgJTR"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "Money Trees",
+            "artistName": "Kendrick Lamar",
+            "albumName": "good kid, m.A.A.d city",
+            "trackUri": "spotify:track:0AOvNRgl0SMfOibWA5bP8o"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "YM Wasted",
+            "artistName": "Lil Wayne",
+            "albumName": "No Ceilings",
+            "trackUri": "spotify:track:17vZPuNejGd309NvzPMqBs"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "How Do U Want It (ft. K-Ci & JoJo)",
+            "artistName": "2Pac",
+            "albumName": "All Eyez On Me",
+            "trackUri": "spotify:track:2S2x5N5VJNn7vqYukvoFFC"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "ROS",
+            "artistName": "Mac Miller",
+            "albumName": "GO:OD AM",
+            "trackUri": "spotify:track:388jD8ko9cvFM9cd9TYDrl"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "Leave You Alone",
+            "artistName": "Jeezy",
+            "albumName": "TM:103 Hustlerz Ambition",
+            "trackUri": "spotify:track:5GOqOUVv7vk0jWDdNToHtA"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "LOYALTY. FEAT. RIHANNA.",
+            "artistName": "Kendrick Lamar",
+            "albumName": "DAMN.",
+            "trackUri": "spotify:track:6SwRhMLwNqEi6alNPVG00n"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "Ratha Be Ya Nigga (ft. Richie Rich)",
+            "artistName": "2Pac",
+            "albumName": "All Eyez On Me",
+            "trackUri": "spotify:track:5hzoEKZvvov9EKzrx419Ys"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "Roses",
+            "artistName": "Outkast",
+            "albumName": "Speakerboxxx/The Love Below",
+            "trackUri": "spotify:track:6bUNEbXT7HovLW6BgPCBsb"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "Cinderella (feat. Ty Dolla $ign)",
+            "artistName": "Mac Miller",
+            "albumName": "The Divine Feminine",
+            "trackUri": "spotify:track:2lpygKqzPFtItQ4ss3cgfb"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "Studio",
+            "artistName": "ScHoolboy Q",
+            "albumName": "Oxymoron",
+            "trackUri": "spotify:track:29gsi1zZrZxdStACmTQB0Z"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "God Is Fair, Sexy Nasty (feat. Kendrick Lamar)",
+            "artistName": "Mac Miller",
+            "albumName": "The Divine Feminine",
+            "trackUri": "spotify:track:6hzbRKhJHo6cfCHSnNaDS8"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "Da Art of Storytellin' (Pt. 1)",
+            "artistName": "Outkast",
+            "albumName": "Aquemini",
+            "trackUri": "spotify:track:1KQymTxNJfWk6vCD5ywKW2"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "Sweet Lady",
+            "artistName": "03 Greedo",
+            "albumName": "Purple Summer",
+            "trackUri": "spotify:track:6VBuV3fk37EGAqFbDVQjHv"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "Forgot About Dre",
+            "artistName": "Dr. Dre",
+            "albumName": "2001",
+            "trackUri": "spotify:track:7iXF2W9vKmDoGAhlHdpyIa"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "Turn On The Lights",
+            "artistName": "Future",
+            "albumName": "Pluto 3D",
+            "trackUri": "spotify:track:4U8hMes3PqpsLJBeMXD71p"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "Poetic Justice",
+            "artistName": "Kendrick Lamar",
+            "albumName": "good kid, m.A.A.d city",
+            "trackUri": "spotify:track:2P3SLxeQHPqh8qKB6gtJY2"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        },
+        {
+          "track": {
+            "trackName": "Fancy",
+            "artistName": "Drake",
+            "albumName": "Thank Me Later",
+            "trackUri": "spotify:track:3fpTMuD1u3gJlVI4FadVHs"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2026-01-23"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 1
+    },
+    {
+      "name": "For Lydia",
+      "lastModifiedDate": "2025-11-10",
+      "collaborators": [],
+      "items": [
+        {
+          "track": {
+            "trackName": "Fuck You",
+            "artistName": "Dr. Dre",
+            "albumName": "2001",
+            "trackUri": "spotify:track:4FI0rdztOAYJZMupujL5Gp"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-03-28"
+        },
+        {
+          "track": {
+            "trackName": "Carl Sagan",
+            "artistName": "Night Moves",
+            "albumName": "Pennied Days",
+            "trackUri": "spotify:track:24GCf1A4pOTEDDcBponpjn"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-03-28"
+        },
+        {
+          "track": {
+            "trackName": "Butterfly",
+            "artistName": "Crazy Town",
+            "albumName": "The Gift Of Game",
+            "trackUri": "spotify:track:4BggEwLhGfrbrl7JBhC8EC"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-03-28"
+        },
+        {
+          "track": {
+            "trackName": "Xxplosive",
+            "artistName": "Dr. Dre",
+            "albumName": "2001",
+            "trackUri": "spotify:track:0Ed7MeXx64f6OcIuoTRCg1"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-03-28"
+        },
+        {
+          "track": {
+            "trackName": "Alrighty Aphrodite",
+            "artistName": "Peach Pit",
+            "albumName": "Being So Normal",
+            "trackUri": "spotify:track:6OiRh4kttAs1YWglvTcYkB"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-03-28"
+        },
+        {
+          "track": {
+            "trackName": "ATLiens",
+            "artistName": "Outkast",
+            "albumName": "ATLiens",
+            "trackUri": "spotify:track:2vfvGlqCB7oertO5VLE0sz"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-03-28"
+        },
+        {
+          "track": {
+            "trackName": "What's The Difference",
+            "artistName": "Dr. Dre",
+            "albumName": "2001",
+            "trackUri": "spotify:track:1SWVDBtw6h3tm9OehOkDhv"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-03-28"
+        },
+        {
+          "track": {
+            "trackName": "Champagne Coast",
+            "artistName": "Blood Orange",
+            "albumName": "Coastal Grooves",
+            "trackUri": "spotify:track:2KufM8PiQY4i52XhRL96Fd"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-03-28"
+        },
+        {
+          "track": {
+            "trackName": "Duality",
+            "artistName": "Slipknot",
+            "albumName": "Vol. 3: The Subliminal Verses",
+            "trackUri": "spotify:track:61mWefnWQOLf90gepjOCb3"
+          },
+          "episode": null,
+          "audiobook": null,
+          "localTrack": null,
+          "addedDate": "2024-03-28"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 1
+    }
+  ]
+}

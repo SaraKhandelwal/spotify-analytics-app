@@ -1,0 +1,1989 @@
+{
+  "tracks" : [ {
+    "artist" : "Mac Miller",
+    "album" : "The Divine Feminine",
+    "track" : "My Favorite Part",
+    "uri" : "spotify:track:66wkCYWlXzSTQAfnsPBptt"
+  }, {
+    "artist" : "Young Thug",
+    "album" : "Barter 6",
+    "track" : "Dream (feat. Yak Gotti)",
+    "uri" : "spotify:track:1SkR9g1l9NipSZhZPJsbOT"
+  }, {
+    "artist" : "Dr. Dre",
+    "album" : "Compton",
+    "track" : "Talking To My Diary",
+    "uri" : "spotify:track:7KZs2C1UGjrIfVXXuvtb20"
+  }, {
+    "artist" : "MC Hammer",
+    "album" : "Please Hammer Don't Hurt 'Em",
+    "track" : "U Can't Touch This",
+    "uri" : "spotify:track:1B75hgRqe7A4fwee3g3Wmu"
+  }, {
+    "artist" : "Miguel",
+    "album" : "All I Want Is You",
+    "track" : "All I Want Is You (feat. J. Cole)",
+    "uri" : "spotify:track:5VA4Ispp52EA1sOqzMz3Av"
+  }, {
+    "artist" : "Mura Masa",
+    "album" : "Mura Masa",
+    "track" : "Love$ick (feat. A$AP Rocky)",
+    "uri" : "spotify:track:3sTN90bIP2cJ1783ctHykO"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "Tha Carter III",
+    "track" : "Lollipop",
+    "uri" : "spotify:track:1pm7lQGl6mvKWDxesZTVFp"
+  }, {
+    "artist" : "Gucci Mane",
+    "album" : "Back to the Traphouse",
+    "track" : "Freaky Gurl (feat. Ludacris and Lil Kim) - Remix",
+    "uri" : "spotify:track:3oePgThYVcdoQCBAf4lovM"
+  }, {
+    "artist" : "Wale",
+    "album" : "The Gifted",
+    "track" : "Bad (feat. Rihanna) - Remix",
+    "uri" : "spotify:track:5yhKaacMZGRo4s6evJx9vk"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "I Am Not A Human Being",
+    "track" : "With You",
+    "uri" : "spotify:track:46ymJU8Bt4i3nj91UV1WPk"
+  }, {
+    "artist" : "JUVENILE",
+    "album" : "400 Degreez",
+    "track" : "Back That Azz Up",
+    "uri" : "spotify:track:6o2g1BJvtYQssH84kBYs7y"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "The Leak",
+    "track" : "I'm Me",
+    "uri" : "spotify:track:63MtsInu01ReWF9M4rl7dq"
+  }, {
+    "artist" : "Drake",
+    "album" : "Take Care",
+    "track" : "We'll Be Fine",
+    "uri" : "spotify:track:7udsBKuqnJ5csWTAkR0vEI"
+  }, {
+    "artist" : "03 Greedo",
+    "album" : "Purple Summer",
+    "track" : "Freak",
+    "uri" : "spotify:track:6RffwLWpNwmXPLxKgoCrVA"
+  }, {
+    "artist" : "Birdman",
+    "album" : "5 * Stunna",
+    "track" : "Pop Bottles - Main",
+    "uri" : "spotify:track:1kEp3Po9RUPm11N5ITOUWx"
+  }, {
+    "artist" : "50 Cent",
+    "album" : "In Too Deep - Music From The Dimension Motion Picture",
+    "track" : "Rowdy Rowdy",
+    "uri" : "spotify:track:1gHpF8cBdLmy86Et9S3ekH"
+  }, {
+    "artist" : "Gucci Mane",
+    "album" : "Trap House 3",
+    "track" : "Fuck with Me",
+    "uri" : "spotify:track:1VebfS1AGjlhNWPzd8mNDP"
+  }, {
+    "artist" : "Justin Bieber",
+    "album" : "Journals",
+    "track" : "Confident",
+    "uri" : "spotify:track:5Isz0twJeFdduOQEFQLezv"
+  }, {
+    "artist" : "Isaiah Rashad",
+    "album" : "Cilvia Demo",
+    "track" : "West Savannah (feat. SZA)",
+    "uri" : "spotify:track:0Gt4nGWoATcQFL38a1NRao"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "Tha Carter IV",
+    "track" : "How To Love",
+    "uri" : "spotify:track:5W7BcYDIaeXnpG3e39T7hJ"
+  }, {
+    "artist" : "Ludacris",
+    "album" : "Word Of Mouf",
+    "track" : "Area Codes",
+    "uri" : "spotify:track:3lcC9CnN7Rpo1ugATzmYjY"
+  }, {
+    "artist" : "A$AP Rocky",
+    "album" : "AT.LONG.LAST.A$AP",
+    "track" : "Excuse Me",
+    "uri" : "spotify:track:3I8MbKRkS2IBDuslhCS3iT"
+  }, {
+    "artist" : "Nicki Minaj",
+    "album" : "The Pinkprint",
+    "track" : "Only",
+    "uri" : "spotify:track:4MRT0dDbhqFKl67WzhUbSw"
+  }, {
+    "artist" : "Crazy Town",
+    "album" : "The Gift Of Game",
+    "track" : "Butterfly",
+    "uri" : "spotify:track:6GQ3WTaNHMFlVmN4burGat"
+  }, {
+    "artist" : "Eminem",
+    "album" : "The Marshall Mathers LP",
+    "track" : "The Way I Am",
+    "uri" : "spotify:track:23wfXwnsPZYe5A1xXRHb3J"
+  }, {
+    "artist" : "Kelly Rowland",
+    "album" : "Here I Am",
+    "track" : "Motivation",
+    "uri" : "spotify:track:6rbhWExtuchhpLC5fHnB8n"
+  }, {
+    "artist" : "03 Greedo",
+    "album" : "Purple Summer",
+    "track" : "Sweet Lady",
+    "uri" : "spotify:track:6VBuV3fk37EGAqFbDVQjHv"
+  }, {
+    "artist" : "Birdman",
+    "album" : "Like Father Like Son",
+    "track" : "Stuntin' Like My Daddy - Street",
+    "uri" : "spotify:track:3rMyMv8EjKXoPnaRo2hdJN"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "I Am Not A Human Being",
+    "track" : "Bill Gates",
+    "uri" : "spotify:track:610FzmkhFSsORpECZbjT4X"
+  }, {
+    "artist" : "A$AP Rocky",
+    "album" : "LIVE.LOVE.A$AP",
+    "track" : "Trilla (feat. A$AP Nast & A$AP Twelvyy)",
+    "uri" : "spotify:track:3DtOW3gzNTy5SgLWhwOdFW"
+  }, {
+    "artist" : "Earl Sweatshirt",
+    "album" : "Doris",
+    "track" : "Sunday (feat. Frank Ocean)",
+    "uri" : "spotify:track:0fAehaneUJdlSlWXYe1KZp"
+  }, {
+    "artist" : "2Pac",
+    "album" : "All Eyez On Me",
+    "track" : "Ratha Be Ya Nigga (ft. Richie Rich)",
+    "uri" : "spotify:track:5hzoEKZvvov9EKzrx419Ys"
+  }, {
+    "artist" : "Nicki Minaj",
+    "album" : "The Pinkprint",
+    "track" : "Favorite",
+    "uri" : "spotify:track:6QfIzJJ4N6JAOisCusxWgV"
+  }, {
+    "artist" : "JAY-Z",
+    "album" : "The Blueprint 3",
+    "track" : "So Ambitious",
+    "uri" : "spotify:track:0Oi1wJRbRy3ZP5phE9kNMC"
+  }, {
+    "artist" : "Gucci Mane",
+    "album" : "The Hood Classics",
+    "track" : "So Icy - feat. Young Jeezy",
+    "uri" : "spotify:track:0dwH9zct0QW4ZYvObqQjUV"
+  }, {
+    "artist" : "Gucci Mane",
+    "album" : "Ice Attack 2",
+    "track" : "Truck Loaded",
+    "uri" : "spotify:track:6dkAVxrPh4abLufu8X5LbP"
+  }, {
+    "artist" : "Imogen Heap",
+    "album" : "Speak for Yourself",
+    "track" : "Headlock",
+    "uri" : "spotify:track:7vTENp2sLS3sPY5z4npYNr"
+  }, {
+    "artist" : "50 Cent",
+    "album" : "Get Rich Or Die Tryin'",
+    "track" : "If I Can't",
+    "uri" : "spotify:track:7JeKXMQKm6GoLGTkNy2jZ0"
+  }, {
+    "artist" : "Birdman",
+    "album" : "Like Father Like Son",
+    "track" : "You Ain't Know",
+    "uri" : "spotify:track:6iV7QmMUPadq6osYqSM2wF"
+  }, {
+    "artist" : "J. Cole",
+    "album" : "Cole World: The Sideline Story",
+    "track" : "Nobody's Perfect",
+    "uri" : "spotify:track:6Nw1WHydftZy2joT2nTiCR"
+  }, {
+    "artist" : "Drake",
+    "album" : "So Far Gone",
+    "track" : "Uptown (feat. Bun B & Lil Wayne)",
+    "uri" : "spotify:track:0q7LGcVSpsIoSbjChtZ8lI"
+  }, {
+    "artist" : "Modjo",
+    "album" : "Modjo",
+    "track" : "Lady - Hear Me Tonight",
+    "uri" : "spotify:track:49X0LAl6faAusYq02PRAY6"
+  }, {
+    "artist" : "A$AP Rocky",
+    "album" : "LIVE.LOVE.A$AP",
+    "track" : "Bass",
+    "uri" : "spotify:track:3tynJ5xl3ZjRj2fPQF0kNi"
+  }, {
+    "artist" : "Rae Sremmurd",
+    "album" : "SremmLife",
+    "track" : "Throw Sum Mo",
+    "uri" : "spotify:track:5uqphUYsR45kPYplrYSAQh"
+  }, {
+    "artist" : "A$AP Rocky",
+    "album" : "LONG.LIVE.A$AP (Deluxe Version)",
+    "track" : "LVL",
+    "uri" : "spotify:track:787rCZF9i4L1cXGMkdyIk4"
+  }, {
+    "artist" : "Juicy J",
+    "album" : "Stay Trippy",
+    "track" : "Bandz A Make Her Dance (feat. Lil' Wayne & 2 Chainz)",
+    "uri" : "spotify:track:7EZPH9Px3gXlxD5KJDwtwc"
+  }, {
+    "artist" : "Drake",
+    "album" : "Take Care",
+    "track" : "Cameras / Good Ones Go Interlude - Medley",
+    "uri" : "spotify:track:2FbGlEPAjNhWvrVvlentVq"
+  }, {
+    "artist" : "Future",
+    "album" : "HNDRXX",
+    "track" : "Solo",
+    "uri" : "spotify:track:4lH6nENd1y81jp7Yt9lTBX"
+  }, {
+    "artist" : "Young Thug",
+    "album" : "Barter 6",
+    "track" : "Halftime",
+    "uri" : "spotify:track:4BP0An7SXctTY4kF41JxIQ"
+  }, {
+    "artist" : "Rihanna",
+    "album" : "Bitch Better Have My Money",
+    "track" : "Bitch Better Have My Money",
+    "uri" : "spotify:track:0NTMtAO2BV4tnGvw9EgBVq"
+  }, {
+    "artist" : "Kendrick Lamar",
+    "album" : "good kid, m.A.A.d city",
+    "track" : "Money Trees",
+    "uri" : "spotify:track:0AOvNRgl0SMfOibWA5bP8o"
+  }, {
+    "artist" : "A$AP Rocky",
+    "album" : "AT.LONG.LAST.A$AP",
+    "track" : "L$D",
+    "uri" : "spotify:track:4S7YHmlWwfwArgd8LfSPud"
+  }, {
+    "artist" : "Sleeping With Sirens",
+    "album" : "Let's Cheers To This",
+    "track" : "If You Can't Hang",
+    "uri" : "spotify:track:2Tc9VznHtQUmfOgE3L1RdN"
+  }, {
+    "artist" : "Rick Ross",
+    "album" : "Hood Billionaire",
+    "track" : "Family Ties",
+    "uri" : "spotify:track:0TiT9zrXLHMEs8mt6zF0rj"
+  }, {
+    "artist" : "A$AP Rocky",
+    "album" : "LIVE.LOVE.A$AP",
+    "track" : "Purple Swag",
+    "uri" : "spotify:track:2mv7mXr45Mq9aOczaGCAbG"
+  }, {
+    "artist" : "Outkast",
+    "album" : "Aquemini",
+    "track" : "Chonkyfire",
+    "uri" : "spotify:track:4mrR64jwacrmiZluhBelDB"
+  }, {
+    "artist" : "Pretty Ricky",
+    "album" : "Bluestars",
+    "track" : "Grind With Me",
+    "uri" : "spotify:track:3B7i9OKRRmIsSBHEbJz58Y"
+  }, {
+    "artist" : "A$AP Rocky",
+    "album" : "AT.LONG.LAST.A$AP",
+    "track" : "Jukebox Joints (feat. Joe Fox & Kanye West)",
+    "uri" : "spotify:track:2gAGWaK4wvt2xrFUlR4mK8"
+  }, {
+    "artist" : "USHER",
+    "album" : "Here I Stand",
+    "track" : "Love in This Club (feat. Young Jeezy)",
+    "uri" : "spotify:track:5j0McHPthKpOXRr3fBq8M0"
+  }, {
+    "artist" : "Aaliyah",
+    "album" : "Are You That Somebody",
+    "track" : "Are You That Somebody",
+    "uri" : "spotify:track:1sSuFkO3m3Cr6YN24NYol5"
+  }, {
+    "artist" : "Future",
+    "album" : "Pluto",
+    "track" : "Same Damn Time",
+    "uri" : "spotify:track:2krzD9gBw8tI3fmFyCv4sR"
+  }, {
+    "artist" : "Kendrick Lamar",
+    "album" : "good kid, m.A.A.d city",
+    "track" : "m.A.A.d city",
+    "uri" : "spotify:track:7FQQBmyJuIHLkkyw6J3vJD"
+  }, {
+    "artist" : "Pierce The Veil",
+    "album" : "Collide With The Sky",
+    "track" : "A Match Into Water",
+    "uri" : "spotify:track:54MXF9I8s3DuiQo3g0gZ5k"
+  }, {
+    "artist" : "Soulja Boy",
+    "album" : "souljaboytellem.com",
+    "track" : "Yahhh!",
+    "uri" : "spotify:track:6wkfxYze6eZb5pNrplBNtk"
+  }, {
+    "artist" : "ScHoolboy Q",
+    "album" : "Oxymoron",
+    "track" : "Collard Greens",
+    "uri" : "spotify:track:0zO8ctW0UiuOefR87OeJOZ"
+  }, {
+    "artist" : "Young Money",
+    "album" : "We Are Young Money",
+    "track" : "BedRock",
+    "uri" : "spotify:track:3iL2l5gUqyPS6vDwJFgJTR"
+  }, {
+    "artist" : "Gucci Mane",
+    "album" : "Trap House 3",
+    "track" : "Point in My Life",
+    "uri" : "spotify:track:2o2hrOq3vuQh8jmyx5eST6"
+  }, {
+    "artist" : "Eminem",
+    "album" : "The Slim Shady LP",
+    "track" : "Role Model",
+    "uri" : "spotify:track:0EtirusGt3LivUmALXSMVe"
+  }, {
+    "artist" : "ScHoolboy Q",
+    "album" : "Oxymoron",
+    "track" : "Man Of The Year",
+    "uri" : "spotify:track:5SsR3wtCOafDmZgvIdRhSm"
+  }, {
+    "artist" : "Soundgarden",
+    "album" : "Superunknown",
+    "track" : "Fell On Black Days",
+    "uri" : "spotify:track:6B4JGMaqe1LaEMlsVzNdNM"
+  }, {
+    "artist" : "Drake",
+    "album" : "Thank Me Later",
+    "track" : "Miss Me",
+    "uri" : "spotify:track:1U4mweNwisxNj23ffuC9gO"
+  }, {
+    "artist" : "Bun B",
+    "album" : "II Trill",
+    "track" : "You're Everything",
+    "uri" : "spotify:track:3KcsLyF3wQgtgo17crlUjo"
+  }, {
+    "artist" : "Paul Wall",
+    "album" : "The People's Champ",
+    "track" : "Drive Slow (feat. Kanye West & GLC)",
+    "uri" : "spotify:track:5iHO0dAm9FmDA017mWdFkB"
+  }, {
+    "artist" : "SZA",
+    "album" : "Ctrl",
+    "track" : "Go Gina",
+    "uri" : "spotify:track:6Vmow8PuUaU7W1T2WWLZk2"
+  }, {
+    "artist" : "N.E.R.D",
+    "album" : "In Search Of...",
+    "track" : "Lapdance",
+    "uri" : "spotify:track:6FuAe03bP2SQT4TCDKhuGx"
+  }, {
+    "artist" : "Travis Scott",
+    "album" : "Birds In The Trap Sing McKnight",
+    "track" : "sdp interlude",
+    "uri" : "spotify:track:4gh0ZnHzaTMT1sDga7Ek0N"
+  }, {
+    "artist" : "The Offspring",
+    "album" : "Smash",
+    "track" : "Self Esteem",
+    "uri" : "spotify:track:1FkoVC85Ds3mFoK0fVqEqP"
+  }, {
+    "artist" : "Gucci Mane",
+    "album" : "Trap House 4",
+    "track" : "Dope Love",
+    "uri" : "spotify:track:1dMNwHmJApJJ7G32ij6Thq"
+  }, {
+    "artist" : "JAY-Z",
+    "album" : "American Gangster",
+    "track" : "Roc Boys (And The Winner Is)...",
+    "uri" : "spotify:track:7qTHHJ8MeXEKBVuopWdw4b"
+  }, {
+    "artist" : "Young Dro",
+    "album" : "Best Thang Smokin'",
+    "track" : "Shoulder Lean (feat. T.I.)",
+    "uri" : "spotify:track:2OqYarizUUGzSSNHPrDEii"
+  }, {
+    "artist" : "Kendrick Lamar",
+    "album" : "good kid, m.A.A.d city",
+    "track" : "Compton",
+    "uri" : "spotify:track:4fZXUJcKxTikN9MVw7cD8q"
+  }, {
+    "artist" : "Keyshia Cole",
+    "album" : "The Way It Is",
+    "track" : "Love",
+    "uri" : "spotify:track:0W4NhJhcqKCqEP2GIpDCDq"
+  }, {
+    "artist" : "A$AP Rocky",
+    "album" : "LONG.LIVE.A$AP (Deluxe Version)",
+    "track" : "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
+    "uri" : "spotify:track:4X5f3vT8MRuXF68pfjNte5"
+  }, {
+    "artist" : "2Pac",
+    "album" : "All Eyez On Me",
+    "track" : "How Do U Want It (ft. K-Ci & JoJo)",
+    "uri" : "spotify:track:2S2x5N5VJNn7vqYukvoFFC"
+  }, {
+    "artist" : "Nelly",
+    "album" : "Country Grammar",
+    "track" : "E.I.",
+    "uri" : "spotify:track:4bUfMNNmiCmPXVyWzIfKeZ"
+  }, {
+    "artist" : "50 Cent",
+    "album" : "Get Rich Or Die Tryin'",
+    "track" : "21 Questions",
+    "uri" : "spotify:track:41bIQPBE1lFN0mmw6Lmssz"
+  }, {
+    "artist" : "F.L.Y. (Fast Life Yungstaz)",
+    "album" : "Jamboree",
+    "track" : "Swag Surfin'",
+    "uri" : "spotify:track:5ItzU5pBrFmRUudfr5RkJP"
+  }, {
+    "artist" : "Paramore",
+    "album" : "After Laughter",
+    "track" : "Idle Worship",
+    "uri" : "spotify:track:50zSoW3GT1Ee4hXxQPO08t"
+  }, {
+    "artist" : "Future",
+    "album" : "Pluto 3D",
+    "track" : "You Deserve It",
+    "uri" : "spotify:track:3uJPwQDK7FmVba9HUlEO1Z"
+  }, {
+    "artist" : "Akon",
+    "album" : "Trouble",
+    "track" : "Locked Up",
+    "uri" : "spotify:track:0YUrjFy4qFKOO5NhM9tYdV"
+  }, {
+    "artist" : "Boosie Badazz",
+    "album" : "SuperBad: The Return of Boosie Bad Azz",
+    "track" : "Bank Roll",
+    "uri" : "spotify:track:2uzSJmOiZxkqZbtsUDVU9k"
+  }, {
+    "artist" : "Young Thug",
+    "album" : "Barter 6",
+    "track" : "OD",
+    "uri" : "spotify:track:7fheaybAcABeiuYU6VgDrQ"
+  }, {
+    "artist" : "JAY-Z",
+    "album" : "The Black Album",
+    "track" : "Encore",
+    "uri" : "spotify:track:1GzNGrxi4NIOKu0Z4npUss"
+  }, {
+    "artist" : "Bryson Tiller",
+    "album" : "T R A P S O U L",
+    "track" : "Sorry Not Sorry",
+    "uri" : "spotify:track:16bHRxM89ue0TiCKARYbRp"
+  }, {
+    "artist" : "Nicki Minaj",
+    "album" : "The Pinkprint",
+    "track" : "Truffle Butter",
+    "uri" : "spotify:track:7e44z4wOjkllaD8eulUeMd"
+  }, {
+    "artist" : "SZA",
+    "album" : "Ctrl",
+    "track" : "Drew Barrymore",
+    "uri" : "spotify:track:06u5LrUpbosQlQ1QJFhPpG"
+  }, {
+    "artist" : "David Banner",
+    "album" : "Mississippi: The Album",
+    "track" : "Like A Pimp",
+    "uri" : "spotify:track:0DW5anNzTO7h0OlKqFsVQ6"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "Tha Carter IV",
+    "track" : "How To Hate",
+    "uri" : "spotify:track:2ZiMQKIieJ7GTRYnO8fP8p"
+  }, {
+    "artist" : "Beyoncé",
+    "album" : "B'Day Deluxe Edition",
+    "track" : "Upgrade U (feat. JAY-Z)",
+    "uri" : "spotify:track:0GLUBbX4daHJkT3RQHEOia"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "Tha Carter III",
+    "track" : "A Milli",
+    "uri" : "spotify:track:1xPW9rS8dkuJP46WBTqU2C"
+  }, {
+    "artist" : "Kid Cudi",
+    "album" : "Man On The Moon: The End Of Day",
+    "track" : "Day 'N' Nite (nightmare)",
+    "uri" : "spotify:track:5wfllwdjglyQislkskYLBv"
+  }, {
+    "artist" : "Lil' Kim",
+    "album" : "La Bella Mafia",
+    "track" : "Magic Stick",
+    "uri" : "spotify:track:0aULRU35N9kTj6O1xMULRR"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "Tha Carter V",
+    "track" : "Dedicate",
+    "uri" : "spotify:track:0Y7di9ZCmB6Elad5WISaPc"
+  }, {
+    "artist" : "Travis Scott",
+    "album" : "Rodeo",
+    "track" : "Maria I'm Drunk (feat. Justin Bieber & Young Thug)",
+    "uri" : "spotify:track:6Yqmv7XJLCrQEauMbPGZSw"
+  }, {
+    "artist" : "50 Cent, DJ Whoo Kid",
+    "album" : "G-Unit Radio 14: Back To Business",
+    "track" : "Robbery",
+    "uri" : "spotify:track:2kyZ9o4evYlw5A7ye99Jf5"
+  }, {
+    "artist" : "Playboi Carti",
+    "album" : "Die Lit",
+    "track" : "Poke It Out (with Nicki Minaj)",
+    "uri" : "spotify:track:2rPSFKzGeqUWwfcCFVkkq3"
+  }, {
+    "artist" : "Pixies",
+    "album" : "Doolittle",
+    "track" : "Here Comes Your Man",
+    "uri" : "spotify:track:4IvZLDtwBHmBmwgDIUbuwa"
+  }, {
+    "artist" : "The Weeknd",
+    "album" : "Trilogy",
+    "track" : "Same Old Song",
+    "uri" : "spotify:track:2laEnnWXQmXSXaoD3ak5Ve"
+  }, {
+    "artist" : "Wiz Khalifa",
+    "album" : "Kush & Orange Juice",
+    "track" : "Mezmorized",
+    "uri" : "spotify:track:44kFSc9ud98cnHq104T2RL"
+  }, {
+    "artist" : "Styles P",
+    "album" : "A Gangster And A Gentleman",
+    "track" : "Good Times",
+    "uri" : "spotify:track:7cFpB4ozcSwXuhqjvNbrbP"
+  }, {
+    "artist" : "B.o.B",
+    "album" : "Underground Luxury",
+    "track" : "HeadBand (feat. 2 Chainz)",
+    "uri" : "spotify:track:2LvRR121MWFmmEGkuV2vQP"
+  }, {
+    "artist" : "Project Pat",
+    "album" : "Layin' Da Smack Down (Explicit Version)",
+    "track" : "Take Da Charge",
+    "uri" : "spotify:track:2XOKoaCWziW0W14DPeY7XS"
+  }, {
+    "artist" : "Kodak Black",
+    "album" : "Institution",
+    "track" : "Institution",
+    "uri" : "spotify:track:2G6PeWL4JanUge47LNdFtJ"
+  }, {
+    "artist" : "Travis Scott",
+    "album" : "Birds In The Trap Sing McKnight",
+    "track" : "through the late night",
+    "uri" : "spotify:track:1Ci4wASMY4xtKVMeHA6Sd5"
+  }, {
+    "artist" : "J. Cole",
+    "album" : "Cole World: The Sideline Story",
+    "track" : "In The Morning",
+    "uri" : "spotify:track:4OkiWfrZKmmVoILXk8JEtl"
+  }, {
+    "artist" : "Kendrick Lamar",
+    "album" : "good kid, m.A.A.d city",
+    "track" : "Bitch, Don’t Kill My Vibe",
+    "uri" : "spotify:track:712uvW1Vezq8WpQi38v2L9"
+  }, {
+    "artist" : "Outkast",
+    "album" : "Speakerboxxx/The Love Below",
+    "track" : "Roses",
+    "uri" : "spotify:track:6bUNEbXT7HovLW6BgPCBsb"
+  }, {
+    "artist" : "Nicki Minaj",
+    "album" : "Pink Friday ... Roman Reloaded",
+    "track" : "Beez In The Trap",
+    "uri" : "spotify:track:4It00tEYLwpjQtAhqnjCPC"
+  }, {
+    "artist" : "Playaz Circle",
+    "album" : "Supply & Demand",
+    "track" : "Duffle Bag Boy",
+    "uri" : "spotify:track:2YBQcvnNuFjIRt1JjaVxMn"
+  }, {
+    "artist" : "Nicki Minaj",
+    "album" : "The Pinkprint",
+    "track" : "Feeling Myself",
+    "uri" : "spotify:track:5fyIGoaaKelzdyW8ELhYJZ"
+  }, {
+    "artist" : "Fabolous",
+    "album" : "There Is No Competition 2: The Grieving Music Mixtape",
+    "track" : "You Be Killin Em",
+    "uri" : "spotify:track:5I6YA7oHtraxwWQzzCugDt"
+  }, {
+    "artist" : "Playboi Carti",
+    "album" : "Die Lit",
+    "track" : "Shoota (feat. Lil Uzi Vert)",
+    "uri" : "spotify:track:2BJSMvOGABRxokHKB0OI8i"
+  }, {
+    "artist" : "Rihanna",
+    "album" : "ANTI",
+    "track" : "Same Ol’ Mistakes",
+    "uri" : "spotify:track:6RtzmszGXs32TRhv5zTKNM"
+  }, {
+    "artist" : "Rihanna",
+    "album" : "ANTI",
+    "track" : "Sex With Me",
+    "uri" : "spotify:track:7BiELrM90hRxpozaIXbsLw"
+  }, {
+    "artist" : "Young Thug",
+    "album" : "Barter 6",
+    "track" : "Check",
+    "uri" : "spotify:track:1jk9c0gZI0wbn5GvAj7PBV"
+  }, {
+    "artist" : "Kevin Gates",
+    "album" : "Islah",
+    "track" : "Really Really",
+    "uri" : "spotify:track:10I3CmmwT0BkOVhduDy53o"
+  }, {
+    "artist" : "A$AP Rocky",
+    "album" : "AT.LONG.LAST.A$AP",
+    "track" : "Wavybone (feat. Juicy J & UGK)",
+    "uri" : "spotify:track:5cYZm4KeDKM8Pw8z5XRKJt"
+  }, {
+    "artist" : "The Internet",
+    "album" : "Ego Death",
+    "track" : "Get Away",
+    "uri" : "spotify:track:10SUWedx0zohs8M3OJpnA7"
+  }, {
+    "artist" : "Jeezy",
+    "album" : "Let's Get It: Thug Motivation 101",
+    "track" : "Soul Survivor",
+    "uri" : "spotify:track:0Ss50OU9tCozI7JIywkv14"
+  }, {
+    "artist" : "Paramore",
+    "album" : "All We Know Is Falling",
+    "track" : "Pressure",
+    "uri" : "spotify:track:7mG2RbhyzGsjpQOz568d39"
+  }, {
+    "artist" : "50 Cent",
+    "album" : "Window Shopper",
+    "track" : "Window Shopper",
+    "uri" : "spotify:track:1bevrs76fdGW3y03R5q6GB"
+  }, {
+    "artist" : "P-Lo",
+    "album" : "STUNNA",
+    "track" : "Again",
+    "uri" : "spotify:track:1qMiwEmeArAqKvGZzuMHEB"
+  }, {
+    "artist" : "Kevin Rudolf",
+    "album" : "In The City",
+    "track" : "Let It Rock",
+    "uri" : "spotify:track:6TrNRd98WksT9Kkmx9uj6R"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "Tha Carter V",
+    "track" : "Mona Lisa (feat. Kendrick Lamar)",
+    "uri" : "spotify:track:0dbTQYW3Ad1FTzIA9t90E8"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "No Ceilings",
+    "track" : "Surf Swag",
+    "uri" : "spotify:track:56ehF3tXMjwLJkAmuKzRE2"
+  }, {
+    "artist" : "Pixies",
+    "album" : "Doolittle",
+    "track" : "Hey",
+    "uri" : "spotify:track:0p5eZCY0R7uNCZS1YDtIYI"
+  }, {
+    "artist" : "A$AP Rocky",
+    "album" : "AT.LONG.LAST.A$AP",
+    "track" : "Max B (feat. Joe Fox)",
+    "uri" : "spotify:track:4wuOxtRDeD9YiQOcmgay7e"
+  }, {
+    "artist" : "2Pac",
+    "album" : "All Eyez On Me",
+    "track" : "Can't C Me",
+    "uri" : "spotify:track:7rUchbZxrhF29Q0vYjKEU0"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "Tha Carter IV",
+    "track" : "She Will",
+    "uri" : "spotify:track:0b4M7hd7mzLTm99MrMeZsp"
+  }, {
+    "artist" : "Rihanna",
+    "album" : "ANTI",
+    "track" : "Yeah, I Said It",
+    "uri" : "spotify:track:7eDYNlBwRMeFOZHOZ95dZ1"
+  }, {
+    "artist" : "Pavement",
+    "album" : "Brighten the Corners: Nicene Creedence Ed.",
+    "track" : "Harness Your Hopes - B-side",
+    "uri" : "spotify:track:4vsoWZcvtvSsE0OiVvDDvX"
+  }, {
+    "artist" : "Three 6 Mafia",
+    "album" : "Most Known Unknown (Explicit)",
+    "track" : "Half On a Sack",
+    "uri" : "spotify:track:0KXO9R8yUd1BJjkEWXtor4"
+  }, {
+    "artist" : "Ludacris",
+    "album" : "The Red Light District",
+    "track" : "Blueberry Yum Yum",
+    "uri" : "spotify:track:26liGJfeDiHLVn0qTETkt1"
+  }, {
+    "artist" : "Isaiah Rashad",
+    "album" : "The Sun's Tirade",
+    "track" : "Silkk da Shocka (feat. Syd)",
+    "uri" : "spotify:track:5f6esnDQcBiFAm8iMfkw12"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "Tha Carter IV",
+    "track" : "MegaMan",
+    "uri" : "spotify:track:66TxPMqbyDLJOusYH4o93n"
+  }, {
+    "artist" : "JAY-Z",
+    "album" : "American Gangster",
+    "track" : "Sweet",
+    "uri" : "spotify:track:5az5aNPrBsNu0bALmgDKth"
+  }, {
+    "artist" : "Mike Jones",
+    "album" : "Who Is Mike Jones?",
+    "track" : "Back Then",
+    "uri" : "spotify:track:5krOROgmf8adn3SJzeKLZy"
+  }, {
+    "artist" : "Lana Del Rey",
+    "album" : "Ultraviolence",
+    "track" : "Florida Kilos",
+    "uri" : "spotify:track:0iQPnK3bi7O27c5T2HBTdr"
+  }, {
+    "artist" : "JUVENILE",
+    "album" : "Reality Check",
+    "track" : "Rodeo",
+    "uri" : "spotify:track:6TQi1WGLxAyy1itA3CqSlD"
+  }, {
+    "artist" : "JAY-Z",
+    "album" : "Top Five",
+    "track" : "Ni**as In Paris",
+    "uri" : "spotify:track:2KpCpk6HjXXLb7nnXoXA5O"
+  }, {
+    "artist" : "Boosie Badazz",
+    "album" : "Bad Azz",
+    "track" : "Smoking On Purple (feat. Webbie)",
+    "uri" : "spotify:track:2ip501nlI4H6562h7zRLvo"
+  }, {
+    "artist" : "Outkast",
+    "album" : "Idlewild",
+    "track" : "Mighty \"O\"",
+    "uri" : "spotify:track:25EtWmcUALs9Gtfiv7Bcab"
+  }, {
+    "artist" : "Young Thug",
+    "album" : "Barter 6",
+    "track" : "Numbers",
+    "uri" : "spotify:track:1kWVgfctc2JUKCqlsZGWbU"
+  }, {
+    "artist" : "JAY-Z",
+    "album" : "The Blueprint 3",
+    "track" : "Real As It Gets",
+    "uri" : "spotify:track:0Fx59cxbrS4v9CsOMUtQEM"
+  }, {
+    "artist" : "Birdman",
+    "album" : "Pricele$$",
+    "track" : "Money To Blow - Street Version",
+    "uri" : "spotify:track:4gaz3uvhKgO078XcdzyPsl"
+  }, {
+    "artist" : "A$AP Rocky",
+    "album" : "LIVE.LOVE.A$AP",
+    "track" : "Peso",
+    "uri" : "spotify:track:3tTpvK7QgjjQCKGnHt5xn3"
+  }, {
+    "artist" : "Santigold",
+    "album" : "Master of My Make-Believe",
+    "track" : "Disparate Youth",
+    "uri" : "spotify:track:0t2QiRkpag0fAgs9zuCPlH"
+  }, {
+    "artist" : "Eminem",
+    "album" : "The Eminem Show",
+    "track" : "Superman",
+    "uri" : "spotify:track:4woTEX1wYOTGDqNXuavlRC"
+  }, {
+    "artist" : "Kanye West",
+    "album" : "My Beautiful Dark Twisted Fantasy",
+    "track" : "Gorgeous",
+    "uri" : "spotify:track:23SZWX2IaDnxmhFsSLvkG2"
+  }, {
+    "artist" : "Birdman",
+    "album" : "Pricele$$",
+    "track" : "4 My Town (Play Ball)",
+    "uri" : "spotify:track:3922kPG1JMYBNhACLo9j3f"
+  }, {
+    "artist" : "Chief Keef",
+    "album" : "Finally Rich",
+    "track" : "Hallelujah",
+    "uri" : "spotify:track:4gEtNhWQB2XpivFLdpHwxc"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "I Am Not A Human Being",
+    "track" : "Right Above It",
+    "uri" : "spotify:track:1kMuU3TNQvHbqvXCWBodmP"
+  }, {
+    "artist" : "Billy Squier",
+    "album" : "Don't Say No",
+    "track" : "My Kinda Lover - Remastered 2010",
+    "uri" : "spotify:track:6g14FUj5zU9FDRwBi963vS"
+  }, {
+    "artist" : "T.I.",
+    "album" : "Paper Trail",
+    "track" : "Whatever You Like",
+    "uri" : "spotify:track:1IAzD1muglOxOcPbUHs70R"
+  }, {
+    "artist" : "SZA",
+    "album" : "Ctrl",
+    "track" : "20 Something",
+    "uri" : "spotify:track:4h6ViRoztTBpWcJ1zFT9Zg"
+  }, {
+    "artist" : "Kid Cudi",
+    "album" : "A Kid Named Cudi",
+    "track" : "The Prayer",
+    "uri" : "spotify:track:1SkzK37qLSi7Sp6PwYTC0A"
+  }, {
+    "artist" : "E-40",
+    "album" : "Sharp On All 4 Corners",
+    "track" : "Choices (Yup)",
+    "uri" : "spotify:track:2Zx41xpsAlZZxUVLm1ciar"
+  }, {
+    "artist" : "J. Cole",
+    "album" : "Born Sinner",
+    "track" : "Power Trip (feat. Miguel)",
+    "uri" : "spotify:track:2uwnP6tZVVmTovzX5ELooy"
+  }, {
+    "artist" : "French Montana",
+    "album" : "Shot Caller",
+    "track" : "Shot Caller - Remix",
+    "uri" : "spotify:track:3EQc0fpRGkQLAmovSuHHnm"
+  }, {
+    "artist" : "Snoop Dogg",
+    "album" : "Sexual Eruption",
+    "track" : "That's That Shit",
+    "uri" : "spotify:track:3J58iVk8OXYAGG4YvOKG8u"
+  }, {
+    "artist" : "Waka Flocka Flame",
+    "album" : "Flockaveli",
+    "track" : "Grove St. Party (feat. Kebo Gotti)",
+    "uri" : "spotify:track:2e9EZ2V5QGGZPMJacO3y0Y"
+  }, {
+    "artist" : "SZA",
+    "album" : "Ctrl",
+    "track" : "Normal Girl",
+    "uri" : "spotify:track:5fQBa4wkmq28xpSLOQ202K"
+  }, {
+    "artist" : "Jeremih",
+    "album" : "Late Nights: The Album",
+    "track" : "Planez",
+    "uri" : "spotify:track:08zJpaUQVi9FrKv2e32Bah"
+  }, {
+    "artist" : "Ludacris",
+    "album" : "Back For The First Time",
+    "track" : "What's Your Fantasy (Featuring Shawna)",
+    "uri" : "spotify:track:4LwOrnuxJwR7C5Sw4liY4Z"
+  }, {
+    "artist" : "Bell Biv DeVoe",
+    "album" : "Poison",
+    "track" : "Poison",
+    "uri" : "spotify:track:6m59VvDUi0UQsB2eZ9wVbH"
+  }, {
+    "artist" : "JAY-Z",
+    "album" : "The Blueprint",
+    "track" : "Song Cry",
+    "uri" : "spotify:track:19ELgyBdMcEjGcbFHcY1ba"
+  }, {
+    "artist" : "Mac Miller",
+    "album" : "Macadelic",
+    "track" : "Fight the Feeling (feat. Kendrick Lamar & Iman Omari)",
+    "uri" : "spotify:track:0jFxJ1US3dmwQn7DJi269h"
+  }, {
+    "artist" : "Travis Scott",
+    "album" : "Rodeo",
+    "track" : "Apple Pie",
+    "uri" : "spotify:track:6scpNkWEmUxmKY7nYjVLsX"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "Tha Carter IV",
+    "track" : "6 Foot 7 Foot",
+    "uri" : "spotify:track:5Qy6a5KzM4XlRxsNcGYhgH"
+  }, {
+    "artist" : "Soul For Real",
+    "album" : "Candy Rain",
+    "track" : "Candy Rain",
+    "uri" : "spotify:track:4j1Bk0BEIGCF9hR7cSwl9d"
+  }, {
+    "artist" : "Kirko Bangz",
+    "album" : "Drank in My Cup",
+    "track" : "Drank in My Cup",
+    "uri" : "spotify:track:3m8CQnnfJJp4eQMWWl3zay"
+  }, {
+    "artist" : "Fetty Wap",
+    "album" : "Fetty Wap",
+    "track" : "Jugg (feat. Monty)",
+    "uri" : "spotify:track:0W1OeXDPntUH0BeyJtE9UM"
+  }, {
+    "artist" : "Lynyrd Skynyrd",
+    "album" : "Second Helping",
+    "track" : "I Need You",
+    "uri" : "spotify:track:2UQWW8rhNJo5tBt77LnbZH"
+  }, {
+    "artist" : "Keyshia Cole",
+    "album" : "Just Like You",
+    "track" : "Let It Go",
+    "uri" : "spotify:track:2RqZFOLOnzVmHUX7ZMcaES"
+  }, {
+    "artist" : "Chrystal",
+    "album" : "The Days",
+    "track" : "The Days",
+    "uri" : "spotify:track:5hdk8xva1LqTDEgs3yLdRH"
+  }, {
+    "artist" : "Rihanna",
+    "album" : "ANTI",
+    "track" : "Needed Me",
+    "uri" : "spotify:track:4pAl7FkDMNBsjykPXo91B3"
+  }, {
+    "artist" : "Shawnna",
+    "album" : "Block Music",
+    "track" : "Gettin' Some Remix",
+    "uri" : "spotify:track:0aw78zmPhfVau0jbYrxvIH"
+  }, {
+    "artist" : "Nas",
+    "album" : "The Essential Nas",
+    "track" : "Oochie Wally - Remix",
+    "uri" : "spotify:track:56DPW47j6NZnRye792oACa"
+  }, {
+    "artist" : "Kendrick Lamar",
+    "album" : "good kid, m.A.A.d city",
+    "track" : "The Recipe (Black Hippy Remix) - Bonus Track",
+    "uri" : "spotify:track:5UHjWOJA6MDl1g3x2HC68V"
+  }, {
+    "artist" : "Young Thug",
+    "album" : "Barter 6",
+    "track" : "Can't Tell (feat. T.I. and Boosie BadAzz)",
+    "uri" : "spotify:track:4QfVMnOYuE5Ah7E4g1p6Bx"
+  }, {
+    "artist" : "Drake",
+    "album" : "Thank Me Later",
+    "track" : "Over",
+    "uri" : "spotify:track:6BdgtqiV3oXNqBikezwdvC"
+  }, {
+    "artist" : "JAY-Z",
+    "album" : "The Blueprint 3",
+    "track" : "Already Home",
+    "uri" : "spotify:track:6BspqxU4vVF6ZsWjfgIJkK"
+  }, {
+    "artist" : "Ludacris",
+    "album" : "The Red Light District",
+    "track" : "Pimpin' All Over The World",
+    "uri" : "spotify:track:6VixoRqnikN4QqegoKUSbH"
+  }, {
+    "artist" : "Future",
+    "album" : "Pluto 3D",
+    "track" : "Turn On The Lights",
+    "uri" : "spotify:track:4U8hMes3PqpsLJBeMXD71p"
+  }, {
+    "artist" : "Jeezy",
+    "album" : "TM:103 Hustlerz Ambition",
+    "track" : "Leave You Alone",
+    "uri" : "spotify:track:5GOqOUVv7vk0jWDdNToHtA"
+  }, {
+    "artist" : "Birdman",
+    "album" : "Always Strapped",
+    "track" : "Always Strapped",
+    "uri" : "spotify:track:0kRo6T6JEEQmTI7cFnYaKh"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "Tha Carter IV",
+    "track" : "Nightmares Of The Bottom",
+    "uri" : "spotify:track:26rzYxyfEcuAfga8ZtPt64"
+  }, {
+    "artist" : "Amerie",
+    "album" : "Playlist: The Very Best Of Amerie",
+    "track" : "1 Thing",
+    "uri" : "spotify:track:6ZyNjT2hYvfV5PuW84dp1E"
+  }, {
+    "artist" : "Soulja Boy",
+    "album" : "iSouljaBoyTellem",
+    "track" : "Turn My Swag On",
+    "uri" : "spotify:track:6ATrsVaZT7XjkCynxM8cTS"
+  }, {
+    "artist" : "Zoe Osama",
+    "album" : "From The Eastside With Love",
+    "track" : "Underrated (feat. Moneysign Suede) - Remix",
+    "uri" : "spotify:track:2anz6oADcuVIS7cB220PTP"
+  }, {
+    "artist" : "Rihanna",
+    "album" : "Unapologetic",
+    "track" : "Loveeeeeee Song",
+    "uri" : "spotify:track:3DZQ6mzUkAdHqZWzqxBKIK"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "Sorry 4 The Wait",
+    "track" : "Rax",
+    "uri" : "spotify:track:13C7ucXlnNRWcZWzgvSbP4"
+  }, {
+    "artist" : "Ayesha Erotica",
+    "album" : "Yummy",
+    "track" : "Yummy - Righteous Remix",
+    "uri" : "spotify:track:4UQijskfH7GRycjz77buzW"
+  }, {
+    "artist" : "Luniz",
+    "album" : "Operation Stackola",
+    "track" : "I Got 5 On It",
+    "uri" : "spotify:track:4IYKjN1DrYzxKXt0umJqsG"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "Tha Carter IV",
+    "track" : "Blunt Blowin",
+    "uri" : "spotify:track:0BKXZkU8oGad58MyTFyFXu"
+  }, {
+    "artist" : "Future",
+    "album" : "Astronaut Status",
+    "track" : "Rider",
+    "uri" : "spotify:track:0NrK4sqr5wcvgSIaYcxSID"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "Tha Carter II",
+    "track" : "Hustler Musik",
+    "uri" : "spotify:track:2334WaCjswLcRIRgTTPWaZ"
+  }, {
+    "artist" : "Birdman",
+    "album" : "Like Father Like Son",
+    "track" : "Get That Money",
+    "uri" : "spotify:track:2Gnw1SPWsfzdhg5sZTJrkh"
+  }, {
+    "artist" : "A$AP Rocky",
+    "album" : "LIVE.LOVE.A$AP",
+    "track" : "Get Lit (feat. Fat Tony)",
+    "uri" : "spotify:track:4nzmPINOWf5sdKNrTjcM3z"
+  }, {
+    "artist" : "Waka Flocka Flame",
+    "album" : "Flockaveli",
+    "track" : "O Let's Do It (feat. Cap)",
+    "uri" : "spotify:track:0wCC06ziWEkYOif44iFggw"
+  }, {
+    "artist" : "Rick James",
+    "album" : "Come Get It!",
+    "track" : "Mary Jane",
+    "uri" : "spotify:track:5hWLHFSmomXmeTXEE478My"
+  }, {
+    "artist" : "The Weeknd",
+    "album" : "House Of Balloons",
+    "track" : "The Party & The After Party",
+    "uri" : "spotify:track:0GROiXm03OrMC5ltXLhGIu"
+  }, {
+    "artist" : "N.E.R.D",
+    "album" : "NO ONE EVER REALLY DIES",
+    "track" : "Lemon",
+    "uri" : "spotify:track:4PpuH4mxL0rD35mOWaLoKS"
+  }, {
+    "artist" : "Sean Kingston",
+    "album" : "Eenie Meenie EP",
+    "track" : "Eenie Meenie",
+    "uri" : "spotify:track:45O0tUN9Bh6LH4eNxQ07AT"
+  }, {
+    "artist" : "BJ The Chicago Kid",
+    "album" : "The Music of Grand Theft Auto V, Vol. 1: Original Music",
+    "track" : "Smokin' And Ridin' (feat. Freddie Gibbs & Problem)",
+    "uri" : "spotify:track:5P4KMR8aiKtz2WFxNVYChF"
+  }, {
+    "artist" : "Mac Miller",
+    "album" : "The Divine Feminine",
+    "track" : "Skin",
+    "uri" : "spotify:track:1eDS8ii1utvj0PjfQLrDb4"
+  }, {
+    "artist" : "Young Thug",
+    "album" : "Slime Season 3",
+    "track" : "Problem",
+    "uri" : "spotify:track:1o5jdqnWybW9Mau4GDWPMa"
+  }, {
+    "artist" : "Kendrick Lamar",
+    "album" : "good kid, m.A.A.d city",
+    "track" : "Real",
+    "uri" : "spotify:track:5d8yMIlqJH78lwOUP7T3oF"
+  }, {
+    "artist" : "Deee-Lite",
+    "album" : "World Clique",
+    "track" : "Groove Is in the Heart",
+    "uri" : "spotify:track:2He3NOyqtLNE3RQPpeDdSb"
+  }, {
+    "artist" : "A$AP Rocky",
+    "album" : "LONG.LIVE.A$AP (Deluxe Version)",
+    "track" : "Angels",
+    "uri" : "spotify:track:0NFCFdJxEGCGO6EGkFCGgF"
+  }, {
+    "artist" : "Kendrick Lamar",
+    "album" : "good kid, m.A.A.d city",
+    "track" : "good kid",
+    "uri" : "spotify:track:4yQFG0pjY3UagWYkfIfWYg"
+  }, {
+    "artist" : "50 Cent",
+    "album" : "The Massacre",
+    "track" : "God Gave Me Style",
+    "uri" : "spotify:track:5NoB3TXQDvVClLnC1lXdPt"
+  }, {
+    "artist" : "Miguel",
+    "album" : "How Many Drinks? (feat. Kendrick Lamar)",
+    "track" : "How Many Drinks? (feat. Kendrick Lamar)",
+    "uri" : "spotify:track:2dDCkXBbVDI4YR21lrQRK6"
+  }, {
+    "artist" : "Drake",
+    "album" : "Thank Me Later",
+    "track" : "Fancy",
+    "uri" : "spotify:track:3fpTMuD1u3gJlVI4FadVHs"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "Tha Carter IV",
+    "track" : "How To Love",
+    "uri" : "spotify:track:7xyN0pha5zIbwvXeIADGpe"
+  }, {
+    "artist" : "Amy Winehouse",
+    "album" : "Frank",
+    "track" : "Fuck Me Pumps",
+    "uri" : "spotify:track:3ku4ScVEkZvurrcjmMrOAL"
+  }, {
+    "artist" : "Wale",
+    "album" : "Ambition",
+    "track" : "That Way (feat. Jeremih & Rick Ross)",
+    "uri" : "spotify:track:7FAXe9lI8vzAJYgYv2xoSC"
+  }, {
+    "artist" : "Drake",
+    "album" : "Take Care",
+    "track" : "Headlines",
+    "uri" : "spotify:track:6LxSe8YmdPxy095Ux6znaQ"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "Tha Carter V",
+    "track" : "Let It All Work Out",
+    "uri" : "spotify:track:3BUWNzPWz2mDbptZmGEXpB"
+  }, {
+    "artist" : "Paramore",
+    "album" : "I Caught Myself",
+    "track" : "I Caught Myself",
+    "uri" : "spotify:track:0NDKrxRuw0H3tZxbpYIhze"
+  }, {
+    "artist" : "G-Unit",
+    "album" : "Beg For Mercy",
+    "track" : "Poppin' Them Thangs",
+    "uri" : "spotify:track:4E5IFAXCob6QqZaJMTw5YN"
+  }, {
+    "artist" : "Young Money",
+    "album" : "We Are Young Money",
+    "track" : "F*** Da Bulls***",
+    "uri" : "spotify:track:0RlRQs4kUDunOd7IgSaUVg"
+  }, {
+    "artist" : "Big Sean",
+    "album" : "Dark Sky Paradise",
+    "track" : "I Know",
+    "uri" : "spotify:track:6rje9f1wRFJDO2iTORw0lH"
+  }, {
+    "artist" : "Aaliyah",
+    "album" : "One In A Million",
+    "track" : "One In A Million",
+    "uri" : "spotify:track:3j64qSBGg8zPn4zRa9Wok1"
+  }, {
+    "artist" : "Dr. Dre",
+    "album" : "2001",
+    "track" : "Forgot About Dre",
+    "uri" : "spotify:track:7iXF2W9vKmDoGAhlHdpyIa"
+  }, {
+    "artist" : "Ludacris",
+    "album" : "Battle Of The Sexes",
+    "track" : "Tell Me A Secret",
+    "uri" : "spotify:track:6WNJxMeX6pSpeCbPFWVJEI"
+  }, {
+    "artist" : "ScHoolboy Q",
+    "album" : "Oxymoron",
+    "track" : "Studio",
+    "uri" : "spotify:track:29gsi1zZrZxdStACmTQB0Z"
+  }, {
+    "artist" : "Rob $tone",
+    "album" : "Chill Bill (feat. J. Davi$ & Spooks)",
+    "track" : "Chill Bill (feat. J. Davi$ & Spooks)",
+    "uri" : "spotify:track:5uDASfU19gDxSjW8cnCaBp"
+  }, {
+    "artist" : "T.I.",
+    "album" : "Paper Trail",
+    "track" : "Dead And Gone",
+    "uri" : "spotify:track:7IhsLJMqdxoo7YAZjaSMru"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "Tha Carter III",
+    "track" : "Mrs. Officer",
+    "uri" : "spotify:track:0EHR9OObFtjlhQB8wSt1m7"
+  }, {
+    "artist" : "Cassie",
+    "album" : "Cassie",
+    "track" : "Long Way 2 Go",
+    "uri" : "spotify:track:4v5kAh2wWyCSuKuhMJK8u6"
+  }, {
+    "artist" : "A$AP Rocky",
+    "album" : "LONG.LIVE.A$AP (Deluxe Version)",
+    "track" : "Phoenix",
+    "uri" : "spotify:track:77v9kYcrCZV615E0P9WMrD"
+  }, {
+    "artist" : "50 Cent",
+    "album" : "Get Rich Or Die Tryin'",
+    "track" : "Lifes On The Line",
+    "uri" : "spotify:track:0BlMILdtCt6Xlw7PuHYvYl"
+  }, {
+    "artist" : "Jeezy",
+    "album" : "TM:103 Hustlerz Ambition",
+    "track" : "I Do",
+    "uri" : "spotify:track:7kbgzSYR7X9FkzIeUFkviQ"
+  }, {
+    "artist" : "A$AP Rocky",
+    "album" : "TESTING",
+    "track" : "Tony Tone",
+    "uri" : "spotify:track:52eYVUkFTOVozbVFIaFrnV"
+  }, {
+    "artist" : "Yung Joc",
+    "album" : "New Joc City",
+    "track" : "It's Goin' Down (feat. Nitti)",
+    "uri" : "spotify:track:05Sgj1Hx03ZXc57gsV1kfX"
+  }, {
+    "artist" : "Future",
+    "album" : "Astronaut Status",
+    "track" : "(Bonus) Itchin",
+    "uri" : "spotify:track:53CUl8RvJqbBPm31SiSg7Q"
+  }, {
+    "artist" : "The Weeknd",
+    "album" : "Trilogy",
+    "track" : "Till Dawn (Here Comes The Sun)",
+    "uri" : "spotify:track:0kXHpsg9SmpRqsQ4wQvQsK"
+  }, {
+    "artist" : "Brandy",
+    "album" : "Brandy",
+    "track" : "I Wanna Be Down",
+    "uri" : "spotify:track:6N9uyMZf9pbNOuomveWscp"
+  }, {
+    "artist" : "Kodak Black",
+    "album" : "Institution",
+    "track" : "Like Dat",
+    "uri" : "spotify:track:788NX6uCNEVuZW8x5BkQqM"
+  }, {
+    "artist" : "Gucci Mane",
+    "album" : "The State vs. Radric Davis",
+    "track" : "Bricks (feat. OJ & Yo Gotti)",
+    "uri" : "spotify:track:6tb154mR85vD4BgkRcg3WD"
+  }, {
+    "artist" : "Mac Miller",
+    "album" : "The Divine Feminine",
+    "track" : "God Is Fair, Sexy Nasty (feat. Kendrick Lamar)",
+    "uri" : "spotify:track:6hzbRKhJHo6cfCHSnNaDS8"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "Tha Carter II",
+    "track" : "Money On My Mind",
+    "uri" : "spotify:track:6Y6f7LSvHxUA61ItYiSMKE"
+  }, {
+    "artist" : "Birdman",
+    "album" : "Like Father Like Son",
+    "track" : "High",
+    "uri" : "spotify:track:0djBOwEzpquo2h7ycBhtiW"
+  }, {
+    "artist" : "Timbaland",
+    "album" : "Shock Value",
+    "track" : "The Way I Are",
+    "uri" : "spotify:track:2bLqfJjuC5syrsgDsZfGmn"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "FWA",
+    "track" : "London Roads",
+    "uri" : "spotify:track:4R4DIolXpiqaRikE93snFz"
+  }, {
+    "artist" : "A$AP Mob",
+    "album" : "Cozy Tapes Vol. 2: Too Cozy",
+    "track" : "Frat Rules (feat. A$AP Rocky, Playboi Carti & Big Sean)",
+    "uri" : "spotify:track:0RyA3o15NOLJYtm9NlDu5c"
+  }, {
+    "artist" : "Tyler, The Creator",
+    "album" : "Cherry Bomb",
+    "track" : "SMUCKERS (feat. Lil Wayne & Kanye West)",
+    "uri" : "spotify:track:078C2jXg7XsMgW78Gfx1JA"
+  }, {
+    "artist" : "Ludacris",
+    "album" : "Chicken - N - Beer",
+    "track" : "Splash Waterfalls",
+    "uri" : "spotify:track:2T8hXV9LUZMDBKR5RALGEa"
+  }, {
+    "artist" : "Jeezy",
+    "album" : "TM:103 Hustlerz Ambition",
+    "track" : "Lose My Mind",
+    "uri" : "spotify:track:0Ft6hwGWdCdujdK6TOfBV7"
+  }, {
+    "artist" : "Outkast",
+    "album" : "Aquemini",
+    "track" : "Aquemini",
+    "uri" : "spotify:track:4V3N5LvUOh3yDPP16cwAhE"
+  }, {
+    "artist" : "Young Money",
+    "album" : "We Are Young Money",
+    "track" : "Pass The Dutch",
+    "uri" : "spotify:track:3TlFNLjRnslvF7Y5iS34ZA"
+  }, {
+    "artist" : "Eazy-E",
+    "album" : "N.W.A. And The Posse",
+    "track" : "Boyz-N-The-Hood",
+    "uri" : "spotify:track:5RGXoZt1qxmAErdhbyKJKq"
+  }, {
+    "artist" : "Cam'ron",
+    "album" : "Come Home With Me",
+    "track" : "Oh Boy",
+    "uri" : "spotify:track:4X1odWLrLSSahaK6Hi15AA"
+  }, {
+    "artist" : "Rihanna",
+    "album" : "Loud",
+    "track" : "Skin",
+    "uri" : "spotify:track:62YAKv9ak7mxrNRdhe7Pe9"
+  }, {
+    "artist" : "Project Pat",
+    "album" : "Layin' Da Smack Down (Explicit Version)",
+    "track" : "Choose U",
+    "uri" : "spotify:track:0kCZ2X6kIXZ5zRMrPx8Usx"
+  }, {
+    "artist" : "Ol' Dirty Bastard",
+    "album" : "Nigga Please",
+    "track" : "Got Your Money (feat. Kelis)",
+    "uri" : "spotify:track:6YYd5MLpu45J0uLrMdivF7"
+  }, {
+    "artist" : "Basement Jaxx",
+    "album" : "Rooty",
+    "track" : "Where's Your Head At",
+    "uri" : "spotify:track:3cJh89D0za2SW705fNBo3b"
+  }, {
+    "artist" : "Future",
+    "album" : "HNDRXX",
+    "track" : "Hallucinating",
+    "uri" : "spotify:track:7IeHIGriFrJaTeaC4W0a8W"
+  }, {
+    "artist" : "Travis Scott",
+    "album" : "Rodeo",
+    "track" : "Pornography",
+    "uri" : "spotify:track:2QeQNF182V61Im0QpjdVta"
+  }, {
+    "artist" : "Kardinal Offishall",
+    "album" : "Not 4 Sale",
+    "track" : "Dangerous",
+    "uri" : "spotify:track:4NOZ35Dhucr6UlVyLOtktd"
+  }, {
+    "artist" : "A$AP Rocky",
+    "album" : "AT.LONG.LAST.A$AP",
+    "track" : "Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",
+    "uri" : "spotify:track:2N3U8uTYhjX2KwGT0pf5x0"
+  }, {
+    "artist" : "Drake",
+    "album" : "What A Time To Be Alive",
+    "track" : "I'm The Plug",
+    "uri" : "spotify:track:6bqtKURdSWkInAJHDkuaL0"
+  }, {
+    "artist" : "Travis Scott",
+    "album" : "ASTROWORLD",
+    "track" : "SKELETONS",
+    "uri" : "spotify:track:6NMtzpDQBTOfJwMzgMX0zl"
+  }, {
+    "artist" : "Madonna",
+    "album" : "Like a Virgin",
+    "track" : "Like a Virgin",
+    "uri" : "spotify:track:1ZPlNanZsJSPK5h9YZZFbZ"
+  }, {
+    "artist" : "Nelly",
+    "album" : "Country Grammar",
+    "track" : "Country Grammar (Hot Shit)",
+    "uri" : "spotify:track:3wMUvT6eIw2L5cZFG1yH9j"
+  }, {
+    "artist" : "Bone Thugs-N-Harmony",
+    "album" : "E. 1999 Eternal",
+    "track" : "Mo'murda",
+    "uri" : "spotify:track:3u9pftbhkHKNti0U58q5j3"
+  }, {
+    "artist" : "JAY-Z",
+    "album" : "American Gangster",
+    "track" : "I Know",
+    "uri" : "spotify:track:6B6xRGiXeEBRDGjrC7cfx4"
+  }, {
+    "artist" : "Travis Scott",
+    "album" : "Rodeo",
+    "track" : "90210 (feat. Kacy Hill)",
+    "uri" : "spotify:track:51EC3I1nQXpec4gDk0mQyP"
+  }, {
+    "artist" : "Mac Miller",
+    "album" : "The Divine Feminine",
+    "track" : "Stay",
+    "uri" : "spotify:track:4brX8MJs5hxErgq48f9REO"
+  }, {
+    "artist" : "Journey",
+    "album" : "Escape",
+    "track" : "Who's Crying Now (2022 Remaster)",
+    "uri" : "spotify:track:4KWzsYmXYYbTjb4tYxulvd"
+  }, {
+    "artist" : "Playboi Carti",
+    "album" : "Die Lit",
+    "track" : "Fell In Luv (feat. Bryson Tiller)",
+    "uri" : "spotify:track:1s9DTymg5UQrdorZf43JQm"
+  }, {
+    "artist" : "Black Eyed Peas",
+    "album" : "THE E.N.D. (THE ENERGY NEVER DIES)",
+    "track" : "Meet Me Halfway",
+    "uri" : "spotify:track:6wOYnPq1hPihRepcDClPUw"
+  }, {
+    "artist" : "Kendrick Lamar",
+    "album" : "good kid, m.A.A.d city",
+    "track" : "Swimming Pools (Drank) - Extended Version",
+    "uri" : "spotify:track:5ujh1I7NZH5agbwf7Hp8Hc"
+  }, {
+    "artist" : "Rich Boy",
+    "album" : "Rich Boy",
+    "track" : "Throw Some D's",
+    "uri" : "spotify:track:6SmPPtaMnfxgz5duA6t9Cu"
+  }, {
+    "artist" : "Lloyd",
+    "album" : "Street Love",
+    "track" : "You",
+    "uri" : "spotify:track:5Y77SQxEr1eiofPeUTPHxM"
+  }, {
+    "artist" : "Nelly Furtado",
+    "album" : "Loose",
+    "track" : "Promiscuous",
+    "uri" : "spotify:track:2gam98EZKrF9XuOkU13ApN"
+  }, {
+    "artist" : "Pixies",
+    "album" : "Surfer Rosa",
+    "track" : "Where Is My Mind? - 2007 Remaster",
+    "uri" : "spotify:track:7wCmS9TTVUcIhRalDYFgPy"
+  }, {
+    "artist" : "Ginuwine",
+    "album" : "100% Ginuwine",
+    "track" : "None Of Ur Friends Business",
+    "uri" : "spotify:track:6t8JpJtI0PgVRSuMDGWZlH"
+  }, {
+    "artist" : "Drake",
+    "album" : "Take Care",
+    "track" : "The Motto",
+    "uri" : "spotify:track:4Kz4RdRCceaA9VgTqBhBfa"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "No Ceilings",
+    "track" : "Shoes",
+    "uri" : "spotify:track:5yHevmbP3PEex0kxP2cBc5"
+  }, {
+    "artist" : "Birdman",
+    "album" : "5 * Stunna",
+    "track" : "I Run This",
+    "uri" : "spotify:track:2obSyhaTGjjYxLQfTYQdig"
+  }, {
+    "artist" : "Travis Scott",
+    "album" : "Rodeo",
+    "track" : "Nightcrawler (feat. Swae Lee & Chief Keef)",
+    "uri" : "spotify:track:3xby7fOyqmeON8jsnom0AT"
+  }, {
+    "artist" : "Eminem",
+    "album" : "The Eminem Show",
+    "track" : "Without Me",
+    "uri" : "spotify:track:7lQ8MOhq6IN2w8EYcFNSUk"
+  }, {
+    "artist" : "Outkast",
+    "album" : "Aquemini",
+    "track" : "Da Art of Storytellin' (Pt. 1)",
+    "uri" : "spotify:track:1KQymTxNJfWk6vCD5ywKW2"
+  }, {
+    "artist" : "Wiz Khalifa",
+    "album" : "Kush & Orange Juice",
+    "track" : "Never Been - Remix",
+    "uri" : "spotify:track:7GoaUCrdZzNgCHPoywnFxY"
+  }, {
+    "artist" : "Boosie Badazz",
+    "album" : "Bad Azz",
+    "track" : "Set It Off",
+    "uri" : "spotify:track:3qLgWZabS3bEZyKTjPbq5V"
+  }, {
+    "artist" : "Pierce The Veil",
+    "album" : "Selfish Machines",
+    "track" : "Bulletproof Love",
+    "uri" : "spotify:track:6bGac1gBHs7kUKihrudMzq"
+  }, {
+    "artist" : "Miguel",
+    "album" : "All I Want Is You",
+    "track" : "Quickie",
+    "uri" : "spotify:track:4isk4UYRcmslphcTq61xUg"
+  }, {
+    "artist" : "Petey Pablo",
+    "album" : "Still Writing In My Diary: 2nd Entry",
+    "track" : "Freek-A-Leek",
+    "uri" : "spotify:track:4MeDnO5yA2Zi6IMlVApRci"
+  }, {
+    "artist" : "Bone Thugs-N-Harmony",
+    "album" : "E. 1999 Eternal",
+    "track" : "Tha Crossroads",
+    "uri" : "spotify:track:5KSJ9k1FYjFLnIRlJT2wF8"
+  }, {
+    "artist" : "Mac Miller",
+    "album" : "Watching Movies with the Sound Off",
+    "track" : "Objects in the Mirror",
+    "uri" : "spotify:track:4O0xktTx6zrClJ7OPzMpDT"
+  }, {
+    "artist" : "Lil B",
+    "album" : "Green Flame",
+    "track" : "Back Home",
+    "uri" : "spotify:track:3y5HfJqPi00GhpNtqyncO8"
+  }, {
+    "artist" : "A$AP Rocky",
+    "album" : "LONG.LIVE.A$AP (Deluxe Version)",
+    "track" : "Ghetto Symphony (feat. Gunplay & A$AP Ferg)",
+    "uri" : "spotify:track:57pOLYHz6mt5aMkOXa2Gis"
+  }, {
+    "artist" : "Three 6 Mafia",
+    "album" : "Most Known Unknown (Explicit)",
+    "track" : "Stay Fly",
+    "uri" : "spotify:track:5MYFw4T2gy52pOGBN4EYHS"
+  }, {
+    "artist" : "Chief Keef",
+    "album" : "Finally Rich",
+    "track" : "Hate Bein' Sober",
+    "uri" : "spotify:track:2oHM9KAdFdFvDCaE4V6RST"
+  }, {
+    "artist" : "Future",
+    "album" : "HNDRXX",
+    "track" : "My Collection",
+    "uri" : "spotify:track:0526DaOuV7mRlPKxhMSJKw"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "I Am Not A Human Being II",
+    "track" : "Love Me",
+    "uri" : "spotify:track:2XHzzp1j4IfTNp1FTn7YFg"
+  }, {
+    "artist" : "Kodak Black",
+    "album" : "Heart of the Projects",
+    "track" : "Honey Bun",
+    "uri" : "spotify:track:1SRYeLTTfFC1nYtIMauYQc"
+  }, {
+    "artist" : "G-Eazy",
+    "album" : "These Things Happen",
+    "track" : "Tumblr Girls (feat. Christoph Andersson)",
+    "uri" : "spotify:track:4Fv6wNYUixnYkj3Dgfrls8"
+  }, {
+    "artist" : "Young Thug",
+    "album" : "JEFFERY",
+    "track" : "Wyclef Jean",
+    "uri" : "spotify:track:55OdqrG8WLmsYyY1jijD9b"
+  }, {
+    "artist" : "Webbie",
+    "album" : "Savage Life",
+    "track" : "What is It",
+    "uri" : "spotify:track:4qtOAd4jqX2r7COmKXlHH4"
+  }, {
+    "artist" : "Chris Brown",
+    "album" : "Chris Brown (Expanded Edition)",
+    "track" : "Poppin' - Main",
+    "uri" : "spotify:track:7vGRXiYWFk6NjUnsNjQJQd"
+  }, {
+    "artist" : "Future",
+    "album" : "Purple Reign",
+    "track" : "News or Something",
+    "uri" : "spotify:track:3BzlZAqfnZDjv1F5CLlpHx"
+  }, {
+    "artist" : "Future",
+    "album" : "Pluto",
+    "track" : "Neva End",
+    "uri" : "spotify:track:4sX8e5VkqBWA7IIooImSsS"
+  }, {
+    "artist" : "Jeezy",
+    "album" : "The Inspiration",
+    "track" : "Mr. 17.5",
+    "uri" : "spotify:track:24kW0CLRfl08jxJjarod48"
+  }, {
+    "artist" : "UGK",
+    "album" : "UGK (Underground Kingz)",
+    "track" : "Int'l Players Anthem (I Choose You) (feat. Outkast)",
+    "uri" : "spotify:track:4ns1XFP3W5JPyzvnAjMdHD"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "No Ceilings",
+    "track" : "YM Wasted",
+    "uri" : "spotify:track:17vZPuNejGd309NvzPMqBs"
+  }, {
+    "artist" : "Jeezy",
+    "album" : "Let's Get It: Thug Motivation 101",
+    "track" : "Go Crazy (Remix)",
+    "uri" : "spotify:track:3iUnagQlUtjjCNQ3us3lPi"
+  }, {
+    "artist" : "Shawty Lo",
+    "album" : "They Know (Dey Know)",
+    "track" : "They Know (Dey Know)",
+    "uri" : "spotify:track:6TQANhh0iV17xMeExcH6qj"
+  }, {
+    "artist" : "SZA",
+    "album" : "Ctrl",
+    "track" : "The Weekend",
+    "uri" : "spotify:track:6gU9OKjOE7ghfEd55oRO57"
+  }, {
+    "artist" : "Ginuwine",
+    "album" : "R&B: From Doo-Wop To Hip-Hop",
+    "track" : "Pony",
+    "uri" : "spotify:track:6mz1fBdKATx6qP4oP1I65G"
+  }, {
+    "artist" : "Gucci Mane",
+    "album" : "The State vs. Radric Davis",
+    "track" : "Photoshoot",
+    "uri" : "spotify:track:6bphEFxKCxIcVGQFNhENAE"
+  }, {
+    "artist" : "Kendrick Lamar",
+    "album" : "DAMN.",
+    "track" : "PRIDE.",
+    "uri" : "spotify:track:6IZvVAP7VPPnsGX6bvgkqg"
+  }, {
+    "artist" : "Makaveli",
+    "album" : "The Don Killuminati: The 7 Day Theory",
+    "track" : "Hail Mary",
+    "uri" : "spotify:track:6sCtddSFg3foJn4K2pIhfQ"
+  }, {
+    "artist" : "Gucci Mane",
+    "album" : "Chicken Talk",
+    "track" : "Swing My Door",
+    "uri" : "spotify:track:1aKS3Ief3e7V2dEft4mSAQ"
+  }, {
+    "artist" : "The Internet",
+    "album" : "Ego Death",
+    "track" : "Special Affair",
+    "uri" : "spotify:track:3NWTRZ0A8xKlBP1qgNftql"
+  }, {
+    "artist" : "Rick Ross",
+    "album" : "God Forgives, I Don't",
+    "track" : "Amsterdam",
+    "uri" : "spotify:track:4duKSDnLGdvwJ5yxDNhPmj"
+  }, {
+    "artist" : "Twista",
+    "album" : "Kamikaze",
+    "track" : "Overnight Celebrity (feat. Miri Ben-Ari)",
+    "uri" : "spotify:track:2tOZtdbkAMQASWokLvSlzj"
+  }, {
+    "artist" : "Jeezy",
+    "album" : "Let's Get It: Thug Motivation 101",
+    "track" : "Tear It Up",
+    "uri" : "spotify:track:5Kd7DydripoJKxOGYksLJc"
+  }, {
+    "artist" : "Kendrick Lamar",
+    "album" : "DAMN.",
+    "track" : "LOYALTY. FEAT. RIHANNA.",
+    "uri" : "spotify:track:6SwRhMLwNqEi6alNPVG00n"
+  }, {
+    "artist" : "JAY-Z",
+    "album" : "American Gangster",
+    "track" : "Party Life",
+    "uri" : "spotify:track:1NGpVJjyQpsZRURcJTplfk"
+  }, {
+    "artist" : "The Weeknd",
+    "album" : "Trilogy",
+    "track" : "The Morning",
+    "uri" : "spotify:track:7wPTyxE1PNemZuyuOOaQ8q"
+  }, {
+    "artist" : "Kid Cudi",
+    "album" : "Indicud",
+    "track" : "Just What I Am",
+    "uri" : "spotify:track:20bJBbPapGQ4bqs0YcA9xY"
+  }, {
+    "artist" : "Project Pat",
+    "album" : "Mista Don't Play: Everythangs Workin",
+    "track" : "Life We Live (feat. Namond Lumpkin & Edgar Fletcher)",
+    "uri" : "spotify:track:3A4S0o95OxSgRbqEnEMsn4"
+  }, {
+    "artist" : "Cassie",
+    "album" : "Cassie",
+    "track" : "Me & U",
+    "uri" : "spotify:track:7k6IzwMGpxnRghE7YosnXT"
+  }, {
+    "artist" : "Young Money",
+    "album" : "We Are Young Money",
+    "track" : "EveryGirl In The World",
+    "uri" : "spotify:track:1EjzkhMFJgl08Qkn2uDV1d"
+  }, {
+    "artist" : "Kendrick Lamar",
+    "album" : "DAMN.",
+    "track" : "FEAR.",
+    "uri" : "spotify:track:23luOrEVHMfoX0AhfbQuS6"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "Sorry 4 The Wait",
+    "track" : "Tunechi's Room",
+    "uri" : "spotify:track:6igfKfIgZzGshyHN27ekaB"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "Tha Carter III",
+    "track" : "Mr. Carter",
+    "uri" : "spotify:track:1zigoX1Bxo39a9lIHPxFyR"
+  }, {
+    "artist" : "The Neighbourhood",
+    "album" : "Wiped Out!",
+    "track" : "Single",
+    "uri" : "spotify:track:5Ma3BlNVDtn3JiwMEafSaq"
+  }, {
+    "artist" : "Ludacris",
+    "album" : "Theater Of The Mind",
+    "track" : "MVP",
+    "uri" : "spotify:track:11LdqyGFkn9tHbuKNjCo6B"
+  }, {
+    "artist" : "UGK",
+    "album" : "Ridin' Dirty",
+    "track" : "Diamonds & Wood (feat. Smoke D)",
+    "uri" : "spotify:track:2z8tZ7BZ1GzFIlaPt5qWKx"
+  }, {
+    "artist" : "A$AP Rocky",
+    "album" : "Multiply (feat. Juicy J)",
+    "track" : "Multiply (feat. Juicy J)",
+    "uri" : "spotify:track:21tQ61tNj6qbXbDwmSIPt9"
+  }, {
+    "artist" : "Justin Timberlake",
+    "album" : "FutureSex/LoveSounds",
+    "track" : "Summer Love",
+    "uri" : "spotify:track:1MBM7CyZbwJpVbbZJnHHRg"
+  }, {
+    "artist" : "50 Cent",
+    "album" : "The Massacre",
+    "track" : "Ryder Music",
+    "uri" : "spotify:track:2UPiF4dyPTBKJYrvekbbis"
+  }, {
+    "artist" : "Kendrick Lamar",
+    "album" : "GNX",
+    "track" : "squabble up",
+    "uri" : "spotify:track:0nj9Bq5sHDiTxSHunhgkFb"
+  }, {
+    "artist" : "Baby Bash",
+    "album" : "Super Saucy",
+    "track" : "Baby, I'm Back",
+    "uri" : "spotify:track:6EfyEbyk4XjCisJz90V8Ki"
+  }, {
+    "artist" : "A$AP Rocky",
+    "album" : "AT.LONG.LAST.A$AP",
+    "track" : "Electric Body (feat. ScHoolboy Q)",
+    "uri" : "spotify:track:6br4Pc0BzU6dTD5fEmks2i"
+  }, {
+    "artist" : "Lil Uzi Vert",
+    "album" : "Lil Uzi Vert vs. The World",
+    "track" : "Scott and Ramona",
+    "uri" : "spotify:track:7egGWCqoxtAuo7QgsWw3tm"
+  }, {
+    "artist" : "Sublime",
+    "album" : "Sublime",
+    "track" : "Caress Me Down",
+    "uri" : "spotify:track:2JKlf0IYz5oWsT3OCLyjpO"
+  }, {
+    "artist" : "G-Eazy",
+    "album" : "Lady Killers II",
+    "track" : "Lady Killers II",
+    "uri" : "spotify:track:068AyhyvE67qMRsMXLqAnd"
+  }, {
+    "artist" : "K CAMP",
+    "album" : "IDT - The Mixtape",
+    "track" : "Good Weed Bad B*tch",
+    "uri" : "spotify:track:2Y1daWsVNs2c3osG4ms0Pb"
+  }, {
+    "artist" : "JAY-Z",
+    "album" : "Watch The Throne",
+    "track" : "Why I Love You",
+    "uri" : "spotify:track:4bDPr2VAjcfgUDmN9dGOC3"
+  }, {
+    "artist" : "Mac Miller",
+    "album" : "GO:OD AM",
+    "track" : "Weekend (feat. Miguel)",
+    "uri" : "spotify:track:6GnhWMhgJb7uyiiPEiEkDA"
+  }, {
+    "artist" : "Young Money",
+    "album" : "We Are Young Money",
+    "track" : "Steady Mobbin",
+    "uri" : "spotify:track:3cSuhzV7wKX5diQ8hos78P"
+  }, {
+    "artist" : "Mac Miller",
+    "album" : "GO:OD AM",
+    "track" : "ROS",
+    "uri" : "spotify:track:388jD8ko9cvFM9cd9TYDrl"
+  }, {
+    "artist" : "Ludacris",
+    "album" : "Release Therapy",
+    "track" : "Money Maker",
+    "uri" : "spotify:track:2JpUkUR0OsOlUUfm6iS8ic"
+  }, {
+    "artist" : "Three Days Grace",
+    "album" : "Three Days Grace",
+    "track" : "I Hate Everything About You",
+    "uri" : "spotify:track:0M955bMOoilikPXwKLYpoi"
+  }, {
+    "artist" : "Future",
+    "album" : "DS2",
+    "track" : "The Percocet & Stripper Joint",
+    "uri" : "spotify:track:1yCVsVH2hQ72SxNI8QTDaB"
+  }, {
+    "artist" : "Waka Flocka Flame",
+    "album" : "Brick Squad Boyz",
+    "track" : "Dear Diary (feat. Gucci Mane & OJ Da Juiceman)",
+    "uri" : "spotify:track:4qDFuAYdbOFz7gQh8wRzTO"
+  }, {
+    "artist" : "Soulja Boy",
+    "album" : "souljaboytellem.com",
+    "track" : "Donk",
+    "uri" : "spotify:track:7n2Dqgp4iXd8Zorfj9XSYo"
+  }, {
+    "artist" : "JAY-Z",
+    "album" : "Magna Carta... Holy Grail",
+    "track" : "Holy Grail",
+    "uri" : "spotify:track:37jTPJgwCCmIGMPB45jrPV"
+  }, {
+    "artist" : "Rocko",
+    "album" : "Gift Of Gab 2 (Deluxe Edition)",
+    "track" : "U.O.E.N.O. (feat. Rick Ross, Future)",
+    "uri" : "spotify:track:0HFrCOmhCYXlv4NdEwRAuj"
+  }, {
+    "artist" : "Travis Porter",
+    "album" : "From Day 1",
+    "track" : "Bring It Back",
+    "uri" : "spotify:track:6VWUOFXGwH1OgyPrfRONrn"
+  }, {
+    "artist" : "Rick Ross",
+    "album" : "Deeper Than Rap",
+    "track" : "Yacht Club",
+    "uri" : "spotify:track:2I9gsmUcIzdIwXvbOiy71Q"
+  }, {
+    "artist" : "Mac Miller",
+    "album" : "The Divine Feminine",
+    "track" : "Cinderella (feat. Ty Dolla $ign)",
+    "uri" : "spotify:track:2lpygKqzPFtItQ4ss3cgfb"
+  }, {
+    "artist" : "A$AP Rocky",
+    "album" : "AT.LONG.LAST.A$AP",
+    "track" : "Canal St. (feat. Bones)",
+    "uri" : "spotify:track:0rBMP6VVGRgwnzZCLpijyl"
+  }, {
+    "artist" : "Outkast",
+    "album" : "Aquemini",
+    "track" : "Rosa Parks",
+    "uri" : "spotify:track:0shK5iZQppbHPQYiy60xs9"
+  }, {
+    "artist" : "Afroman",
+    "album" : "The Good Times",
+    "track" : "Crazy Rap (Colt 45 & 2 Zig Zags)",
+    "uri" : "spotify:track:1ACZpHI5vZ5Ea4xGlkdGWM"
+  }, {
+    "artist" : "Glasses Malone",
+    "album" : "GlassHouse 2: Life Ain't Nuthin But...",
+    "track" : "Too Hood (feat. Kirko Bangz & The Game)",
+    "uri" : "spotify:track:5lexcWX5eM5KYhxfY3OfTK"
+  }, {
+    "artist" : "CeCe Peniston",
+    "album" : "Finally",
+    "track" : "Finally",
+    "uri" : "spotify:track:0uqvSVhGgQTIdj9G51vhvv"
+  }, {
+    "artist" : "Rick James",
+    "album" : "Street Songs",
+    "track" : "Super Freak",
+    "uri" : "spotify:track:2dCmGcEOQrMQhMMS8Vj7Ca"
+  }, {
+    "artist" : "JAY-Z",
+    "album" : "The Blueprint",
+    "track" : "Hola' Hovito",
+    "uri" : "spotify:track:3Pwu24LAuzHNm09CvMDLv8"
+  }, {
+    "artist" : "Lil Wayne",
+    "album" : "Sorry 4 The Wait",
+    "track" : "Twist Made Me",
+    "uri" : "spotify:track:4AZKDSYA1qtpiZQBdXno2j"
+  }, {
+    "artist" : "Bone Thugs-N-Harmony",
+    "album" : "Creepin on Ah Come Up",
+    "track" : "Foe Tha Love of $",
+    "uri" : "spotify:track:1muLq1kBLWIT3pmNC2xl0g"
+  }, {
+    "artist" : "Young Thug",
+    "album" : "Slime Season 3",
+    "track" : "Digits",
+    "uri" : "spotify:track:4cg1yakyRSIOjxKM2I7J1q"
+  }, {
+    "artist" : "Ariana Grande",
+    "album" : "Dangerous Woman",
+    "track" : "Let Me Love You",
+    "uri" : "spotify:track:49vZduMPCMnDDrl1WBxUDk"
+  }, {
+    "artist" : "Cam'ron",
+    "album" : "Purple Haze",
+    "track" : "Down And Out",
+    "uri" : "spotify:track:5mEwhCsqadBZIE7SSrv1gC"
+  }, {
+    "artist" : "Snoop Dogg",
+    "album" : "Paid Tha Cost To Be Da Bo$$",
+    "track" : "Beautiful",
+    "uri" : "spotify:track:7FrJV8tydWEv1Mxu2mIQrm"
+  } ],
+  "albums" : [ {
+    "artist" : "Night Moves",
+    "album" : "Pennied Days",
+    "uri" : "spotify:album:6E06hCaPnbNSR2KhVTa7CJ"
+  }, {
+    "artist" : "Lana Del Rey",
+    "album" : "Ultraviolence",
+    "uri" : "spotify:album:1ORxRsK3MrSLvh7VQTF01F"
+  } ],
+  "shows" : [ ],
+  "episodes" : [ {
+    "name" : "Travis Scott - Hell of a night ",
+    "show" : "COMX EL ULTIMX DIA",
+    "uri" : "spotify:episode:7ra0tk3EWo7ZsBPxFIucfS"
+  } ],
+  "bannedTracks" : [ ],
+  "artists" : [ {
+    "name" : "2Pac",
+    "uri" : "spotify:artist:1ZwdS5xdxEREPySFridCfh"
+  }, {
+    "name" : "50 Cent",
+    "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+  }, {
+    "name" : "A$AP Rocky",
+    "uri" : "spotify:artist:13ubrt8QOOCPljQ2FL1Kca"
+  }, {
+    "name" : "André 3000",
+    "uri" : "spotify:artist:74V3dE1a51skRkdII8y2C6"
+  }, {
+    "name" : "Baby Bash",
+    "uri" : "spotify:artist:12PSlydMSjEHzSCj9X5qv7"
+  }, {
+    "name" : "Big Sean",
+    "uri" : "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+  }, {
+    "name" : "Dr. Dre",
+    "uri" : "spotify:artist:6DPYiyq5kWVQS4RGwxzPC7"
+  }, {
+    "name" : "Drake",
+    "uri" : "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+  }, {
+    "name" : "Earl Sweatshirt",
+    "uri" : "spotify:artist:3A5tHz1SfngyOZM2gItYKu"
+  }, {
+    "name" : "Eminem",
+    "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+  }, {
+    "name" : "Ice Cube",
+    "uri" : "spotify:artist:3Mcii5XWf6E0lrY3Uky4cA"
+  }, {
+    "name" : "J. Cole",
+    "uri" : "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+  }, {
+    "name" : "JAY-Z",
+    "uri" : "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+  }, {
+    "name" : "Kendrick Lamar",
+    "uri" : "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+  }, {
+    "name" : "Kid Cudi",
+    "uri" : "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+  }, {
+    "name" : "Lil Wayne",
+    "uri" : "spotify:artist:55Aa2cqylxrFIXC767Z865"
+  }, {
+    "name" : "Mac Miller",
+    "uri" : "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+  }, {
+    "name" : "Outkast",
+    "uri" : "spotify:artist:1G9G7WwrXka3Z1r7aIDjI7"
+  }, {
+    "name" : "ScHoolboy Q",
+    "uri" : "spotify:artist:5IcR3N7QB1j6KBL8eImZ8m"
+  }, {
+    "name" : "T-Pain",
+    "uri" : "spotify:artist:3aQeKQSyrW4qWr35idm0cy"
+  }, {
+    "name" : "The Game",
+    "uri" : "spotify:artist:0NbfKEOTQCcwd6o7wSDOHI"
+  }, {
+    "name" : "The Neighbourhood",
+    "uri" : "spotify:artist:77SW9BnxLY8rJ0RciFqkHh"
+  } ],
+  "bannedArtists" : [ ],
+  "pageMatch" : [ ],
+  "other" : [ ]
+}

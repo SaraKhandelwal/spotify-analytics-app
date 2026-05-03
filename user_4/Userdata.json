@@ -1,0 +1,17 @@
+{
+  "username": "jeffrey13",
+  "email": "qmcclure@example.com",
+  "country": "US",
+  "createdFromFacebook": false,
+  "facebookUid": null,
+  "birthdate": "2004-06-09",
+  "gender": "female",
+  "postalCode": null,
+  "mobileNumber": null,
+  "mobileOperator": null,
+  "mobileBrand": null,
+  "creationTime": "2018-10-14",
+  "assuredEstimatedAge": null,
+  "assuredAgeMethod": null,
+  "assuredAgeTimestamp": null
+}

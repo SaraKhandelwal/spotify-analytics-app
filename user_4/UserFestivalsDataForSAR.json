@@ -1,0 +1,19 @@
+{
+  "festivalId" : "govball2026",
+  "userId" : "90780cb5430b4ac48e902b7b55f73d67",
+  "totalArtistsMatched" : 13,
+  "userLineupMatchPercentile" : 27,
+  "festivalPersona" : "WRISTBAND VETERAN",
+  "topArtists" : [ {
+    "name" : "KATSEYE"
+  }, {
+    "name" : "Stray Kids"
+  }, {
+    "name" : "Kali Uchis"
+  }, {
+    "name" : "JENNIE"
+  }, {
+    "name" : "Lorde"
+  } ],
+  "topDiscoveryArtists" : [ ]
+}
