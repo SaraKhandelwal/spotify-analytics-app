@@ -1,6 +1,6 @@
 """
 Spotify User Behavior Analysis — Phase 2 Dashboard
-Team 11 | Business Analytics Course
+Business Analytics Course
 
 Research Questions:
   RQ1: How do exploration vs. repeat listening behaviors affect user engagement?
@@ -519,7 +519,7 @@ def build_advanced_clusters(rq1_features, rq3_features, rq2_metrics, rq2_session
 # ─────────────────────────────────────────────
 def main():
     st.set_page_config(
-        page_title="Spotify User Behavior Analytics — Team 11",
+        page_title="Spotify User Behavior Analytics",
         page_icon="🎵",
         layout="wide",
         initial_sidebar_state="expanded",
@@ -563,7 +563,7 @@ def main():
     # ── SIDEBAR ──────────────────────────────
     with st.sidebar:
         st.markdown("# 🎵 Spotify Analytics")
-        st.markdown("**Team 11 | Business Analytics**")
+        st.markdown("**Business Analytics**")
         st.markdown("---")
         page = st.radio("Navigate to", [
             "📋 Overview",
@@ -593,7 +593,7 @@ def main():
     # ══════════════════════════════════════════
     if page == "📋 Overview":
         st.title("🎵 Spotify User Behavior Analysis")
-        st.markdown("### Team 11 · Phase 2 · Business Analytics Course")
+        st.markdown("### Business Analytics Course")
         st.markdown("---")
 
         col1, col2 = st.columns([3, 2])
