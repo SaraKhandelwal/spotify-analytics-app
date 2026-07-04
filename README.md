@@ -1,119 +1,104 @@
-# Spotify User Behavior Analytics — Team 11
-## Streamlit Deployment Guide
+# Spotify User Behavior Analytics Dashboard
+
+An interactive Streamlit dashboard designed to analyze and interpret user listening behavior across multiple Spotify accounts. This project explores how users engage with music and podcasts, uncovering behavioral patterns and translating them into actionable insights.
+
+## Key Insights
+
+- **Exploration vs Repeat Behavior**  
+  Understand how frequently users discover new content vs replay existing tracks.
+
+- **Device Usage Patterns**  
+  Analyze how listening behavior varies across devices and time of day.
+
+- **Content Preferences**  
+  Compare music vs podcast consumption and engagement depth.
+
+- **User Segmentation (K-Means Clustering)**  
+  Group users into behavioral segments based on listening habits.
+
+- **Decision-Maker Insights**  
+  Translate data into actionable recommendations using an *insight → action → impact* framework.
 
 ---
 
-### Project Structure
+## Tech Stack
 
-```
-your_repo/
+- **Python**
+- **Pandas**
+- **Scikit-learn**
+- **Plotly**
+- **Streamlit**
+
+---
+
+## Project Structure
+
+
+spotify-analytics/
 ├── app.py
 ├── requirements.txt
-├── README.md               ← this file
-└── Phase 2/                ← Spotify data exports (required)
-    ├── user_1/
-    │   ├── StreamingHistory_music_0.json
-    │   ├── StreamingHistory_podcast_0.json
-    │   └── SearchQueries.json
-    ├── user_2/
-    ├── user_3/
-    ├── user_4/
-    ├── user_5/
-    └── user_6/
-```
+├── README.md
+└── data/
+├── user_1/
+│ ├── StreamingHistory_music_0.json
+│ ├── StreamingHistory_podcast_0.json
+│ └── SearchQueries.json
+├── user_2/
+├── user_3/
+├── user_4/
+├── user_5/
+└── user_6/
+
 
 ---
 
-### Running Locally
+## Running Locally
 
-1. **Install Python 3.10+** (if not already installed)
+### 1. Install dependencies
+```bash
+pip install -r requirements.txt
 
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+### 2. Add data
 
-3. **Place data:** Put the `Phase 2/` folder in the same directory as `app.py`
+Place the data/ folder in the same directory as app.py.
 
-4. **Launch the app:**
-   ```bash
-   streamlit run app.py
-   ```
-   The app will open at `http://localhost:8501`
+### 3. Run the app
+streamlit run app.py
 
----
+App will open at:
+http://localhost:8501
 
-### Deploying to Streamlit Community Cloud (Free)
+🌐 Deployment (Streamlit Cloud)
+Push this repository to GitHub
+Go to Streamlit Cloud
+Click New App
+Select your repo and branch
+Set main file to:
+app.py
+Click Deploy
+🔒 Data Note
 
-#### Step 1 — Create a GitHub repository
-1. Go to [github.com](https://github.com) → **New Repository**
-2. Name it something like `spotify-analytics-team11`
-3. Set visibility to **Private** (recommended, since data is personal)
+This project uses Spotify data export files.
+For privacy reasons, raw datasets are not included in the public repository.
 
-#### Step 2 — Upload your files
-Upload these files to the repo root:
-- `app.py`
-- `requirements.txt`
-- The entire `Phase 2/` folder (with all user subfolders)
+A sample folder structure is provided to replicate the setup.
 
-  Via GitHub web UI: drag-and-drop files, or use Git:
-  ```bash
-  git init
-  git add app.py requirements.txt requirements.txt "Phase 2/"
-  git commit -m "Initial commit"
-  git remote add origin https://github.com/YOUR_USERNAME/spotify-analytics-team11.git
-  git push -u origin main
-  ```
+📊 App Pages
+Page	Description
+📋 Overview	Problem statement, KPIs, and analytical approach
+📊 Data Summary	Listening patterns, play counts, and distributions
+🔍 Exploration vs Repeat	Content discovery vs repeat behavior
+📱 Device Usage	Device-based listening patterns
+🎙️ Content Preferences	Music vs podcast engagement
+🧩 Segmentation	K-Means clustering and user profiles
+💡 Insights	Actionable recommendations
+🧠 Key Learnings
+Behavioral data analysis and feature engineering
+Clustering and user segmentation using K-Means
+Translating analytics into business insights
+Building interactive dashboards with Streamlit
+💻 Author
 
-#### Step 3 — Deploy on Streamlit Cloud
-1. Go to [share.streamlit.io](https://share.streamlit.io)
-2. Click **"New app"**
-3. Connect your GitHub account
-4. Select your repository and branch (`main`)
-5. Set **Main file path** to `app.py`
-6. Click **Deploy**
+Sara Khandelwal
 
-The app will be live at:
-`https://YOUR_USERNAME-spotify-analytics-team11-app-HASH.streamlit.app`
-
----
-
-### Notes on Data Privacy
-
-- The `Phase 2/` folder contains personal Spotify data exports.
-- Keep the repository **private** if deploying to Streamlit Cloud.
-- Only share the deployment URL with course instructors and teammates.
-- No data is sent to external services — all processing happens locally.
-
----
-
-### App Pages
-
-| Page | Content |
-|------|---------|
-| 📋 Overview | Problem statement, research questions, analytical approach, KPIs |
-| 📊 Data Summary | Per-user play counts, listening hours, hourly distribution, raw data preview |
-| 🔍 RQ1 · Exploration vs Repeat | Exploration rate chart, engagement comparison, session depth, correlation heatmap |
-| 📱 RQ2 · Device Usage Patterns | Session behavior by device, content mix, time-of-day breakdown |
-| 🎙️ RQ3 · Content Preferences | Skip rate vs podcast share, listening depth, temporal patterns |
-| 🧩 Cluster Segmentation | Unified K-Means segmentation with business labels, feature profiles |
-| 💡 Decision-Maker Insights | 6 actionable recommendations with insight → action → impact structure |
-
----
-
-### Troubleshooting
-
-**"Data directory not found"**
-→ Make sure the `Phase 2/` folder is in the same directory as `app.py`.
-   The app searches for a folder named exactly `Phase 2`.
-
-**Charts are blank**
-→ Check that `StreamingHistory_music_*.json` files exist in at least one user subfolder.
-
-**Slow initial load**
-→ The first load processes ~100k records. Streamlit caches all computations —
-   subsequent page navigations will be instant.
-
-**Streamlit Cloud memory error**
-→ Free tier has 1 GB RAM. With 7 users and ~100k records, this should be fine.
-   If you add more users, consider upgrading or reducing the dataset.
+If you found this interesting feel free to star the repo or connect with me on LinkedIn!
