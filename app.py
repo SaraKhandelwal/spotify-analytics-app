@@ -1,5 +1,5 @@
 """
-Spotify User Behavior Analysis — Phase 2 Dashboard
+Spotify User Behavior Analysis
 Business Analytics Course
 
 Research Questions:
